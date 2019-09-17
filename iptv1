@@ -1,4 +1,364 @@
 #EXTM3U
+#EXTINF:-1,&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1,&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1,9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1,4 Music
+https://live2.hoolatv.com/live/4music_hi/playlist.m3u8
+#EXTINF:-1,5 Star
+https://live2.hoolatv.com/live/5star_hi/playlist.m3u8
+#EXTINF:-1,ABC 10
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,ABC 10 US
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1,ABC 7
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
+#EXTINF:-1,ABC HD
+http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
+#EXTINF:-1,ABC NEWS
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-b.m3u8
+#EXTINF:-1,Adult Swim
+http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master.m3u8
+#EXTINF:-1,AD SPORT 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,AD SPORT 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ANIMALS PLANET
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1,Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+#EXTINF:-1,BBC Alba
+https://live2.hoolatv.com/live/bbcalba_hi/playlist.m3u8
+#EXTINF:-1,BBC Four
+https://live2.hoolatv.com/live/bbcfour_hi/playlist.m3u8
+#EXTINF:-1,BBC One
+https://live2.hoolatv.com/live/bbcone_hi/playlist.m3u8
+#EXTINF:-1,BBC One NI
+https://live2.hoolatv.com/live/bbconeni_hi/playlist.m3u8
+#EXTINF:-1,BBC One Parliament
+https://live2.hoolatv.com/live/bbcparliament_hi/playlist.m3u8
+#EXTINF:-1,BBC One Scotland
+https://live2.hoolatv.com/live/bbconescotland_hi/playlist.m3u8
+#EXTINF:-1,BBC One Wales
+https://live2.hoolatv.com/live/bbconewales_hi/playlist.m3u8
+#EXTINF:-1,BBC Two
+https://live2.hoolatv.com/live/bbctwo_hi/playlist.m3u8
+#EXTINF:-1,BBC World
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1,BBC World News
+http://92.43.140.249/s24/04.m3u8
+#EXTINF:-90.,BOOMERANG
+http://185.246.209.109:8080/BOOMERANG/index.m3u8
+#EXTINF:-1,Bravo
+http://161.0.157.7/PLTV/88888888/224/3221226804/index.m3u8
+#EXTINF:-1,Bloomberg
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+#EXTINF:-1,CARTOON NETWORK SD
+http://162.210.195.121:8080/CartoonNetwork/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Cartoon Network
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
+#EXTINF:-1,CBBC
+https://live2.hoolatv.com/live/cbbc_hi/playlist.m3u8
+#EXTINF:-1,Cbeebies
+https://live2.hoolatv.com/live/cbeebies_hi/playlist.m3u8
+#EXTINF:-1,CBS
+http://190.80.3.28/CBS/CBS.isml/index.m3u8
+#EXTINF:-1,CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,CBS Sports
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
+#EXTINF:-1,Channel 4
+https://live2.hoolatv.com/live/channel4_hi/playlist.m3u8
+#EXTINF:-1,Channel 5
+https://live2.hoolatv.com/live/channel5_hi/playlist.m3u8
+#EXTINF:-1,Channel 5 USA
+https://live2.hoolatv.com/live/5usa_hi/playlist.m3u8
+#EXTINF:-1,Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1,CINEMAX MOREMAX HD
+http://185.246.209.109:8080/MOREMAX/tracks-v1a1/index.m3u8
+#EXTINF:-1,CNBC
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,CNN HD
+http://185.246.209.109:8080/CNN/tracks-v1a1/index.m3u8
+#EXTINF:-1,CNN US HD
+https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
+#EXTINF:-1,CNN international
+http://ott-cdn.ucom.am/s27/index.m3u8
+#EXTINF:-1,CNN India
+http://cnn_ibn_hls-lh.akamaihd.net/i/cnn_ibn_hls_n_1@174950/index_3_av-b.m3u8
+#EXTINF:-1,Comedy Central
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,COMET
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1,CW Local
+http://190.80.3.28/CW/CW.isml/index.m3u8
+#EXTINF:-1,CW
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,CW HD
+http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
+#EXTINF:-1,Dave
+https://live2.hoolatv.com/live/dave_hi/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1,Disney Junior
+https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
+#EXTINF:-1,EPIX HITS HD
+http://185.246.209.109:8080/EPIX_HITS/tracks-v1a1/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://185.246.209.109:8080/ESPN2/tracks-v1a1/index.m3u8
+#EXTINF:-1,ESPN CLASSIC HD
+http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
+#EXTINF:-1,ESPN NEWS HD
+http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
+#EXTINF:-1,ET LIVE
+http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
+#EXTINF:-1,E4
+https://live2.hoolatv.com/live/e4_hi/playlist.m3u8
+#EXTINF:-1,Fox HD
+http://190.80.3.28/FOX/FOX.isml/index.m3u8
+#EXTINF:-1,Fox 5
+http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
+#EXTINF:-1,Fox 5 News
+http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
+#EXTINF:-1,FLOW Sports 1 HD
+http://161.0.157.9/PLTV/88888888/224/3221226899/index.m3u8
+#EXTINF:-1,FOX Business Network
+https://1674331492.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FOX BUSINESS US HD
+http://185.246.209.109:8080/FOX_BUSINESS/tracks-v1a1/index.m3u8
+#EXTINF:-1,Fox Sports
+https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,FS1 HD
+http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
+#EXTINF:-1,FS1 HD US
+http://162.210.198.17:8080/FOXSPORTS1FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FS2 HD US
+http://162.210.198.17:8080/FoxSports2FHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FUSE HD
+http://185.246.209.109:8080/FUSE/tracks-v1a1/index.m3u8
+#EXTINF:-1,FUSION TV HD
+http://185.246.209.109:8080/FUSION/tracks-v1a1/index.m3u8
+#EXTINF:-1,Hallmark Movies US
+http://23.237.22.82:8086/udp/127.0.0.1:56067
+#EXTINF:-1,HBO_ZONE HD
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
+#EXTINF:-1,HGTV US
+http://23.237.22.82:8086/udp/127.0.0.1:56069
+#EXTINF:-1,HISTORY 2
+http://185.246.209.109:8080/HISTORY2/index.m3u8
+#EXTINF:-1,HSN
+http://185.246.209.109:8080/HSN/index.m3u8
+#EXTINF:-1,ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1,IFC HD
+http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
+#EXTINF:-1,ITV 1
+https://live2.hoolatv.com/live/itv_hi/playlist.m3u8
+#EXTINF:-1,ITV 2
+https://live2.hoolatv.com/live/itv2_hi/playlist.m3u8
+#EXTINF:-1,ITV 3
+https://live2.hoolatv.com/live/itv3_hi/playlist.m3u8
+#EXTINF:-1,ITV 4
+https://live2.hoolatv.com/live/itv4_hi/playlist.m3u8
+#EXTINF:-1,ITV BE
+https://live2.hoolatv.com/live/itvbe_hi/playlist.m3u8
+#EXTINF:-1,LOGO TV HD
+http://185.246.209.109:8080/LOGO/tracks-v1a1/index.m3u8
+#EXTINF:-1,MAV TV HD
+http://185.246.209.109:8080/MAV_TV/tracks-v1a1/index.m3u8
+#EXTINF:-1,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1,MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,More 4
+https://live2.hoolatv.com/live/more4_hi/playlist.m3u8
+#EXTINF:-1,Movies4men
+https://live2.hoolatv.com/live/movies4men_hi/playlist.m3u8
+#EXTINF:-1,MSG
+http://185.246.209.109:8080/MSG/index.m3u8
+#EXTINF:-1,MSG Plus
+http://185.246.209.109:8080/MSG+/index.m3u8
+#EXTINF:-1,MSNBC HD
+http://23.237.22.82:8086/udp/127.0.0.1:56079
+#EXTINF:-1,MSNBC
+https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,MTV
+http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
+#EXTINF:-1,MTV Live HD
+http://91.197.48.162/ePgziP2vdP/mpegts?auth=22EKM33O74X3D
+#EXTINF:-1,MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,my9
+http://161.0.157.9/PLTV/88888888/224/3221226727/index.m3u8
+#EXTINF:-1,NAT GEO HD
+http://185.246.209.109:8080/NAT_GEO/index.m3u8
+#EXTINF:-1,NBC 6
+http://190.80.3.28/NBC/NBC.isml/index.m3u8
+#EXTINF:-1,NBA US HD
+http://185.246.209.109:8080/NBA_TV/tracks-v1a1/index.m3u8
+#EXTINF:-1,NBA US
+http://23.237.22.82:8086/udp/127.0.0.1:56052
+#EXTINF:-1,NBC 4 News Washington DC
+https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
+#EXTINF:-1,NBC GOLF
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+#EXTINF:-1,NBCSN
+http://23.237.22.82:8086/udp/127.0.0.1:56016
+#EXTINF:-1,NBC Sports Bay Area
+http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
+#EXTINF:-1,NBC Sports Boston
+http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
+#EXTINF:-1,NBC Sports California
+http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
+#EXTINF:-1,NBC Sports Chicago
+http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/2596k/prog.m3u8
+#EXTINF:-1,NBC Sports Northwest
+http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
+#EXTINF:-1,NBC Sports Philadelphia Plus
+http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/2596k/prog.m3u8
+#EXTINF:-1,NFL NETWORK
+http://23.237.22.82:8086/udp/127.0.0.1:56050
+#EXTINF:-1,NFL NOW HD
+http://185.246.209.109:8080/NFL_NOW/index.m3u8
+#EXTINF:-1,NHL NETWORK
+http://185.246.209.109:8080/NHL_NETWORK/index.m3u8
+#EXTINF:-1,Nick
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,Nick Jr.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,NICK JR. HD
+http://185.246.209.109:8080/NICKJR/index.m3u8
+#EXTINF:-1,Olympic Channel 1
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1,Olympic Channel 2
+https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
+#EXTINF:-1,Olympic Channel 3
+https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
+#EXTINF:-1,Olympic Channel 4
+https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
+#EXTINF:-1,Olympic Channel 5
+https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
+#EXTINF:-1,Olympic Channel 6
+https://ott-live.olympicchannel.com/out/u/OC6_1.m3u8
+#EXTINF:-1,Olympic Channel 7
+https://ott-live.olympicchannel.com/out/u/OC7_1.m3u8
+#EXTINF:-1,Olympic Channel 8
+https://ott-live.olympicchannel.com/out/u/OC8_1.m3u8
+#EXTINF:-1,Olympic Channel 9
+https://ott-live.olympicchannel.com/out/u/OC9_1.m3u8
+#EXTINF:-1,Olympic Channel 10
+https://ott-live.olympicchannel.com/out/u/OC10_1.m3u8
+#EXTINF:-1,Olympic Channel 11
+https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
+#EXTINF:-1,Olympic Channel 12
+https://ott-live.olympicchannel.com/out/u/OC12_1.m3u8
+#EXTINF:-1,OUTDOOR HD
+http://185.246.209.109:8080/OUTDOOR/tracks-v1a1/index.m3u8
+#EXTINF:-1,PBS Kids
+http://190.80.3.28/PBS/PBS.isml/index.m3u8
+#EXTINF:-1,Pop
+https://bcsecurelivehls-i.akamaihd.net/hls/live/505785/5367332899001/master.m3u8
+#EXTINF:-1,POP TV HD
+http://185.246.209.109:8080/POP/tracks-v1a1/index.m3u8
+#EXTINF:-1,Quest
+https://live2.hoolatv.com/live/quest_hi/playlist.m3u8
+#EXTINF:-1,Quest Red
+https://live2.hoolatv.com/live/questred_hi/playlist.m3u8
+#EXTINF:-1,QVC1
+http://qvclvp2.mmdlive.lldns.net/qvclvp2/cd5bfeab75a34ba18301490388fd4daa/manifest.m3u8
+#EXTINF:-1,QVC
+http://185.246.209.109:8080/QVC/index.m3u8
+#EXTINF:-1,QVC 1 (UK)
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
+#EXTINF:-1,QVC 2 (UK)
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/1/prog_index.m3u8
+#EXTINF:-1,QVC 3 (UK)
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi6/1/prog_index.m3u8
+#EXTINF:-1,QVC 4 (UK)
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1,REELZ HD
+http://185.246.209.109:8080/REELZ/tracks-v1a1/index.m3u8
+#EXTINF:-1,REVOLT HD
+http://185.246.209.109:8080/REVOLT/index.m3u8
+#EXTINF:-1,REDBULL TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1,S4C
+https://live2.hoolatv.com/live/s4c_hi/playlist.m3u8
+#EXTINF:-1,SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
+#EXTINF:-1,Science Channel
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1,SONY TEN1
+http://163.172.85.133:8080/TenS/1/index.m3u8
+#EXTINF:-1,SONY TEN2
+http://163.172.85.133:8080/TenS/2/index.m3u8
+#EXTINF:-1,SONY TEN3
+http://163.172.85.133:8080/TenS/3/index.m3u8
+#EXTINF:-1,Stadium
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,SPIKE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,Sportsman
+http://185.246.209.109:8080/SPORTSMAN/index.m3u8
+#EXTINF:-1,Sportsnet One
+http://185.246.209.109:8080/SPORTSNET_ONE/index.m3u8
+#EXTINF:-1,Sportsnet Ontario
+http://185.246.209.109:8080/SPORTSNET_ONTARIO/index.m3u8
+#EXTINF:-1,SHOWTIME
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1,SHOWTIME_SHOWCASE HD
+http://185.246.209.109:8080/SHOWTIME_SHOWCASE/index.m3u8
+#EXTINF:-1,SMITHSONIAN HD
+http://185.246.209.109:8080/SMITHSONIAN/index.m3u8
+#EXTINF:-1,SUNDANCE HD
+http://185.246.209.109:8080/SUNDANCE/tracks-v1a1/index.m3u8
+#EXTINF:-1,SYFY HD
+http://185.246.209.109:8080/SYFY/index.m3u8
+#EXTINF:-1,SYFY
+http://23.237.22.82:8086/udp/127.0.0.1:56063
+#EXTINF:-1,TBS
+http://185.246.209.109:8080/TBS/index.m3u8
+#EXTINF:-1,TCM HD
+http://185.246.209.109:8080/TCM/index.m3u8
+#EXTINF:-1,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1,TSN 2 HD
+http://185.246.209.109:8080/TSN2/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV ONE HD
+http://185.246.209.109:8080/TVONE/tracks-v1a1/index.m3u8
+#EXTINF:-1,Universal Channel HD
+http://161.0.157.9/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1,Food Network HD
+http://23.237.22.82:8086/udp/127.0.0.1:56070
+#EXTINF:-1,UFC FIGHT PASS
+http://185.246.209.109:8080/UFC_FIGHT_PASS/index.m3u8
+#EXTINF:-1,UNIVISION HD
+http://185.246.209.109:8080/UNIVISION/tracks-v1a1/index.m3u8
+#EXTINF:-1,USA NETWORK
+http://23.237.22.82:8086/udp/127.0.0.1:56054
+#EXTINF:-1,VH1
+http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?ct=c&ad.locationDesc=vh1_channel&ad.cust_params=_fw_ae%3D53da17a30bd0d3c946a41c86cb5873f1%26_vmn_ar%3Dtrue&expand=simulcast_standard&ad.kv=_fw_ae%2C53da17a30bd0d3c946a41c86cb5873f1%2C_vmn_ar%2Ctrue%2C_fw_vcid2%2C82125:vh1_67b04b0c30774b06ad1ec820ee7d0beb&delay=10800&euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&exp=1531977295&rn=1284714433&ad.euid=67b04b0c-3077-4b06-ad1e-c820ee7d0beb&cid=7a16e3d5ffd0413ba4d8ac89688ed7cd&tc=1&sig=b3143cb0429574cc3c877de30e62fab7d66c763ec2f61cd9bfde33fdab12dfb7&pbs=62317bc417264eaeb05c22777b5c8697
+#EXTINF:-1,WGN NETWORK HD
+http://185.246.209.109:8080/WGN/tracks-v1a1/index.m3u8
+#EXTINF:-1,Weather Channel
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
+#EXTINF:-1,Willow Tv
+http://globalbd.mywire.org:8081/globe/willow/playlist.m3u8
+#EXTINF:-1,WWE TV HD
+http://162.210.195.121:8080/WWETVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Zee Cafe HD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Gerado por Testador IPTV(PlayStore)"  group-title="Testador IPTV",Gerado por Testador IPTV(PlayStore)
 https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
