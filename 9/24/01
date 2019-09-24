@@ -5,5 +5,5 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1, tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" tvg-name="The Weather Channel"  group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
-#EXTINF:-1, tvg-id="TNT.us" tvg-logo="https://i.imgur.com/LqmmkNs.png" tvg-name="TNT International"  group-title="RUSSIA",TNT International
-http://ott-cdn.ucom.am/s19/04.m3u8
+#EXTINF:-1, tvg-id="TBS.us" tvg-logo="http://www.scribblrs.com/wp-content/uploads/2017/07/tbs.png" tvg-name="TBS (USA)"  group-title="ENTERTAINMENT",TBS (USA)
+http://170.250.96.20:8117/streams/TBS.m3u8?fluxustv.m3u8
