@@ -4,4 +4,4 @@ http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="&flex.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png"  tvg-name="&Flix HD"  group-title="USA",&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1, tvg-id="WeatherNation.us" tvg-logo="https://i.imgur.com/uUb3vwe.png" tvg-name="Weather Nation"  group-title="USA",Weather Nation
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
