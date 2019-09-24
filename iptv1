@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
-http://cdnak2.cast4u.info/channels/3/10803.m3u8?fluxustv.m3u8
+http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1,&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1,&Prive HD
