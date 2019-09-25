@@ -19,8 +19,6 @@ https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="TCNKSAODT7.us" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782832_logo_the_country_network.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
-#EXTINF:-1, tvg-id="CBSWFOR.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFOR) (EST)
-http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1, tvg-id="WEWSTV4.us" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
 #EXTINF:-1, tvg-id="HBO2.us" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
@@ -101,5 +99,41 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14572.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14571.m3u8
 #EXTINF:-1, tvg-id="ABCWFTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WFTV) (ORLANDO)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14571.ts
+#EXTINF:-1, tvg-id="ABCWISN.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WISN) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14570.m3u8
+#EXTINF:-1, tvg-id="ABCWISN.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WISN) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14570.ts
+#EXTINF:-1, tvg-id="ABCWKRN.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WKRN) (NASHVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14569.m3u8
+#EXTINF:-1, tvg-id="ABCWKRN.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WKRN) (NASHVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14569.ts
+#EXTINF:-1, tvg-id="ABC7WLS.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WKRN) (CHICAGO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14568.m3u8
+#EXTINF:-1, tvg-id="ABC7WLS.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WKRN) (CHICAGO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14568.ts
+#EXTINF:-1, tvg-id="ABC10WPLG.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WPLG) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14567.m3u8
+#EXTINF:-1, tvg-id="ABC10WPLG.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WPLG) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14567.ts
+#EXTINF:-1, tvg-id="ABC7KABCTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KBAC) (LOS ANGELOS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14445.m3u8
+#EXTINF:-1, tvg-id="ABC7KABCTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KBAC) (LOS ANGELOS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14445.ts
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC () ()
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14443.m3u8
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC () ()
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14443.ts
+#EXTINF:-1, tvg-id="ABCWSYX.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WSYZ) (COLUMBUS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14562.m3u8
+#EXTINF:-1, tvg-id="ABCWSYX.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WSYZ) (COLUMBUS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14562.ts
+#EXTINF:-1, tvg-id="ABC7WXYZ.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WXYZ) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14558.m3u8
+#EXTINF:-1, tvg-id="ABC7WXYZ.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WXYZ) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14558.ts
+#EXTINF:-1, tvg-id="CBSWFOR.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFOR) (EST)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+
+
 
 
