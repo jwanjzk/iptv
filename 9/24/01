@@ -25,5 +25,7 @@ http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1, tvg-id="WEWSTV4.us" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-#EXTINF:-1, tvg-id="ESPNNews.us" tvg-logo="https://i.imgur.com/1TfdG4l.png" group-title="USA",ESPN News
-http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="USA",HBO Zone
+http://185.246.209.109:8080/HBO_ZONE/index.m3u8
