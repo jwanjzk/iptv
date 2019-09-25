@@ -33,3 +33,9 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14588.m3u8
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14396.m3u8
 #EXTINF:-1, tvg-id="YESNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/200px-YES_Network_logo.png" group-title="USA",YES NETWORK
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14691.m3u8
+#EXTINF:-1, tvg-id="ABCWTAE.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WTAE) (PITTSBURGH)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14561.m3u8
+#EXTINF:-1, tvg-id="ABCWSOC.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WSOC) (CHARLOTTE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14563.m3u8
+
+
