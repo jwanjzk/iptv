@@ -77,3 +77,29 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14581.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/1458O.m3u8
 #EXTINF:-1, tvg-id="ABCKSAT.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KSAT) (SAN ANTONIO)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/1458O.ts
+#EXTINF:-1, tvg-id="ABCKSTP.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KSTP) (SAINT PAUL)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14578.m3u8
+#EXTINF:-1, tvg-id="ABCKSTP.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KSTP) (SAINT PAUL)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14578.m3u8
+#EXTINF:-1, tvg-id="ABCKTVX.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KTVX) (SALT LAKE CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14576.m3u8
+#EXTINF:-1, tvg-id="ABCKTVX.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KTVX) (SALT LAKE CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14576.ts
+#EXTINF:-1, tvg-id="ABCKXTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KXTV) (SACRAMENTO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14575.m3u8
+#EXTINF:-1, tvg-id="ABCKXTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KXTV) (SACRAMENTO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14575.ts
+#EXTINF:-1, tvg-id="ABCWCVB.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WCVB) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14574.m3u8
+#EXTINF:-1, tvg-id="ABCWCVB.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WCVB) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14574.ts
+#EXTINF:-1, tvg-id="ABC8WFAA.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WFAA) (DALLAS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14572.m3u8
+#EXTINF:-1, tvg-id="ABC8WFAA.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WFAA) (DALLAS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14572.ts
+#EXTINF:-1, tvg-id="ABCWFTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WFTV) (ORLANDO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14571.m3u8
+#EXTINF:-1, tvg-id="ABCWFTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (WFTV) (ORLANDO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14571.ts
+
+
