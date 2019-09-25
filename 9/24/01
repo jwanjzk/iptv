@@ -169,6 +169,88 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14543.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14540.m3u8
 #EXTINF:-1, tvg-id="CBSWBNS.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WBNS) (COLUMBUS)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14540.ts
+#EXTINF:-1, tvg-id="CBSWBTV.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WBTV) (CHARLOTTE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14539.m3u8
+#EXTINF:-1, tvg-id="CBSWBTV.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WBTV) (CHARLOTTE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14539.ts
+#EXTINF:-1, tvg-id="CBSWCCO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WCCO) (MINNEAPOLIS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14537.m3u8
+#EXTINF:-1, tvg-id="CBSWCCO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WCCO) (MINNEAPOLIS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14537.ts
+#EXTINF:-1, tvg-id="CBS17WNCN.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFMY) (GREENSBORO NC)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14535.m3u8
+#EXTINF:-1, tvg-id="CBS17WNCN.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFMY) (GREENSBORO NC)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14535.ts
+#EXTINF:-1, tvg-id="CBS46WGCL.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WGCL) (ATLANTA)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14533.m3u8
+#EXTINF:-1, tvg-id="CBS46WGCL.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WGCL) (ATLANTA)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14533.ts
+#EXTINF:-1, tvg-id="CBSWKMG.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WKMG) (ORLANDO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14529.m3u8
+#EXTINF:-1, tvg-id="CBSWKMG.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WKMG) (ORLANDO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14529.ts
+#EXTINF:-1, tvg-id="CBSWTSP.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WTSP) (ST. PETERSBURG)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14526.m3u8
+#EXTINF:-1, tvg-id="CBSWTSP.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WTSP) (ST. PETERSBURG)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14526.ts
+#EXTINF:-1, tvg-id="CBS62WWJ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WWJ) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14523.m3u8
+#EXTINF:-1, tvg-id="CBS62WWJ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WWJ) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14523.ts
+#EXTINF:-1, tvg-id="CBS62WWJ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS () (EAST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14410.m3u8
+#EXTINF:-1, tvg-id="CBS62WWJ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS () (EAST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14410.ts
+#EXTINF:-1, tvg-id="CBS5KCTV.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KCTV) (KANSAS CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14555.m3u8
+#EXTINF:-1, tvg-id="CBS5KCTV.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KCTV) (KANSAS CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14555.ts
+#EXTINF:-1, tvg-id="CBSKFMB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KFMB) (SAN DIEGO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14552.m3u8
+#EXTINF:-1, tvg-id="CBSKFMB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KFMB) (SAN DIEGO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14552.ts
+#EXTINF:-1, tvg-id="CBSKGMB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KGMB) (HONOLULU)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14551.m3u8
+#EXTINF:-1, tvg-id="CBSKGMB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KGMB) (HONOLULU)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14551.ts
+#EXTINF:-1, tvg-id="CBSKIRO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KIRO) (SEATTLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14549.m3u8
+#EXTINF:-1, tvg-id="CBSKIRO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KIRO) (SEATTLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14549.ts
+#EXTINF:-1, tvg-id="CBSKPHO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KPHO) (PHOENIX)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14545.m3u8
+#EXTINF:-1, tvg-id="CBSKPHO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (KPHO) (PHOENIX)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14545.ts
+#EXTINF:-1, tvg-id="CBSWBZ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WBZ) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14538.m3u8
+#EXTINF:-1, tvg-id="CBSWBZ.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WBZ) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14538.ts
+#EXTINF:-1, tvg-id="CBSWDJT.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WDJT) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14536.m3u8
+#EXTINF:-1, tvg-id="CBSWDJT.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WDJT) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14536.ts
+#EXTINF:-1, tvg-id="CBSWDJT.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS () (WEST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14411.m3u8
+#EXTINF:-1, tvg-id="CBSWDJT.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS () (WEST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14411.ts
+#EXTINF:-1, tvg-id="CBSWFSB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFSB) (HARTFORD)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14534.m3u8
+#EXTINF:-1, tvg-id="CBSWFSB.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WFSB) (HARTFORD)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14534.ts
+#EXTINF:-1, tvg-id="CBSWGME.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WGME) (PORTLAND MA)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14532.m3u8
+#EXTINF:-1, tvg-id="CBSWGME.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (WGME) (PORTLAND MA)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14532.ts
+#EXTINF:-1, tvg-id="CBS7WHIO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (Whio) (DAYTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14532.m3u8
+#EXTINF:-1, tvg-id="CBS7WHIO.us" tvg-logo="https://i.imgur.com/pMhTxmf.png" group-title="CBS",CBS (Whio) (DAYTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14532.m3u8
+
+
+
+
+
+
 
 
 
