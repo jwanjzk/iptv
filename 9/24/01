@@ -62,10 +62,18 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14587.m3u8
 #EXTINF:-1, tvg-id="ABCKDNL.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KDNL) (ST. LOUIS)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14587.ts
 #EXTINF:-1, tvg-id="ABCKGO.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KGO) (SAN FRANCISCO)
-http://51.79.72.114:25461/live/8823432235356/2883277238943/14585.M3U8
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14585.m3u8
 #EXTINF:-1, tvg-id="ABCKGO.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KGO) (SAN FRANCISCO)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14585.ts
-
-
-
-
+#EXTINF:-1, tvg-id="ABCKGTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KMGH) (DENVER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14583.m3u8
+#EXTINF:-1, tvg-id="ABCKGTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KMGH) (DENVER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14583.ts
+#EXTINF:-1, tvg-id="ABCKOMO.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KOMO) (SEATTLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14581.m3u8
+#EXTINF:-1, tvg-id="ABCKOMO.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KOMO) (SEATTLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14581.ts
+#EXTINF:-1, tvg-id="ABCKSAT.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KSAT) (SAN ANTONIO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/1458O.m3u8
+#EXTINF:-1, tvg-id="ABCKSAT.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KSAT) (SAN ANTONIO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/1458O.ts
