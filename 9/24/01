@@ -21,11 +21,11 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1, tvg-id="WEWSTV4.us" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-#EXTINF:-1, tvg-id="HBO2.us" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+#EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="MOVIE",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
-#EXTINF:-1, tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="USA",CINEMAX
+#EXTINF:-1, tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",CINEMAX
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14396.m3u8
-#EXTINF:-1, tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="USA",CINEMAX
+#EXTINF:-1, tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",CINEMAX
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14396.ts
 #EXTINF:-1, tvg-id="YESNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/200px-YES_Network_logo.png" group-title="USA",YES NETWORK
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14691.m3u8
@@ -35,8 +35,34 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14691.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14332.m3u8
 #EXTINF:-1, tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="MOVIE",HBO
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14332.ts
-
-
+#EXTINF:-1, tvg-id="HBOZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HBO_Zone_Logo.png/125px-HBO_Zone_Logo.png" group-title="MOVIE",HBO ZONE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14330.m3u8
+#EXTINF:-1, tvg-id="HBOZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HBO_Zone_Logo.png/125px-HBO_Zone_Logo.png" group-title="MOVIE",HBO ZONE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14330.ts
+#EXTINF:-1, tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HBO_Signature_Logo.png/125px-HBO_Signature_Logo.png" group-title="MOVIE",HBO SIGNATURE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14331.m3u8
+#EXTINF:-1, tvg-id="HBOSignature.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/HBO_Signature_Logo.png/125px-HBO_Signature_Logo.png" group-title="MOVIE",HBO SIGNATURE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14331.ts
+#EXTINF:-1, tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="MOVIE",SHOWTIME
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14266.m3u8
+#EXTINF:-1, tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="MOVIE",SHOWTIME
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14266.ts
+#EXTINF:-1, tvg-id="Showtime2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/125px-Showtime_2_logo.svg.png" group-title="MOVIE",SHOWTIME 2
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14266.m3u8
+#EXTINF:-1, tvg-id="Showtime2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/125px-Showtime_2_logo.svg.png" group-title="MOVIE",SHOWTIME 2
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14266.ts
+#EXTINF:-1, tvg-id="ShowtimeBeyond.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE",SHOWTIME BEYOND
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14265.m3u8
+#EXTINF:-1, tvg-id="ShowtimeBeyond.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE",SHOWTIME BEYOND
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14265.ts
+#EXTINF:-1, tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE",SHOWTIME NEXT
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14262.m3u8
+#EXTINF:-1, tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE",SHOWTIME NEXT
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14262.ts
+#EXTINF:-1, tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE",SHOWTIME SHOWCASE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14261.m3u8
+#EXTINF:-1, tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE",SHOWTIME SHOWCASE
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14261.ts
 
 
 #EXTINF:-1, tvg-id="ABC7KABCTV.us" tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC (KABC) (PST)
