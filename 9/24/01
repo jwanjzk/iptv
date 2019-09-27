@@ -20,7 +20,7 @@ https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x4
 #EXTINF:-1, tvg-id="TCNKSAODT7.us" tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3782832_logo_the_country_network.png" group-title="USA",The Country Network
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1, tvg-id="WEWSTV4.us" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
+https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.ts
 #EXTINF:-1, tvg-id="" tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="MOVIE",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.ts
 #EXTINF:-1, tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",CINEMAX
