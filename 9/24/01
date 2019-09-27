@@ -3,7 +3,7 @@
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14222.ts
 #EXTINF:-1, tvg-id="&flex.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png"  tvg-name="&Flix HD"  group-title="USA",&Flix HD
-http://pockettv.xyz/api/zee.ts?c=andflixhd
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1, tvg-id="WeatherChannel.us" tvg-logo="https://i.imgur.com/D4vJyy9.png" tvg-name="The Weather Channel"  group-title="USA",The Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" tvg-name="Red Bull TV (Opt-1)"  group-title="USA",Red Bull TV (Opt-1)
