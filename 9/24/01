@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:0,BEIN_Fox_Rewayat
+http://univrse-ip.world:8000/live/turki2019/turki2019/8133.m3u8
+#EXTINF:0,BEIN_Gourmet
+http://univrse-ip.world:8000/live/turki2019/turki2019/3666.m3u8
+#EXTINF:0,BEIN_Gourmet_(Backup)
+http://univrse-ip.world:8000/live/turki2019/turki2019/8532.m3u8
+#EXTINF:0,BEIN_HGTV
+http://univrse-ip.world:8000/live/turki2019/turki2019/3447.m3u8
+#EXTINF:0,BEIN_JEEM
+http://univrse-ip.world:8000/live/turki2019/turki2019/2572.m3u8
+#EXTINF:0,BEIN_JEEM_(Backup)
+http://univrse-ip.world:8000/live/turki2019/turki2019/6871.m3u8
+#EXTINF:0,BEIN_JUNIOR
+http://univrse-ip.world:8000/live/turki2019/turki2019/2610.m3u8
+#EXTINF:0,BEIN_Motrovesion
+http://univrse-ip.world:8000/live/turki2019/turki2019/3445.m3u8
+#EXTINF:0,BEIN_NBA
+http://univrse-ip.world:8000/live/turki2019/turki2019/3084.m3u8
+#EXTINF:0,BEIN_On_Demand
+http://univrse-ip.world:8000/live/turki2019/turki2019/40126.m3u8
+
+
+
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14222.m3u8
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
