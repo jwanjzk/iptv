@@ -336,22 +336,94 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14483.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14480.m3u8
 #EXTINF:-1,tvg-id="NBCKPRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KPRC) (HOUSTON)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14480.ts
+#EXTINF:-1,tvg-id="NBC5KSDK.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KSDK) (ST. LOUIS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14479.m3u8
+#EXTINF:-1,tvg-id="NBC5KSDK.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KSDK) (ST. LOUIS)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14479.ts
+#EXTINF:-1,tvg-id="NBC41KSHB.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KSHB) (KANSAS CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14478.m3u8
+#EXTINF:-1,tvg-id="NBC41KSHB.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KSHB) (KANSAS CITY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14478.ts
+#EXTINF:-1,tvg-id="NBC9KUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KUSA) (DENVER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14475.m3u8
+#EXTINF:-1,tvg-id="NBC9KUSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KUSA) (DENVER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14475.ts
+#EXTINF:-1,tvg-id="NBCKXAS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KXAS) (FORT WORTH)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14473.m3u8
+#EXTINF:-1,tvg-id="NBCKXAS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (KXAS) (FORT WORTH)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14473.ts
+#EXTINF:-1,tvg-id="NBCKXAS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WBTS) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14472.m3u8
+#EXTINF:-1,tvg-id="NBCKXAS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WBTS) (BOSTON)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14472.ts
+#EXTINF:-1,tvg-id="NBCWCNC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WCNC) (CHARLOTTE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14471.m3u8
+#EXTINF:-1,tvg-id="NBCWCNC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WCNC) (CHARLOTTE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14471.ts
+#EXTINF:-1,tvg-id="NBCWDIV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WDIV) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14471.m3u8
+#EXTINF:-1,tvg-id="NBCWDIV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WDIV) (DETROIT)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14471.ts
 #EXTINF:-1,tvg-id="NBCWESH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WESH) (ORLANDO)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14468.m3u8
 #EXTINF:-1,tvg-id="NBCWESH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WESH) (ORLANDO)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14468.ts
-
-
-
-
-
-
-
-
-
-
-
-
+#EXTINF:-1,tvg-id="NBCWGBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WGBA) (GREEN BAY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14467.m3u8
+#EXTINF:-1,tvg-id="NBCWGBA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WGBA) (GREEN BAY)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14467.ts
+#EXTINF:-1,tvg-id="NBCWKYC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WKYC) (CLEVELAND)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14463.m3u8
+#EXTINF:-1,tvg-id="NBCWKYC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WKYC) (CLEVELAND)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14463.ts
+#EXTINF:-1,tvg-id="NBCWLWT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WLWT) (CINCINNATI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14462.m3u8
+#EXTINF:-1,tvg-id="NBCWLWT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WLWT) (CINCINNATI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14462.ts
+#EXTINF:-1,tvg-id="NBCWRAL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WRAL) (RALEIGH)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14462.m3u8
+#EXTINF:-1,tvg-id="NBCWRAL.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WRAL) (RALEIGH)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14462.ts
+#EXTINF:-1,tvg-id="NBCWRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WRC) (WASHINGTON DC)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14459.m3u8
+#EXTINF:-1,tvg-id="NBCWRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WRC) (WASHINGTON DC)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14459.ts
+#EXTINF:-1,tvg-id="NBCWRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WSCV) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14458.m3u8
+#EXTINF:-1,tvg-id="NBCWRC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WSCV) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14458.ts
+#EXTINF:-1,tvg-id="NBCWSMW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WSMV) (NASHVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14457.m3u8
+#EXTINF:-1,tvg-id="NBCWSMW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WSMV) (NASHVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14457.ts
+#EXTINF:-1,tvg-id="WTLV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTLV) (JACKSONVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14455.m3u8
+#EXTINF:-1,tvg-id="WTLV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTLV) (JACKSONVILLE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14455.ts
+#EXTINF:-1,tvg-id="NBCWTMJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTMJ) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14454.m3u8
+#EXTINF:-1,tvg-id="NBCWTMJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTMJ) (MILWAUKEE)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14454.ts
+#EXTINF:-1,tvg-id="NBC6WTVJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTVJ) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14452.m3u8
+#EXTINF:-1,tvg-id="NBC6WTVJ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WTVJ) (MIAMI)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14452.ts
+#EXTINF:-1,tvg-id="NBCWVIT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WVIT) (HARTFORD)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14451.m3u8
+#EXTINF:-1,tvg-id="NBCWVIT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WVIT) (HARTFORD)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14451.ts
+#EXTINF:-1,tvg-id="NBCWVIT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC () (EAST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14301.m3u8
+#EXTINF:-1,tvg-id="NBCWVIT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC () (EAST)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14301.ts
+#EXTINF:-1,tvg-id="WGRZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WGRZ) (BUFFALO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14466.m3u8
+#EXTINF:-1,tvg-id="WGRZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WGRZ) (BUFFALO)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14466.ts
+#EXTINF:-1,tvg-id="WGRZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WHEC) (ROCHESTER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14465.m3u8
+#EXTINF:-1,tvg-id="WGRZ.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/1200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC (WHEC) (ROCHESTER)
+http://51.79.72.114:25461/live/8823432235356/2883277238943/14465.ts
 
 
 
