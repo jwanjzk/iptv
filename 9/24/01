@@ -412,7 +412,7 @@ http://51.79.72.114:25461/live/8823432235356/2883277238943/14465.ts
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14355.ts
 
 
-#EXTM3U
+
 #EXTINF:-1,ABC US
 http://iptvboxy.com:8000/Fluessonic/Fluessonic/885
 #EXTINF:-1,5 USA HD
@@ -540,7 +540,6 @@ http://iptvboxy.com:8000/Fluessonic/Fluessonic/9121
 
 
 
-#EXTM3U
 #EXTINF:-1,US: SPIKE HD
 http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5237
 #EXTINF:-1,US: NICKELODEN HD
@@ -662,7 +661,6 @@ http://client-proiptv.com:8080/s@mples-iptv/cTKO4P2BnG/5184
 
 
 
-#EXTM3U
 #EXTINF:-1,US: 5 STAR MAX | UHD
 http://ppvplug.net:8000/XDxC3D6vic/OZoc5723hi/101291
 #EXTINF:-1,US: A&E | HD
@@ -990,7 +988,11 @@ http://ppvplug.net:8000/XDxC3D6vic/OZoc5723hi/101370
 #EXTINF:-1,US: WE TV | HD
 http://ppvplug.net:8000/XDxC3D6vic/OZoc5723hi/101369
 
-#EXTM3U
+
+
+
+
+
 #EXTINF:-1,US| 5 STARMAX HD
 http://line.dynoconnect.me:8000/linda3/LINDA3/45620
 #EXTINF:-1,US| A&E HD
