@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, tvg-id="&flex.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png"  tvg-name="&Flix HD"  group-title="USA",&Flix HD
-https://ul.cdn946.net:8443/hls/e9yuixl6lmaryr.m3u8?s=VXgNgTAaEv-NeXUPTbLh7A&e=1569827819
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
 http://51.79.72.114:25461/live/8823432235356/2883277238943/14222.m3u8
 #EXTINF:-1, tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1200px-USA_Network_logo_%282016%29.svg.png" tvg-name="USA Network (New!)"  group-title="USA",USA Network (New!)
