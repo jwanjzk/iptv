@@ -1,22 +1,84 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox (PITTSBURGH)
 http://162.244.82.158:8000/fox-pitts.m3u8
-#EXTINF:-1,CBS (PITTSBURGH)
-http://162.244.82.158:8000/cbs-pitts.m3u8
-#EXTINF:-1,CBS (Philly)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox29
+http://162.244.82.158:8000/FOX29-SD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox29
+http://162.244.82.158:8000/FOX29.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox11
+http://162.244.82.158:8000/FOX11-SD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox11
+http://162.244.82.158:8000/FOX11.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox5
+http://162.244.82.158:8000/FOX5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox32
+http://162.244.82.158:8000/FOX32.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox26
+http://162.244.82.158:8000/FOX26.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox9
+http://162.244.82.158:8000/FOX9.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox5 ATLANTA
+http://162.244.82.158:8000/FOX5ATL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox1O PHOENIX
+http://162.244.82.158:8000/FOX1OPHX.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox13 TAMPA
+http://162.244.82.158:8000/FOX13TAMPA.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox7 AUSTIN
+http://162.244.82.158:8000/FOX7AUSTIN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox46 CHARLOTTE
+http://162.244.82.158:8000/FOX46CHA.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox51 GAINESVILLE
+http://162.244.82.158:8000/FOX51BAINESVILLE-FL.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox35 ORLANDO
+http://162.244.82.158:8000/FOX35ORL.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
 http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
-#EXTINF:-1,CBS3 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
 http://162.244.82.158:8000/CBS3.m3u8
-#EXTINF:-1,CBS11 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS11
 http://162.244.82.158:8000/CBS11.m3u8
-#EXTINF:-1,CBS 
-http://162.244.82.158:8000/WFSBChannel3.m3u8
-#EXTINF:-1,CBS58 
-http://162.244.82.158:8000/CBS58.m3u8
-#EXTINF:-1,ESPN 
-http://162.244.82.158:8000/ESPN.m3u8
-#EXTINF:-1, BIG10
-http://162.244.82.158:8000/BTN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS PITTSBURG
+http://162.244.82.158:8000/cbs=pitts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS KPIX
+http://162.244.82.158:8000/KPIX5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS4
+http://162.244.82.158:8000/CBS4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS62
+http://162.244.82.158:8000/CBS62.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/WCCO.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS13.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/WKRC.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/KUTV2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS21.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/CBS12.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/WBTV.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
+http://162.244.82.158:8000/Cleveland19.m3u8
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC 10
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
