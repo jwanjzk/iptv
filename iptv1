@@ -71,11 +71,21 @@ http://162.244.82.158:8000/WBTV.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedi
 http://162.244.82.158:8000/Cleveland19.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="espn",espn
+http://162.244.82.158:8000/ESPN.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
+http://162.244.82.158:8000/TBSEast.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS West
+http://162.244.82.158:8000/TBSWest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT East
+http://162.244.82.158:8000/TNTEast.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT West
+http://162.244.82.158:8000/TNTWest.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
+http://162.244.82.158:8000/USAEast.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA West
+http://162.244.82.158:8000/USAWest.m3u8
 
 
 
