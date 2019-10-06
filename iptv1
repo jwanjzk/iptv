@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Fox (PITTSBURGH)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox (PITTSBURGH)
 http://162.244.82.158:8000/fox-pitts.m3u8
 #EXTINF:-1,CBS (PITTSBURGH)
 http://162.244.82.158:8000/cbs-pitts.m3u8
@@ -17,6 +17,12 @@ http://162.244.82.158:8000/CBS58.m3u8
 http://162.244.82.158:8000/ESPN.m3u8
 #EXTINF:-1, BIG10
 http://162.244.82.158:8000/BTN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC 10
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
+
+
 
 #EXTINF:-1,World Poker Tour 
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
