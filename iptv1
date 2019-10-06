@@ -90,8 +90,14 @@ http://162.244.82.158:8000/USAWest.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC 10
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/150px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="DAVE",HLN
+http://162.244.82.158:8000/HLN.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/250px-Freeform_2018.svg.png" group-title="DAVE",Freeform
+http://162.244.82.158:8000/Freeform.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/250px-Freeform_2018.svg.png" group-title="DAVE",Freeform SD
+http://162.244.82.158:8000/Freeform-SD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
+http://162.244.82.158:8000/NFLNetwork.m3u8
 
 
 
