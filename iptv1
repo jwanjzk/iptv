@@ -99,6 +99,8 @@ http://162.244.82.158:8000/Freeform-SD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
 http://162.244.82.158:8000/NFLNetwork.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
+http://162.244.82.158:8000/ION.m3u8
 
 
 
