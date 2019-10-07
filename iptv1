@@ -91,6 +91,13 @@ http://162.244.82.158:8000/USAWest.m3u8
 http://162.244.82.158:8000/ShowtimeEast.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME West
 http://162.244.82.158:8000/ShowtimeWest.m3u8
+#EXTINF:-1 tvg-id="HBO.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO East
+http://162.244.82.158:8000/HBOEast.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO West
+http://162.244.82.158:8000/HBOWEst.m3u8
+
+
+
 
 
 
