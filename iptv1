@@ -97,7 +97,7 @@ http://162.244.82.158:8000/HBOEast.m3u8
 http://162.244.82.158:8000/HBOWEst.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
 http://162.244.82.158:8000/CinemaxEast.m3u8
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax West
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax West
 http://162.244.82.158:8000/CinemaxWest.m3u8
 
 
