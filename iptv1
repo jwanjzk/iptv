@@ -89,8 +89,8 @@ http://162.244.82.158:8000/USAWest.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
 http://162.244.82.158:8000/ShowtimeEast.m3u8
-#EXTINF:-1 tvg-id="Showtime.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME West
-http://162.244.82.158:8000/ShowtimeWEst.ts
+#EXTINF:-1 tvg-id=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME West
+http://162.244.82.158:8000/ShowtimeWest.ts
 
 
 
