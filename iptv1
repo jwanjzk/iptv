@@ -128,31 +128,12 @@ http://162.244.82.158:8000/ABC11.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC 6
 http://162.244.82.158:8000/ABC6.m3u8
 
-
-#EXTINF:0, group-title="English",Animal Planet (English)
-http://mhms10.airtel.tv/wh7f454c46tw3354624603_1843911667/PLTV/88888888/224/3221226488/index.m3u8
-#EXTINF:0, group-title="English",AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/index.m3u8
-#EXTINF:0, group-title="English",Baby TV
-http://185.59.221.72:8081/UKNEW/babytv/chunks.m3u8
-#EXTINF:0, group-title="English",Box Nation HD
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:0, group-title="English",BTVI
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:0, group-title="English",Discovery HD World
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
-#EXTINF:0, group-title="English",Discovery Science
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
-#EXTINF:0, group-title="English",Discovery Turbo
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
 #EXTINF:0, group-title="English",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, group-title="English",Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:0, group-title="English",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8?xtreamiptv.m3u8
-#EXTINF:0, group-title="English",HBO Hits
-http://iss06.ott.net.tw:8086/live/coship_DCTV2291445940028640_1200.m3u8
 #EXTINF:0, group-title="English",HD Fashion
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0, group-title="English",Mirror Now
@@ -160,10 +141,6 @@ http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:0, group-title="English",NDTV Good Times
 http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
 #EXTINF:0, group-title="English",NDTV Prime
-#EXTINF:0, group-title="English",Sony ESPN
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225805/index.m3u8
-#EXTINF:0, group-title="English",Sony ESPN HD
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226076/index.m3u8
 https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
 #EXTINF:0, group-title="English",Neo Prime
 http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/index.m3u8
@@ -177,19 +154,9 @@ http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3
 http://cshms1.airtel.tv/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:0, group-title="English",Sony Six
 http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
-#EXTINF:0, group-title="English",Sony Six HD
-http://163.172.85.133:8080/Cricket/3/index.m3u8
-#EXTINF:0, group-title="English",Travel XP
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/index.m3u8
-#EXTINF:0, group-title="English",Travel XP Int.
-http://cdn-11.bonus-tv.ru/publictv/tracks-v1a1/index.m3u8?xtreamiptv.m3u8
-#EXTINF:0, group-title="English",TLC HD World
-http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
-#EXTINF:0, group-title="English",WWE Network
-http://50.7.198.170:8081/abcd/wwe/playlist.m3u8
+
 #EXTINF:0, group-title="English",Zee Cafe 
 http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:0, group-title="English",Zee Cafe HD
 
 #EXTINF:-1,World Poker Tour 
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
