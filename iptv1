@@ -138,25 +138,26 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:0, group-title="English",Mirror Now
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
-#EXTINF:0, group-title="English",NDTV Good Times
-http://cshms2.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/index.m3u8
-#EXTINF:0, group-title="English",NDTV Prime
-https://ndtvstream-lh.akamaihd.net/i/ndtv_profit_1@300635/master.m3u8
-#EXTINF:0, group-title="English",Neo Prime
-http://cshms2.airtel.tv/wh7f454c46tw3145810737_1488862081/PLTV/88888888/224/3221225789/index.m3u8
-#EXTINF:0, group-title="English",Neo Sports
-http://cshms2.airtel.tv/wh7f454c46tw1376270824_1273895432/PLTV/88888888/224/3221225791/index.m3u8
-#EXTINF:0, group-title="English",Sony Le Plex HD
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8
-#EXTINF:0, group-title="English",Sony Movies
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="English",Sony Pix
-http://cshms1.airtel.tv/wh7f454c46tw3107618267_1722636602/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:0, group-title="English",Sony Six
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8
 
-#EXTINF:0, group-title="English",Zee Cafe 
-http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
+#EXTINF:-1,US: Fox 24 HD
+http://e2.iudtv.org:8080/live/thankyou/123/1509.ts
+#EXTINF:-1,US: FOX Comedy
+http://e2.iudtv.org:8080/live/thankyou/123/1432.ts
+#EXTINF:-1,US: Fox Action HD
+http://e2.iudtv.org:8080/live/thankyou/123/1441.ts
+#EXTINF:-1,US: FOX Premium Cinema
+http://e2.iudtv.org:8080/live/thankyou/123/2804.ts
+#EXTINF:-1,US: RDS 2 TV CA
+http://e2.iudtv.org:8080/live/thankyou/123/1521.ts
+#EXTINF:-1,US: CBCM CA
+http://e2.iudtv.org:8080/live/thankyou/123/1504.ts
+#EXTINF:-1,US: Documenta CA
+http://e2.iudtv.org:8080/live/thankyou/123/1446.ts
+#EXTINF:-1,US: NBAC CA
+http://e2.iudtv.org:8080/live/thankyou/123/1469.ts
+#EXTINF:-1,US: Whdh Nbce CA
+http://e2.iudtv.org:8080/live/thankyou/123/1470.ts
+
 
 #EXTINF:-1,World Poker Tour 
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
