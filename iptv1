@@ -126,7 +126,7 @@ http://162.244.82.158:8000/BBCWorldNews.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/200px-Motor_Trend.svg.png" group-title="DAVE",VELOCITY
 http://162.244.82.158:8000/Velocity.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="DAVE",BIG 10
-http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3519.ts
+http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3473.ts
 
 
 
