@@ -121,6 +121,8 @@ http://162.244.82.158:8000/AMC.m3u8
 http://162.244.82.158:8000/AMC-SD.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="DAVE",BBC AMERICA
 http://162.244.82.158:8000/BBCAmerica-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="DAVE",BBC Worldnews
+http://162.244.82.158:8000/BBCWorldNews.m3u8
 
 
 
