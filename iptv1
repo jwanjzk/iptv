@@ -71,7 +71,7 @@ http://162.244.82.158:8000/WBTV.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedi
 http://162.244.82.158:8000/Cleveland19.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="espn",espn
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="SPORT",espn
 http://162.244.82.158:8000/ESPN.m3u8
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
@@ -100,7 +100,7 @@ http://162.244.82.158:8000/CinemaxEast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax West
 http://162.244.82.158:8000/CinemaxWest.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="DAVE",FS1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT",FS1
 http://162.244.82.158:8000/FS1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="DAVE",NBC5
 http://162.244.82.158:8000/NBC5.m3u8
@@ -109,7 +109,7 @@ http://162.244.82.158:8000/NBC7SanDiego.m3u8
 EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="DAVE",NBC Atlanta
 http://162.244.82.158:8000/nbc-atlanta.m3u8
 
-#EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="DAVE",NBCSN
+#EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="SPORT",NBCSN
 http://162.244.82.158:8000/NBCSportsNetwork.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
 http://162.244.82.158:8000/SundanceTV.m3u8
@@ -125,7 +125,7 @@ http://162.244.82.158:8000/BBCAmerica-SD.m3u8
 http://162.244.82.158:8000/BBCWorldNews.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/200px-Motor_Trend.svg.png" group-title="DAVE",VELOCITY
 http://162.244.82.158:8000/Velocity.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="DAVE",BIG 10
+#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
 http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3473.ts
 
 
