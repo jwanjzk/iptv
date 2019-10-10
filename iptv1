@@ -276,18 +276,20 @@ https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1,NBC GOLF
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
-#EXTINF:-1,NBC Sports Bay Area
+
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
 http://tvecsnbayarea-i.akamaihd.net/hls/live/219791/CSNbayareax/2596k/prog.m3u8
-#EXTINF:-1,NBC Sports Boston
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/NBC_Sports_Boston.png/250px-NBC_Sports_Boston.png" group-title="SPORT",NBC Sports Boston
 http://tvecsnnewengland-i.akamaihd.net/hls/live/219795/CSNnewenglandx/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports California
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/NBC_Sports_California.png/200px-NBC_Sports_California.png" group-title="SPORT",NBC Sports California
 http://tvecsncalifornia-i.akamaihd.net/hls/live/219792/CSNcaliforniax/4296k/prog.m3u8
-#EXTINF:-1,NBC Sports Chicago
+#EXTINF:-1 tvg-id='NBCSportsChicago.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/250px-NBC_Sports_Chicago_Logo.svg.png" group-title="SPORT",NBC Sports Chicago
 http://tvecsnchicago-i.akamaihd.net/hls/live/219793/CSNchicagox/2596k/prog.m3u8
-#EXTINF:-1,NBC Sports Northwest
+#EXTINF:-1 tvg-id="NBCSportsNorthwest.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NBC_Sports_Northwest.png/250px-NBC_Sports_Northwest.png" group-title="SPORT",NBC Sports Northwest
 http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.m3u8
-#EXTINF:-1,NBC Sports Philadelphia Plus
-http://tvetcnphiladelph-i.akamaihd.net/hls/live/219798/TCNPhiladelphiax/2596k/prog.m3u8
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/220px-NBC_Sports_Philadelphia.png" group-title="SPORT",NBC Sports Philadelphia Plus
+
+
 
 
 #EXTINF:-1,Nick
