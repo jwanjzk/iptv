@@ -202,16 +202,16 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="MOVIE",&Flix HD
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 #EXTINF:-1 tvg-id="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" tvg-logo="" group-title="MOVIE",&Prive HD
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="MOVIE",&Prive HD
 http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",9XO
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/9X_logo.png/100px-9X_logo.png" group-title="MUSIC",9XO
 http://pockettv.xyz/api/zee.m3u8?c=9xo
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",4 Music
 https://live2.hoolatv.com/live/4music_hi/playlist.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",5 Star
 https://live2.hoolatv.com/live/5star_hi/playlist.m3u8
-
-
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/220px-2019_Discovery_logo.svg.png" group-title="DAVE",DISCOVERY CHANNEL
+http://80.80.160.168/live/8/live.m3u8
 
 
 
@@ -250,9 +250,6 @@ http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2
 https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
 
 
-#EXTINF:-1,9XO
-http://pockettv.xyz/api/zee.m3u8?c=9xo
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC 10
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="DAVE",ABC US
@@ -287,8 +284,6 @@ http://ott-cdn.ucom.am/s27/index.m3u8
 
 #EXTINF:-1,Comedy Central PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1,COMET
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 
 #EXTINF:-1,WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
