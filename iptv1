@@ -111,8 +111,19 @@ http://162.244.82.158:8000/nbc-atlanta.m3u8
 
 #EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="DAVE",NBCSN
 http://162.244.82.158:8000/NBCSportsNetwork.m3u8
-#EXTINF:-1 tvg-id="NBCSNWashington.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="DAVE",NBCSN
-http://162.244.82.158:8000/NBCSportsNetwork.m3u8
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
+http://162.244.82.158:8000/SundanceTV.m3u8
+#EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/250px-IFC_2014_logo.svg.png" group-title="DAVE",IFC
+http://162.244.82.158:8000/IFC.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
+http://162.244.82.158:8000/AMC.m3u8
+#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
+http://162.244.82.158:8000/AMC-SD.m3u8
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="DAVE",BBC AMERICA
+http://162.244.82.158:8000/BBCAmerica-SD.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" group-title="DAVE",FX East
