@@ -127,19 +127,10 @@ http://162.244.82.158:8000/BBCWorldNews.m3u8
 http://162.244.82.158:8000/Velocity.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
 http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3473.ts
-
-
-
-
-
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" group-title="DAVE",FX East
 http://162.244.82.158:8000/FXEast.m3u8
 #EXTINF:-1 tvg-id="My9WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/200px-WWOR_NewJersey.svg.png" group-title="DAVE",MY9
 http://162.244.82.158:8000/My9.m3u8
-
-
-
-
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/150px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="DAVE",HLN
 http://162.244.82.158:8000/HLN.m3u8
 #EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/250px-Freeform_2018.svg.png" group-title="DAVE",Freeform
@@ -169,18 +160,10 @@ http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/220px-NBC_Sports_Philadelphia.png" group-title="SPORT",NBC Sports Philadelphia Plus
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Stadium_TV_network_logo.png/150px-Stadium_TV_network_logo.png",Stadium PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="WEATHER",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/WeatherNation_logo.png/225px-WeatherNation_logo.png" group-title="WEATHER",Weather Nation
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/protocol/http/format/applehttp/a.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1, tvg-id="247Retro.us" tvg-logo="http://www.247retro.com/images/sidebar_logo_gradient.jpg" tvg-name="24-7 Retro TV"  group-title="USA",24-7 Retro TV
 http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png" tvg-name="American Horrors"  group-title="USA",American Horrors
@@ -193,11 +176,6 @@ https://ott.mobcrush.com/hls/0/ott.m3u8
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.pngfind.com/pngs/m/258-2582037_cmc-usa-graphic-design-hd-png-download.png" group-title="MUSIC",CMC-USA
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" 
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png" group-title="MOVIE", ZEE CAFE HD
 http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
 #EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="MOVIE",&Flix HD
@@ -212,22 +190,18 @@ http://162.244.82.158:8000/Discovery.m3u8
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="DAVE",ET LIVE
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
-
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-1)"  group-title="USA",Red Bull TV (Opt-1)
+#EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-1)"  group-title="SPORT",Red Bull TV (Opt-1)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-2)"  group-title="USA",Red Bull TV (Opt-2)
+#EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-2)"  group-title="SPORT",Red Bull TV (Opt-2)
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-3)"  group-title="USA",Red Bull TV (Opt-3)
+#EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-3)"  group-title="SPORT",Red Bull TV (Opt-3)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/b8prEVt.png" tvg-name="Rev'n"  group-title="USA",Rev'n
+#EXTINF:-1, tvg-id="Revn.us" tvg-logo="https://i.imgur.com/b8prEVt.png" tvg-name="Rev'n"  group-title="SPORT",Rev'n
 http://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/master.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="" 
 #EXTINF:0, group-title="English",DW
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:0, group-title="English",Fashion TV Midnite
