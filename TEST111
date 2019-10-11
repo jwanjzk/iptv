@@ -2,8 +2,8 @@
 
 
 
-#EXTINF:-1,UNKNOWN 1
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,ACTION
+http://spokqax07.rum.si:59465/red/engaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAyOjM2OjIzIFBNJmhhc2hfdmFsdWU9OHZHQ1BYZC90djBoaE9hVzYvaHo2Zz09JnZhbGlkbWludXRlcz0y
 #EXTINF:-1,UNKNOWN 3
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1,UNKNOWN 4
