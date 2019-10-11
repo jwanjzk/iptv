@@ -34,21 +34,20 @@ http://218.60.94.32:1935/live/gd03.stream/playlist.m3u8
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,UNKNOWN 16
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+#EXTINF:-1,UNKNOWN  17
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,UNKNOWN 18
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,UNKNOWN 19   
+   http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
    
-  http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-   http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-   http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279  
-   
+  
 
 
-#EXTINF:-1,US: BEIN SPORTS | HD
-http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3511.ts
-#EXTINF:-1,US: BIG TEN NETWORK 2 | HD
-http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3519.ts
-#EXTINF:-1,US: BIG TEN NETWORK | HD
-http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3473.ts
-#EXTINF:-1,US: CBS SPORTS NETWORK | HD
-http://greenstreamtv.xyz:25461/live/travon/HUGhRGSZ/3472.ts
+
+
+
 
 
 
