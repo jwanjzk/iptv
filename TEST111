@@ -12,16 +12,14 @@ http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,UNKNOWN 6
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1,UNKNOWN
+#EXTINF:-1,UNKNOWN 7
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-
-#EXTINF:-1,UNKNOWN
+#EXTINF:-1,UNKNOWN 8
 http://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u
-#EXTINF:-1,UNKNOWN
+#EXTINF:-1,UNKNOWN 9
 http://www.jktso.com/GiftCard.m3u8
-
+#EXTINF:-1,UNKNOWN 10
+https://content-ausw1.uplynk.com/channel/6cbf2d32a5384dc1b787539b1102433c/g.m3u8?ad=newktla&rays=gdbcef&ad.description_url=https://www.ktla.com&ad.tfcd=0&ad.npa=1&ad.pp=livestream-verizon&pbs=0ec3d01257c7454fbd620017a9ecda66
 #EXTINF:-1,UNKNOWN 11
 P2p://170.178.164.247:6170/5b448e6e0004d5df0011abc13c252656.ts
 #EXTINF:-1,UNKNOWN 12
@@ -30,7 +28,7 @@ P2p://170.178.164.242:6220/5b448bc3000926a6000740e496025b38.ts
 p2p://172.107.95.67:6004/5a5dc5e00009d4465870ba51a935dfa1.ts
 #EXTINF:-1,UNKNOWN 14
 http://218.60.94.32:1935/live/gd03.stream/playlist.m3u8
-#EXTINF:-1,UNKNOWN15
+#EXTINF:-1,UNKNOWN 15
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 #EXTINF:-1,UNKNOWN 16
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
