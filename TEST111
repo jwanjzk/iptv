@@ -4,8 +4,6 @@
 
 #EXTINF:-1,UNKNOWN 1
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,UNKNOWN 2
-http://api.new.livestream.com/accounts/6370732/events/2591850/live.m3u8
 #EXTINF:-1,UNKNOWN 3
 http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1,UNKNOWN 4
@@ -17,15 +15,30 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #EXTINF:-1,UNKNOWN
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,UNKNOWN
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
-#EXTINF:-1,UNKNOWN
-http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+
+
 #EXTINF:-1,UNKNOWN
 http://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u
+#EXTINF:-1,UNKNOWN
 http://www.jktso.com/GiftCard.m3u8
 
-
+#EXTINF:-1,UNKNOWN 11
+P2p://170.178.164.247:6170/5b448e6e0004d5df0011abc13c252656.ts
+#EXTINF:-1,UNKNOWN 12
+P2p://170.178.164.242:6220/5b448bc3000926a6000740e496025b38.ts
+#EXTINF:-1,UNKNOWN 13
+p2p://172.107.95.67:6004/5a5dc5e00009d4465870ba51a935dfa1.ts
+#EXTINF:-1,UNKNOWN 14
+http://218.60.94.32:1935/live/gd03.stream/playlist.m3u8
+#EXTINF:-1,UNKNOWN15
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,UNKNOWN 16
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8
+   
+  http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+   http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+   http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279  
+   
 
 
 #EXTINF:-1,US: BEIN SPORTS | HD
