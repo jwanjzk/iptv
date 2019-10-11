@@ -15,6 +15,15 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,UNKNOWN 6
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
+#EXTINF:-1,UNKNOWN
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1,UNKNOWN
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,UNKNOWN
+http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
+#EXTINF:-1,UNKNOWN
+http://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u
+http://www.jktso.com/GiftCard.m3u8
 
 
 
