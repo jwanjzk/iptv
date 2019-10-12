@@ -110,6 +110,9 @@ http://162.244.82.158:8000/NBC7SanDiego.m3u8
 http://162.244.82.158:8000/nbc-atlanta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC Connecticut
 http://162.244.82.158:8000/NBCConnecticut.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" group-title="NBC",NBC GOLF
+http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
+
 
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="SPORT",NBCSN
 http://162.244.82.158:8000/NBCSportsNetwork.m3u8
@@ -207,6 +210,8 @@ http://162.244.82.158:8000/Discovery.m3u8
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="DAVE",ET LIVE
 http://etlive-mediapackage-fastly.cbsaavideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="CBSSportsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CBS_Sports_Network_2016.png/250px-CBS_Sports_Network_2016.png" group-title="SPORT",CBS Sports
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
 #EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-1)"  group-title="SPORT",Red Bull TV (Opt-1)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1, tvg-id="RedBullTV.us" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-2)"  group-title="SPORT",Red Bull TV (Opt-2)
@@ -379,15 +384,15 @@ http://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u8
 #EXTINF:-1,Yu-Gi-Oh! 5D’s www.achoAPPS.com
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS
+http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC US
 http://190.80.3.28/ABC/ABC.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d#EXTINF:-1 ,CBS
 
 #EXTINF:-1,AD SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
@@ -403,13 +408,6 @@ http://92.43.140.249/s24/04.m3u8
 #EXTINF:-1,Bloomberg
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
-#EXTINF:-1,CBS
-http://190.80.3.28/CBS/CBS.isml/index.m3u8
-#EXTINF:-1,CBS News
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1,CBS Sports
-https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop.m3u8
-
 #EXTINF:-1,CNN international
 http://ott-cdn.ucom.am/s27/index.m3u8
 
@@ -418,15 +416,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca671f215a62078d2
 
 #EXTINF:-1,WGN NEWS
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-
-
-
-#EXTINF:-1,Fox HD
-http://190.80.3.28/FOX/FOX.isml/index.m3u8
-#EXTINF:-1,Fox 5
-http://api.new.livestream.com/accounts/2363281/events/1763520/live.m3u8
-#EXTINF:-1,Fox 5 News
-http://api.new.livestream.com/accounts/9263055/events/3189799/live.m3u8
 
 #EXTINF:-1,Fox Sports PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
@@ -442,31 +431,25 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:-1,NBC 6
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-
 #EXTINF:-1,NBC 4 News Washington DC
 https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-#EXTINF:-1,NBC GOLF
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 
 #EXTINF:-1,Nick PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1,Nick Jr. PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1,Olympic Channel 1
+#EXTINF:-1 group-title="SPORT",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1,Olympic Channel 2
+#EXTINF:-1 group-title="SPORT",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1,Olympic Channel 3
+#EXTINF:-1 group-title="SPORT",Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1,Olympic Channel 4
+#EXTINF:-1 group-title="SPORT",Olympic Channel 4
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1,Olympic Channel 5
+#EXTINF:-1 group-title="SPORT",Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-
-#EXTINF:-1,Olympic Channel 11
+#EXTINF:-1 group-title="SPORT",Olympic Channel 11
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 
 #EXTINF:-1,PBS Kids
@@ -477,9 +460,6 @@ http://190.80.3.28/PBS/PBS.isml/index.m3u8
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi5/1/prog_index.m3u8
 #EXTINF:-1,QVC 4 (UK)
 http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
-
-#EXTINF:-1,REDBULL TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 
 #EXTINF:-1,SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
@@ -500,7 +480,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1,Bloomberg
 https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 
-#EXTINF:-1,CBS
+#EXTINF:-1 ,CBS
 http://190.80.3.28/CBS/CBS.isml/index.m3u8
 #EXTINF:-1,CBS News
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
@@ -529,13 +509,6 @@ http://161.0.157.9/PLTV/88888888/224/3221226825/index.m3u8
 
 #EXTINF:-1,MUSIC CHOICE
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-
-#EXTINF:-1,NBC 6
-http://190.80.3.28/NBC/NBC.isml/index.m3u8
-
-#EXTINF:-1,NBC GOLF
-http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-
 
 #EXTINF:-1,Nick
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
