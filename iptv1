@@ -221,6 +221,34 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7 MANDARIN",24/7 Friends
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mHzS4gg.png" group-title="24/7 MANDARIN",24/7 Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avjDz6T.png" group-title="24/7 MANDARIN",24/7 Marvel Movies
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKLU9Cx.png" group-title="24/7 MANDARIN",24/7 Resident Evil Movies
+https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FIO7zhZ.png" group-title="24/7 MANDARIN",24/7 Sci-Fi Movies
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0zs0ST.png" group-title="24/7 MANDARIN",24/7 The Big Bang Theory
+https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NENJFAa.png" group-title="24/7 MANDARIN",Hollywood Movies 3
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+
+
 
 #EXTINF:-1,World Poker Tour 
 http://stitcher.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
