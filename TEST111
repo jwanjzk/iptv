@@ -1,22 +1,10 @@
 #EXTM3U
 
-
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/69943_foxspusa1.jpg", FOX SP 1 USA Sports
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWXdibVZzYVhabExtUmtibk11Ym1WMEpUTkJNVE15T1RJbE1rWmpaWEpsY3lVeVJtWnZlSE53YjNKMGN6RWxNa1p3YkdGNWJHbHpkQzV0TTNVNHxZWFUxTlhWYVdIbzRVMnBKTjJjNFh3PT18NTcyQ0MyMzMtN0ZBOC00NzQwLTk2NDQtMDU2OTdENUVCNDkwfFJFTjNlQT09$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 tvg-logo="http://51.15.209.90:8800/data/img/files/69943_foxspusa1.jpg", FOX SP 1 USA Sports
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/YUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl5WldSaWIzZ3ZkWEpzUFdoMGRIQWxNMEVsTWtZbE1rWnpjR1ZqYVdGc2JHbDJaUzVrWkc1ekxtNWxkQ1V6UVRFek1qa3lKVEpHWTJWeVpYTWxNa1ptYjNoemNHOXlkSE14SlRKR2NHeGhlV3hwYzNRdWJUTjFPQT09fFlYVTFOWFZhV0hvNFUycEpOMmM0WHc9PXw1NzJDQzIzMy03RkE4LTQ3NDAtOTY0NC0wNTY5N0Q1RUI0OTB8UkVOM2VBPT0%3D$http-refferer=http://linkprotect.xmtvplayer.com
-
-#EXTINF:-1,ACTION
-http://spokqax07.rum.si:59465/red/engaction/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAxOSAyOjM2OjIzIFBNJmhhc2hfdmFsdWU9OHZHQ1BYZC90djBoaE9hVzYvaHo2Zz09JnZhbGlkbWludXRlcz0y
-#EXTINF:-1,UNKNOWN 3
-http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
 #EXTINF:-1,UNKNOWN 4
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
 #EXTINF:-1,UNKNOWN 5
 http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 #EXTINF:-1,UNKNOWN 6
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1,UNKNOWN 7
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1,UNKNOWN 8
 http://aldirect.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u
