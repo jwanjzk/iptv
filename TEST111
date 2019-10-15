@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1,NBC HD Raleigh NC
+http://nitro.ltd:25461/live/Cedric/Cedric/1265.m3u8
+#EXTINF:-1,NBC HD Philadelphia PA
+http://nitro.ltd:25461/live/Cedric/Cedric/1420.m3u8
+#EXTINF:-1,FOX HD Philadelphia PA
+http://nitro.ltd:25461/live/Cedric/Cedric/2956.m3u8
+#EXTINF:-1,CBS HD Philadelphia PA
+http://nitro.ltd:25461/live/Cedric/Cedric/3682.m3u8
+#EXTINF:-1,ABC HD Philadelphia
+http://nitro.ltd:25461/live/Cedric/Cedric/3684.m3u8
+#EXTINF:-1,NBC HD Boston MA
+http://nitro.ltd:25461/live/Cedric/Cedric/5947.m3u8
+#EXTINF:-1,NBC HD San Francisco
+http://nitro.ltd:25461/live/Cedric/Cedric/5949.m3u8
+#EXTINF:-1,NBC HD Los Angeles CA
+http://nitro.ltd:25461/live/Cedric/Cedric/5950.m3u8
+#EXTINF:-1,FOX HD New York NY
+http://nitro.ltd:25461/live/Cedric/Cedric/5951.m3u8
+#EXTINF:-1,FOX HD Miami FL
+http://nitro.ltd:25461/live/Cedric/Cedric/5953.m3u8
+#EXTINF:-1,CBS HD San Francisco CA
+http://nitro.ltd:25461/live/Cedric/Cedric/5962.m3u8
+#EXTINF:-1,CBS HD Los Angeles CA
+http://nitro.ltd:25461/live/Cedric/Cedric/5963.m3u8
+#EXTINF:-1,WLNY HD New York
+http://nitro.ltd:25461/live/Cedric/Cedric/5964.m3u8
+#EXTINF:-1,PBS HD Penn State University
+http://nitro.ltd:25461/live/Cedric/Cedric/6072.m3u8
+#EXTINF:-1,NBC HD New York NY
+http://nitro.ltd:25461/live/Cedric/Cedric/6095.m3u8
 
 #EXTINF:-1,UNKNOWN 4
 http://ss6.domint.net:2082/202_str/orbittv/media_w29206476_playlist.m3u8
