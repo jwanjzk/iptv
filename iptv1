@@ -32,8 +32,6 @@ http://162.244.82.158:8000/FOX51BAINESVILLE-FL.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox35 ORLANDO
 http://162.244.82.158:8000/FOX35ORL.m3u8
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
 http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
@@ -69,6 +67,7 @@ http://162.244.82.158:8000/CBS12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
 http://162.244.82.158:8000/WBTV.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
 http://162.244.82.158:8000/Cleveland19.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="SPORT",espn
 http://162.244.82.158:8000/ESPN.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="SPORT",ESPN 2 HD
@@ -517,21 +516,29 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689
 #EXTINF:-1,Nick Jr. PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 
-#EXTINF:-1 group-title="SPORT",Olympic Channel 1
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel (Opt-1)
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 group-title="SPORT",Olympic Channel 2
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 2
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 group-title="SPORT",Olympic Channel 3
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 3
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 group-title="SPORT",Olympic Channel 4
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 4
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 group-title="SPORT",Olympic Channel 5
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 5
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 group-title="SPORT",Olympic Channel 11
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="SPORT",Olympic Channel 11
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-1) (Geo)"  group-title="USA",PBS Kids (Op-1) (Geo)
+http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-2) (Geo)"  group-title="USA",PBS Kids (Op-2) (Geo)
+http://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-3) (Geo)"  group-title="USA",PBS Kids (Op-3) (Geo)
+http://live-cdn.pbskids.org/out/u/pst.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.thenonprofittimes.com/wp-content/uploads/2017/02/Pbs-1.png" tvg-name="PBS"  group-title="USA",PBS
+http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1,PBS Kids
-http://190.80.3.28/PBS/PBS.isml/index.m3u8
 
 
 #EXTINF:-1,QVC 1 (UK)
@@ -737,32 +744,13 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.destinationnetwork.com/images/channel_logos/notv_logo.png" tvg-name="New Orleans TV"  group-title="USA",New Orleans TV
 http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg" tvg-name="Newsmax TV"  group-title="USA",Newsmax TV
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://newsymain-npgroup.netdna-ssl.com/images/settings/150228249385.jpg" tvg-name="Newsy"  group-title="USA",Newsy
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-1)"  group-title="USA",Olympic Channel (Opt-1)
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-2)"  group-title="USA",Olympic Channel (Opt-2)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" tvg-name="Olympic Channel (Opt-3)"  group-title="USA",Olympic Channel (Opt-3)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.thenonprofittimes.com/wp-content/uploads/2017/02/Pbs-1.png" tvg-name="PBS"  group-title="USA",PBS
-http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-1) (Geo)"  group-title="USA",PBS Kids (Op-1) (Geo)
-http://live-cdn.pbskids.org/out/u/aim/wttw.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-2) (Geo)"  group-title="USA",PBS Kids (Op-2) (Geo)
-http://live-cdn.pbskids.org/out/u/est.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.lagovista.lib.tx.us/PBS%20Kids.jpg/@@images/image.jpeg" tvg-name="PBS Kids (Op-3) (Geo)"  group-title="USA",PBS Kids (Op-3) (Geo)
-http://live-cdn.pbskids.org/out/u/pst.m3u8
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/A4GMBN6.png" tvg-name="Red Bull TV (Opt-1)"  group-title="USA",Red Bull TV (Opt-1)
@@ -1195,8 +1183,7 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" tvg-name="Williams Stream"  group-title="24/7",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-#EXTINF:-1 tvg-id="1025" tvg-name="" tvg-logo="http://i63.tinypic.com/28w2akj.jpg" group-title="USA",PBN Music
-http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8
+
 #EXTINF:-1 tvg-id="1037" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="USA",Eye 95 TV
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9yvanaj.png" group-title="ENTERTAINMENT",Musawa
@@ -1205,9 +1192,6 @@ http://vnczgbk-lh.akamaihd.net/i/test_1@525503/index_2000_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1280px-USA_Network_logo_%282016%29.svg.png" group-title="ENTERTAINMENT",USA Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 
-
-#EXTINF:0, tvg-logo="" group-title="",WUSA9 Breaking News
-https://wusa-lh.akamaihd.net/i/WUSA_Breaking_1@98930/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.aka.yupp.yuppcdn.net/yupptv/channel_logos_new/harvest_usa.png" group-title="",Harvest TV USA
@@ -1227,16 +1211,7 @@ http://cdn61.liveonlineservices.com/hls/subrang.m3u8
 #EXTINF:0, tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODgwOTM4MTM2NjU4/z-living-networkjpg.jpg" group-title="Hindi",Z Living USA
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" group-title="Business",Bloomberg TV
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Business",Bloomberg TV
-http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 
-
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" group-title="Business",Bloomberg TV
-https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.ewtn.com/assets/ewtn-badge-58f0dd80b4f161197d2d55f4af30ac2a7d29fcd9677c9f84afd61b53890fffe7.jpg" group-title="",EWTV USA
