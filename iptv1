@@ -67,6 +67,8 @@ http://162.244.82.158:8000/CBS12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
 http://162.244.82.158:8000/WBTV.m3u8#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS2
 http://162.244.82.158:8000/Cleveland19.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="CBS",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="SPORT",espn
 http://162.244.82.158:8000/ESPN.m3u8
@@ -127,6 +129,8 @@ http://162.244.82.158:8000/IFC.m3u8
 http://162.244.82.158:8000/AMC.m3u8
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
 http://162.244.82.158:8000/AMC-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="DAVE",A&E HD
+https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="DAVE",BBC AMERICA
 http://162.244.82.158:8000/BBCAmerica-SD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="DAVE",BBC Worldnews
@@ -165,6 +169,14 @@ http://162.244.82.158:8000/ABC6.m3u8
 http://162.244.82.158:8000/abc-newyork.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC PITTSBURGH
 http://162.244.82.158:8000/abc-pittsgurg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC US
+http://190.80.3.28/ABC/ABC.isml/index.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mz3b5QW.png" tvg-name="ABC (WWSB)"  group-title="ABC",ABC (WWSB)
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7
+https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d#EXTINF:-1 ,CBS
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
@@ -286,8 +298,7 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/X99lmj6.png" group-title="MOVIE",WOWOWシネマ
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="DAVE",A&E HD
-https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s9SouED.png" group-title="NEWS",CNN HD
 https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="NEWS",Bloomberg TV
@@ -385,7 +396,6 @@ http://54.180.143.6:9981/stream/channelid/1177231409
 https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8vfNhjn.jpg" group-title="SPORT",BT Sport ESPN
 https://sportbar.biz/lba/123/g7/btse.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="SPORT",EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="SPORT",ESPN 2 HD
@@ -468,20 +478,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS
 http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC US
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d#EXTINF:-1 ,CBS
-
+#EXTINF:-1 group-title="SPORT",MLS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1 group-title="SPORT",AD SPORT 1 HD
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 group-title="SPORT",AD SPORT 2 HD
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,ANIMALS PLANET
-http://80.80.160.168/live/3/live.m3u8
+
 
 #EXTINF:-1 group-title="NEWS",BBC World
 http://ott-cdn.ucom.am/s24/index.m3u8
@@ -504,9 +507,6 @@ http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
 
 #EXTINF:-1,Fox Sports PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-
-#EXTINF:-1 group-title="SPORT",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=19b70f7d-30c0-4ede-9a23-83600637213d&deviceId=05adad54-d314-4eae-84b6-4fecf221e693&deviceVersion=75.0.3770.142&appVersion=2.7.1-5725cf052c6d5a7776009f53b7086f64da9ef528&deviceDNT=0&userId=&advertisingId=&deviceLat=37.751&deviceLon=-97.822&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
 
 #EXTINF:-1 group-title="NEWS",MSNBC
 https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
@@ -636,8 +636,7 @@ http://content-ausc2.uplynk.com/channel/7a16e3d5ffd0413ba4d8ac89688ed7cd/e.m3u8?
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://channels.roku.com/images/93032ce95a064d129cdefa1ecbce95e1-hd.jpg" tvg-name="30A TV"  group-title="USA",30A TV
 http://30a-tv.com/my999.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mz3b5QW.png" tvg-name="ABC (WWSB)"  group-title="USA",ABC (WWSB)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+
 
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/ce03bcd0975942929a2cef7daced1a01474dd7f441b691ceaa2a9dba454b4cdb.png" tvg-name="AKC TV"  group-title="USA",AKC TV
