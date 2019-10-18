@@ -1,39 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间1HD
-http://223.110.243.170/PLTV/2/224/3221226795/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间2HD
-http://223.110.243.170/PLTV/2/224/3221226797/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间3HD
-http://223.110.243.170/PLTV/2/224/3221226799/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间4HD
-http://223.110.243.170/PLTV/2/224/3221226801/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间5HD
-http://223.110.243.170/PLTV/2/224/3221226803/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间6HD
-http://223.110.243.170/PLTV/2/224/3221226805/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/UJJPepl.png" group-title="Sport",NBA百视通直播间7HD
-http://223.110.243.170/PLTV/2/224/3221226807/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="",A&E HD
-https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.5pluschannel.com/sites/default/files/5plus-logo.png" group-title="",5 Plus
-http://yangon1.akamaized.net/live/19daddcf-0f46-4a14-988e-14bc15f03298/prod/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s9SouED.png" group-title="",CNN HD
-https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="",Court TV
-https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Fox_Life_Turkey.png" group-title="Business",Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="Business",Bloomberg TV
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
 
 
-
-
-
-#EXTINF:-1, BIKINI NETWORK
-https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8?fluxustv.m3u8
-
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3KJ9YQPn_U_FdsCBkOI60nVG_rfwJX6jEDj8RV4DQ3fs1DRiGTgGNA" group-title="Business",Bloomberg TV
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
 
 
 
