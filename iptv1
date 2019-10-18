@@ -174,6 +174,17 @@ http://162.244.82.158:8000/espn-classic2.m3u8
 https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="SPORT",ESPN HD
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/250px-Longhorn_Network_logo.svg.png" group-title="SPORT",LONGHORN NETWORK
+http://162.244.82.158:8000/LonghornNetwork.m3u8
+#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/SEC_Network_Logo.png/200px-SEC_Network_Logo.png" group-title="SPORT",SEC NETWORK
+http://162.244.82.158:8000/SECNetwork.m3u8
+#EXTINF:-1 tvg-id="FCS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Pacific
+http://162.244.82.158:8000/FoxCollegeSportsPacific.m3u8
+#EXTINF:-1 tvg-id="FCSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Atlantic
+http://162.244.82.158:8000/FoxCollegeSportsAtlantic.m3u8
+#EXTINF:-1 tvg-id="FCSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Central
+http://162.244.82.158:8000/FoxCollegeSportsCentral.m3u8
+
 
 #EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT",FS1
 http://162.244.82.158:8000/FS1.m3u8
@@ -221,10 +232,7 @@ https://sportbar.biz/lba/123/g3/ukbt2sport.m3u8
 https://sportbar.biz/lba/123/g7/btse.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="SPORT",EDGEsport
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="SPORT",ESPN 2 HD
-https://cvtv.cvalley.net/hls/ESPN2HD/ESPN2HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="SPORT",ESPN HD
-https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/pHkW8og.png" group-title="SPORT",ESport3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
 #EXTINF:-1 group-title="SPORT",MLS
