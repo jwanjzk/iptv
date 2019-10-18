@@ -371,6 +371,8 @@ http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Your_Pretty_Face_is_Going_to_Hell.png" group-title="24/7 ADULT SWIM GEO",Your Pretty Face (Geo)
 https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8?fluxustv.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://batterypop-v2-prod.s3.amazonaws.com/images/shows/547/images/large/Super-Geek-Heroes.png" tvg-name="Super Geek Heroes (New!)"  group-title="24/7",Super Geek Heroes (New!)
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlMIGmj.jpg" group-title="24/7",CMT Westerns
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ncuqage0urlhccbp8kbecjc830
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c37d6712de254456f7ec340/featuredImage.jpg" group-title="24/7",Cold Case Files PLUTO
@@ -1122,47 +1124,6 @@ http://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Music69/v4/6a/67/f8/6a67f8ab-04d6-8fe6-fb8f-9b0c6e34a34e/source/1200x630bb.jpg" tvg-name="Aqua Teen Hunger Force"  group-title="24/7",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://when-will.net/images/artikel/2015/september/Black-Jesus.jpg" tvg-name="Black Jesus"  group-title="24/7",Black Jesus
-http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/azzpKrT.png" tvg-name="Dream Corp LLC"  group-title="24/7",Dream Corp LLC
-http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://img.sharetv.com/shows/standard/home_movies.jpg" tvg-name="Home Movies"  group-title="24/7",Home Movies
-https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Dethklok2.jpg/250px-Dethklok2.jpg" tvg-name="Metalocalypse"  group-title="24/7",Metalocalypse
-http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.ytimg.com/vi/SgoRKIpGIs0/maxresdefault.jpg" tvg-name="Mr. Pickles"  group-title="24/7",Mr. Pickles
-http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://userscontent2.emaze.com/images/3aad53e1-b1ed-4615-b73f-5da38c50f186/b6e7a922-ea23-4d64-aaa1-47f1ad5ce794.png" tvg-name="Rick and Morty"  group-title="24/7",Rick and Morty
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://i0.kym-cdn.com/entries/icons/facebook/000/015/339/Robot_Chicken.jpg" tvg-name="Robot Chicken"  group-title="24/7",Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.pinimg.com/originals/d6/8c/dd/d68cdd473f7a56f574b7514e24fbc1ce.jpg" tvg-name="Squidbillies"  group-title="24/7",Squidbillies
-https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://batterypop-v2-prod.s3.amazonaws.com/images/shows/547/images/large/Super-Geek-Heroes.png" tvg-name="Super Geek Heroes (New!)"  group-title="24/7",Super Geek Heroes (New!)
-https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://img.sharetv.com/shows/standard/superjail.jpg" tvg-name="Superjail!"  group-title="24/7",Superjail!
-https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/theericandreshow/images/6/69/The_Eric_Andre_Logo.png" tvg-name="The Eric Andre Show"  group-title="24/7",The Eric Andre Show
-http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/The_Venture_Bros_logo.svg/1200px-The_Venture_Bros_logo.svg.png" tvg-name="The Venture Bros."  group-title="24/7",The Venture Bros.
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://channelpear.com/images/media/4874.png" tvg-name="Tim and Eric"  group-title="24/7",Tim and Eric
-http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
-
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Williams_Street.png" tvg-name="Williams Stream"  group-title="24/7",Williams Stream
-http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
 
 #EXTINF:-1 tvg-id="1037" tvg-name="" tvg-logo="http://i66.tinypic.com/16lycyo.jpg" group-title="USA",Eye 95 TV
