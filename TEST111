@@ -1,17 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 ,BIG 10
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/254400
-
-#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
-
-#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
 
 
-#EXTINF:-1 tvg-id="YESNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/200px-YES_Network_logo.png" group-title="SPORT",YES Network
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/262881
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
@@ -34,9 +25,14 @@ http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362110
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Showtime_Extreme_2011.svg/125px-Showtime_Extreme_2011.svg.png" group-title="MOVIE", SHOWTIME EXTREME
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142708
 
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE", SHOWTIME NEXT
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362257
 
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142709
 
-
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/HBO_Comedy_2000.svg/revision/latest/scale-to-width-down/200?cb=20100323082341" group-title="MOVIE", HBO COMEDY
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142673
 
 
 
