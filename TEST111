@@ -3,38 +3,12 @@
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",TRU TV WEST
 http://162.244.82.158:8000/TruTVWestm3u8
 
+#EXTINF:-1 tvg-id="661" tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA",CW (WTOG)
+http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
 
+#EXTINF:-1 tvg-id="664" tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46374/epixhits_400x300_dark.png" group-title="USA",Epix Hits
+http://185.246.209.109:8080/EPIX_HITS/tracks-v1a1/index.m3u8
 
-#EXTINF:-1,Discovery Channel HD
-http://server1.life-tv.eu/ch0032/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Discovery Science HD
-http://server1.life-tv.eu/ch0034/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Disney Channel
-http://server1.life-tv.eu/ch0035/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,DTX HD
-http://server1.life-tv.eu/ch0038/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Euronews
-http://server1.life-tv.eu/ch0148/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Europa Plus TV
-http://server1.life-tv.eu/ch0042/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Food Network HD
-http://server1.life-tv.eu/ch0050/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,FOX HD
-http://server1.life-tv.eu/ch0052/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Fox Life HD
-http://server1.life-tv.eu/ch0054/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Fuel TV HD
-http://server1.life-tv.eu/ch0055/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Gulli
-http://server1.life-tv.eu/ch0056/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,H2 HD
-http://server1.life-tv.eu/ch0057/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,Эврика HD
-http://server1.life-tv.eu/ch0059/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,iConcerts HD
-http://server1.life-tv.eu/ch0099/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:-1,ID Investigation Discovery HD
-http://server1.life-tv.eu/ch0061/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
 
 
 
