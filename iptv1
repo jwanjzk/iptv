@@ -117,7 +117,8 @@ http://162.244.82.158:8000/My20Hou.m3u8
 http://162.244.82.158:8000/my-roc.m3u8
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/200px-Game_Show_Network_2018.svg.png" group-title="", GAME SHOW NETWORK
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142669
 
 
 
@@ -183,6 +184,23 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 http://162.244.82.158:8000/CinemaxEast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax West
 http://162.244.82.158:8000/CinemaxWest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Office_US_logo.svg/250px-The_Office_US_logo.svg.png" group-title="24/7", THE OFFICE
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/332514
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/5starMax_logo.png/revision/latest?cb=20100418180646" group-title="MOVIE", 5 StarMax
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/325332
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/125px-Showtime_2_logo.svg.png" group-title="MOVIE", SHOWTIME 2
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142706
+#EXTINF:-1 tvg-id="ShowtimeBeyond.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/125px-Showtime_Beyond.svg.png" group-title="MOVIE", SHOWTIME BEYOND
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362110
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Showtime_Extreme_2011.svg/125px-Showtime_Extreme_2011.svg.png" group-title="MOVIE", SHOWTIME EXTREME
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142708
+#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE", SHOWTIME NEXT
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362257
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142709
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/HBO_Comedy_2000.svg/revision/latest/scale-to-width-down/200?cb=20100323082341" group-title="MOVIE", HBO COMEDY
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142673
+
 
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="SPORT",ESPN
