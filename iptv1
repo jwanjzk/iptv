@@ -227,7 +227,7 @@ http://tvecsnnorthwest-i.akamaihd.net/hls/live/221535/CSNnorthwestx/351XCSN4200.
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/220px-NBC_Sports_Philadelphia.png" group-title="SPORT",NBC Sports Philadelphia Plus
 http://162.244.82.158:8000/CSNPhiladelphia.m3u8
 #EXTINF:-1 tvg-id="NBCSportsNorteast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/220px-NBC_Sports_Philadelphia.png" group-title="SPORT",NBC Sports North East
-http://162.244.82.158:8000/CSNNortEast.m3u8
+http://162.244.82.158:8000/CSNNorthEast.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/NBC_Sports_Washington.png/250px-NBC_Sports_Washington.png" group-title="SPORT",NBC Sports Washington DC
 http://162.244.82.158:8000/CSNMid-Atlantic.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="SPORT",NBA TV
@@ -271,7 +271,7 @@ http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC5
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC 5
 http://162.244.82.158:8000/NBC5.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC7 San Diego
 http://162.244.82.158:8000/NBC7SanDiego.m3u8
@@ -279,6 +279,18 @@ http://162.244.82.158:8000/NBC7SanDiego.m3u8
 http://162.244.82.158:8000/nbc-atlanta.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC Connecticut
 http://162.244.82.158:8000/NBCConnecticut.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC 10
+http://162.244.82.158:8000/NBC10.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/200px-NBC_2014_Ident.svg.png" group-title="NBC",NBC Pittsburgh
+http://162.244.82.158:8000/nbc-pitts.m3u8
+
+
+
+
+
+
+
+
 
 
 
@@ -402,24 +414,6 @@ http://162.244.82.158:8000/abc-finix.m3u8
 http://162.244.82.158:8000/abc-indiana.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Ohio
 http://162.244.82.158:8000/abc-ohio.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
