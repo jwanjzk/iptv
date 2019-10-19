@@ -2,7 +2,23 @@
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
+http://162.244.82.158:8000/CBS-PHILLY-SD.m3u8
 
+#EXTINF:-1 tvg-id="WeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/220px-We_TV_logo_2014.svg.png" group-title="DAVE",WE TV
+http://162.244.82.158:8000/WEtv.m3u8
+
+#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pop_TV.png/220px-Pop_TV.png" group-title="DAVE",POP TV
+http://162.244.82.158:8000/POP.m3u8
+
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
+http://162.244.82.158:8000/FOXNewsChannel.m3u8
+
+#EXTINF:-1 tvg-id="YESNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/200px-YES_Network_logo.png" group-title="SPORT",YES Network
+http://162.244.82.158:8000/YESNetwork.m3u8
+
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="SPORT",Cozi TV
+http://162.244.82.158:8000/YESNetwork.m3u8
 
 
 
