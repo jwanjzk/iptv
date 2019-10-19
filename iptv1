@@ -732,9 +732,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u
 https://stitcher.pluto.tv/stitch/hls/channel/56403d822d2719107d948cb9/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0
 
 
-#EXTINF:-1 group-title="NEWS",NBC 4 News Washington DC
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
-
 #EXTINF:-1,Nick PLUTO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
 #EXTINF:-1,Nick Jr. PLUTO
@@ -756,5 +753,23 @@ https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 https://ott-live.olympicchannel.com/out/u/OC11_1.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 1
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/373985
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 2
+http://193.200.164.221:25461/live/marsha/marsha/12735.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
+http://193.200.164.221:25461/live/marsha/marsha/12736.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
+http://193.200.164.221:25461/live/marsha/marsha/12737.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 5
+http://193.200.164.221:25461/live/marsha/marsha/12738.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 6
+http://193.200.164.221:25461/live/marsha/marsha/12739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 7
+http://193.200.164.221:25461/live/marsha/marsha/12740.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 8
+http://193.200.164.221:25461/live/marsha/marsha/12741.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 9
+http://193.200.164.221:25461/live/marsha/marsha/12742.ts
 
 
