@@ -115,7 +115,8 @@ http://162.244.82.158:8000/My45PHX.m3u8
 http://162.244.82.158:8000/My20Hou.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",MY ROC
 http://162.244.82.158:8000/my-roc.m3u8
-
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
 
 
 
