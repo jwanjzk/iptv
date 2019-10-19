@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="ABC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Albany ABC WTEN
-http://api.new.livestream.com/accounts/87457/events/8396829/live.m3u8
+http://193.200.164.221:25461/live/marsha/marsha/959.m3u8
 #EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="CBS New York" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Albany CBS WRGB
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/37852.m3u8
 #EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="NBC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Albany NBC WNYT
