@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
-http://yoursports.stream/live.php?v=big10
+http://185.246.209.109:8080/MSG/index.m3u8
 
 #EXTINF:-1 tvg-id="WeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/220px-We_TV_logo_2014.svg.png" group-title="DAVE",WE TV
 http://162.244.82.158:8000/WEtv.m3u8
