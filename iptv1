@@ -331,7 +331,106 @@ http://162.244.82.158:8000/ABC6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC NEW YORK
 http://162.244.82.158:8000/abc-newyork.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC PITTSBURGH
-http://162.244.82.158:8000/abc-pittsgurg.m3u8
+http://162.244.82.158:8000/abc-pittsburg.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC SANFRANCISCO
+http://162.244.82.158:8000/abc-sanfrancisco.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Philadelphia
+http://162.244.82.158:8000/abc-Philadelphia-SD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Philadelphia
+http://162.244.82.158:8000/abc-Philadelphia.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC COLUMBUS
+http://162.244.82.158:8000/abc-columbus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Chicago
+http://162.244.82.158:8000/abc-chicago.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Raleigh-Durham
+http://162.244.82.158:8000/abc-Raleigh-Durham.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Philadelphia
+http://162.244.82.158:8000/abc-Philadelphia-SD.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Charlotte
+http://162.244.82.158:8000/abc-Charlotte.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Portland
+http://162.244.82.158:8000/abc-Portland.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Dallas
+http://162.244.82.158:8000/abc-dallas.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Seatle
+http://162.244.82.158:8000/abc-seatle.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Salt Lake City
+http://162.244.82.158:8000/abc-SaltLakeCity.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Sacramento
+http://162.244.82.158:8000/abc-sacramento.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Orlando
+http://162.244.82.158:8000/abc-ORLANDO.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Miami
+http://162.244.82.158:8000/abc-MIAMI.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Houston
+http://162.244.82.158:8000/abc-Houston.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Cleveland
+http://162.244.82.158:8000/abc-Cleveland.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Fresno
+http://162.244.82.158:8000/abc-fresno.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Connecticut
+http://162.244.82.158:8000/abc-Connecticut.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Washington
+http://162.244.82.158:8000/abc-Washington.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Boston
+http://162.244.82.158:8000/abc-boston.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Detroit
+http://162.244.82.158:8000/abc-detroit.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Connecticut
+http://162.244.82.158:8000/abc-Connecticut.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Los Angeles
+http://162.244.82.158:8000/abclosangeles.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Connecticut
+http://162.244.82.158:8000/abc-Connecticut.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Milwaukee
+http://162.244.82.158:8000/abc-Milwaukee.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Connecticut
+http://162.244.82.158:8000/abc-Connecticut.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Kansas City
+http://162.244.82.158:8000/abc-KansasCity.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC San Antonio
+http://162.244.82.158:8000/abc-sanantonio.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Sanluis
+http://162.244.82.158:8000/abc-sanluis.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Minnesota
+http://162.244.82.158:8000/abc-minessota.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Tampa
+http://162.244.82.158:8000/abc-tampa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Finix
+http://162.244.82.158:8000/abc-finix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Indiana
+http://162.244.82.158:8000/abc-indiana.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC Ohio
+http://162.244.82.158:8000/abc-ohio.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC US
