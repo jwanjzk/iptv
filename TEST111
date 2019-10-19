@@ -1,5 +1,20 @@
 #EXTM3U
 
+#EXTINF:-1,Thundercats 24hs
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30014
+#EXTINF:-1,Timão e Pumba 24hs
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30022
+#EXTINF:-1,Tom&Jerry 24hs
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30020
+#EXTINF:-1,- Yin Yang Yo! 24HS
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30019
+#EXTINF:-1,X-Men 24hs
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30017
+#EXTINF:-1,Yu Yu Hakusho 24hs
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30009
+#EXTINF:-1,THE MONSTER 24HRS
+http://painel.ebanonet.com.br:25461/brauliofranques/01101977/30016
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",TRU TV WEST
 http://162.244.82.158:8000/TruTVWestm3u8
 
