@@ -25,10 +25,14 @@ http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142669
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/5starMax_logo.png/revision/latest?cb=20100418180646" group-title="MOVIE", 5 StarMax
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/325332
 
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/125px-Showtime_2_logo.svg.png" group-title="MOVIE", SHOWTIME 2
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142706
 
+#EXTINF:-1 tvg-id="ShowtimeBeyond.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/125px-Showtime_Beyond.svg.png" group-title="MOVIE", SHOWTIME BEYOND
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362110
 
-
-
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Showtime_Extreme_2011.svg/125px-Showtime_Extreme_2011.svg.png" group-title="MOVIE", SHOWTIME EXTREME
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142708
 
 
 
