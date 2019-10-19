@@ -1,5 +1,17 @@
 #EXTM3U
 
+#EXTINF:-1 ,BIG 10
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/254400
+
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
+
+
+
+
+#EXTINF:-1 ,ION TV
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
