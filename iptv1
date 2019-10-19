@@ -105,6 +105,24 @@ http://162.244.82.158:8000/My50.m3u8
 http://162.244.82.158:8000/My27.m3u8
 #EXTINF:-1 tvg-id="KDFI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/WFTC_2018_Logo.png/200px-WFTC_2018_Logo.png" group-title="DAVE",MY 29
 http://162.244.82.158:8000/My29.m3u8
+#EXTINF:-1 tvg-id="MY24WVTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/WCGV_MyNet_Logo.png/200px-WCGV_MyNet_Logo.png" group-title="DAVE",MY 24 Milwaukee
+http://162.244.82.158:8000/my-24-MILWAUKEE.m3u8
+#EXTINF:-1 tvg-id="MY65WRBW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/WRBW_2019_Logo.png/200px-WRBW_2019_Logo.png" group-title="DAVE",MY 65 Orlando
+http://162.244.82.158:8000/My65ORL.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KUTP_2018_Logo.png/200px-KUTP_2018_Logo.png" group-title="DAVE",MY 45 Phoenix
+http://162.244.82.158:8000/My45PHX.m3u8
+#EXTINF:-1 tvg-id="MY20KTXH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/KTXH_2018_Logo.svg/200px-KTXH_2018_Logo.svg.png" group-title="DAVE",MY 20 Houston
+http://162.244.82.158:8000/My20Hou.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",MY ROC
+http://162.244.82.158:8000/my-roc.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="CHILLER.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Chiller_logo.svg/250px-Chiller_logo.svg.png" group-title="DAVE",CHILLER
 http://162.244.82.158:8000/Chiller.m3u8#EXTINF:-1 tvg-id="Freeform.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Freeform_2018.svg/250px-Freeform_2018.svg.png" group-title="DAVE",Freeform
 http://162.244.82.158:8000/Freeform.m3u8
@@ -142,6 +160,10 @@ http://162.244.82.158:8000/hallmark-channel.m3u8
 http://162.244.82.158:8000/hallmark-movies-mysteries-SD.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png" group-title="DAVE",HALLMARK MOVIE
 http://162.244.82.158:8000/hallmark-movies-mysteries.m3u8
+#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="DAVE",Cozi TV
+http://162.244.82.158:8000/NBCCozi.m3u8
+#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pop_TV.png/220px-Pop_TV.png" group-title="DAVE",POP TV
+http://162.244.82.158:8000/POP.m3u8
 
 
 
@@ -294,8 +316,8 @@ http://162.244.82.158:8000/nbc-pitts.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
+http://162.244.82.158:8000/FOXNewsChannel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="DAVE",BBC Worldnews
 http://162.244.82.158:8000/BBCWorldNews.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/150px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="DAVE",HLN
