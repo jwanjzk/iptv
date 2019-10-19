@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:0,OSN_WWE
+http://w.bs-share.com:8000/bs/524470739/8615
+#EXTINF:0,OSN_SPORT_1
+http://w.bs-share.com:8000/bs/524470739/2314
+#EXTINF:0,OSN_SPORT_2
+http://w.bs-share.com:8000/bs/524470739/2315
+#EXTINF:0,OSN_SPORT_3
+http://w.bs-share.com:8000/bs/524470739/2316
+#EXTINF:0,OSN_SPORT_4
+http://w.bs-share.com:8000/bs/524470739/2317
+
 
 #EXTINF:-1,Sky 1 uk
 http://x12tv.co:80/live/barakat5000/barakat5000/7912.m3u8
