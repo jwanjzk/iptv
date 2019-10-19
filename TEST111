@@ -6,54 +6,48 @@ http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/254400
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
 
-
-
-
-#EXTINF:-1 ,ION TV
+#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS3
-http://185.246.209.109:8080/MSG/index.m3u8
-
-#EXTINF:-1 tvg-id="WeTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/We_TV_logo_2014.svg/220px-We_TV_logo_2014.svg.png" group-title="DAVE",WE TV
-http://162.244.82.158:8000/WEtv.m3u8
-
-#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pop_TV.png/220px-Pop_TV.png" group-title="DAVE",POP TV
-http://162.244.82.158:8000/POP.m3u8
-
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
-http://162.244.82.158:8000/FOXNewsChannel.m3u8
-
 #EXTINF:-1 tvg-id="YESNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/06/YES_Network_logo.png/200px-YES_Network_logo.png" group-title="SPORT",YES Network
-http://162.244.82.158:8000/YESNetwork.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/262881
 
-#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="SPORT",Cozi TV
-http://162.244.82.158:8000/YESNetwork.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Office_US_logo.svg/250px-The_Office_US_logo.svg.png" group-title="24/7", THE OFFICE
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/332514
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 1
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/373985
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 2
+http://193.200.164.221:25461/live/marsha/marsha/12735.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
+http://193.200.164.221:25461/live/marsha/marsha/12736.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
+http://193.200.164.221:25461/live/marsha/marsha/12737.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 5
+http://193.200.164.221:25461/live/marsha/marsha/12738.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 6
+http://193.200.164.221:25461/live/marsha/marsha/12739.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 7
+http://193.200.164.221:25461/live/marsha/marsha/12740.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 8
+http://193.200.164.221:25461/live/marsha/marsha/12741.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 9
+http://193.200.164.221:25461/live/marsha/marsha/12742.ts
 
 
-#EXTINF:0,OSN_WWE
-http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/142.ts
-
-
-#EXTINF:0,OSN_SPORT_1
-http://62.210.209.100:86/live/6skKiguAf/RA2fhqCZy/192.ts
-#EXTINF:0,OSN_SPORT_2
-http://w.bs-share.com:8000/bs/524470739/2315
-#EXTINF:0,OSN_SPORT_3
-http://w.bs-share.com:8000/bs/524470739/2316
-#EXTINF:0,OSN_SPORT_4
-http://w.bs-share.com:8000/bs/524470739/2317
-
-
-#EXTINF:-1,Sky 1 uk
-http://x12tv.co:80/live/barakat5000/barakat5000/7912.m3u8
 
 
 
