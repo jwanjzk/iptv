@@ -1,5 +1,49 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="ABC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Albany ABC WTEN
+http://api.new.livestream.com/accounts/87457/events/8396829/live.m3u8
+#EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="CBS New York" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Albany CBS WRGB
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/37852.m3u8
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="NBC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Albany NBC WNYT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/37834.m3u8
+#EXTINF:-1 tvg-id="I398.20360.schedulesdirect.org" tvg-name="FOX New York" tvg-logo="http://shaw.ca/uploadedImages/Television/Channel_Listings/Full_Channel_Listings/LOGO_140x_foxHD.png" group-title="Broadcast", Albany FOX WXXA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/22836.m3u8
+#EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Atlanta ABC 2 WSB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/669.m3u8
+#EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Atlanta CBS 46 WGCL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/667.m3u8
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Atlanta NBC 11 WXIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/666.m3u8
+#EXTINF:-1 tvg-id="I398.20360.schedulesdirect.org" tvg-name="" tvg-logo="http://shaw.ca/uploadedImages/Television/Channel_Listings/Full_Channel_Listings/LOGO_140x_foxHD.png" group-title="Broadcast", Atlanta FOX 5 WAGA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/668.m3u8
+#EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Baltimore ABC WMAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/959.m3u8
+#EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Baltimore CBS WJZ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/960.m3u8
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Baltimore NBC WBAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/962.m3u8
+#EXTINF:-1 tvg-id="I398.20360.schedulesdirect.org" tvg-name="" tvg-logo="http://shaw.ca/uploadedImages/Television/Channel_Listings/Full_Channel_Listings/LOGO_140x_foxHD.png" group-title="Broadcast", Baltimore FOX WBFF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/961.m3u8
+#EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Boston ABC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/19833.m3u8
+#EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Boston CBS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/11702.m3u8
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Boston NBC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/5947.m3u8
+#EXTINF:-1 tvg-id="I398.20360.schedulesdirect.org" tvg-name="" tvg-logo="http://shaw.ca/uploadedImages/Television/Channel_Listings/Full_Channel_Listings/LOGO_140x_foxHD.png" group-title="Broadcast", Boston FOX
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://nitro.ltd:25461/live/Troy/Troy/19872.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="Broadcast", Boston CW WLVI
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master_540-57.m3u8
+#EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", Charlotte ABC 9 WSOC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=;url=http://193.200.164.221:25461/live/marsha/marsha/948.m3u8
+#EXTINF:-1 tvg-id="I390.11331.schedulesdirect.org" tvg-name="" tvg-logo="https://image.flaticon.com/icons/png/512/826/826356.png" group-title="Broadcast", Charlotte CBS 3 WBTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/949.m3u8
+#EXTINF:-1 tvg-id="I392.11705.schedulesdirect.org" tvg-name="" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s28717_h3_aa.png" group-title="Broadcast", Charlotte NBC 36 WCNC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Comcast;url=http://193.200.164.221:25461/live/marsha/marsha/950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="Broadcast", Charlotte CW 18 WCCB
+http://api.new.livestream.com/accounts/8522553/events/live/live.m3u8
+
+
 #EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="ABC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", ABC
 http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="I396.11259.schedulesdirect.org" tvg-name="ABC New York" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s10003_h3_aa.png" group-title="Broadcast", ABC HD
