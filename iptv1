@@ -281,19 +281,19 @@ http://162.244.82.158:8000/NBATV.m3u8
 http://162.244.82.158:8000/NFLRedZone.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/250px-Sky_Sports_logo_2017.svg.png" group-title="SPORT",SKY ACTION
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366649.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366649
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/250px-Sky_Sports_logo_2017.svg.png" group-title="SPORT",SKY ACTION
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366924.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366924
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/revision/latest/scale-to-width-down/80?cb=20180729150423" group-title="SPORT",SKY ARENA
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366923.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366923
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/80?cb=20170718103952" group-title="SPORT",SKY MAIN EVENT
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366652.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366652
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/80?cb=20170718103952" group-title="SPORT",SKY MAIN EVENT
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366918.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366918
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/80?cb=20170718104658" group-title="SPORT",SKY SPORTS MIX
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366647.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366647
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/80?cb=20170718104658" group-title="SPORT",SKY SPORTS MIX
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366917.m3u8
+http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366917
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" group-title="SPORT",Big Sky Conference
