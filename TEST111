@@ -1,7 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TS
+http://193.200.164.221:25461/live/marsha/marsha/450.ts
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",TS1
+http://193.200.164.221:25461/live/marsha/marsha/450
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",ts2
+http://193.200.164.221:25461/live/marsha/marsha/450.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
