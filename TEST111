@@ -35,6 +35,26 @@ http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 1
+http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/455.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 2
+http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/456.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 3
+http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/457.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 4
+http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/458.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 5
+http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/459.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/
