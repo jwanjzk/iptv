@@ -20,11 +20,14 @@ http://93.158.237.1:8000/qlWkyivDP3/siY0WebM2V/15016
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BET
 http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137315.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BET
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SPORTNET
 http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137315
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 12
+http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137316
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 13
+http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137317
 
 
 
