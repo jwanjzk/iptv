@@ -29,7 +29,8 @@ http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/165764.ts
 http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/148146.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 7 Austin
 hhttp://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/148145.ts
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 4 Kansas City
+hhttp://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 
 
 
@@ -131,7 +132,7 @@ http://162.244.82.158:8000/My20Hou.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",MY ROC
 http://162.244.82.158:8000/my-roc.m3u8
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/168255
+http://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/200px-Game_Show_Network_2018.svg.png" group-title="", GAME SHOW NETWORK
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142669
 
@@ -408,10 +409,10 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7
-http://162.244.82.158:8000/ABC7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 11
-http://162.244.82.158:8000/ABC11.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 3 Missouri
+http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Florida
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 6
 http://162.244.82.158:8000/ABC6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC NEW YORK
