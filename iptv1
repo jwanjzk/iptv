@@ -87,15 +87,15 @@ http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/15409.ts
 
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
-http://162.244.82.158:8000/TBSEast.m3u8
+http://bit.ly/2Ib6W3h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS West
 http://162.244.82.158:8000/TBSWest.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT East
-http://162.244.82.158:8000/TNTEast.m3u8
+http://bit.ly/2p8gTP7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT West
 http://162.244.82.158:8000/TNTWest.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
-http://162.244.82.158:8000/USAEast.m3u8
+http://bit.ly/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA West
 http://162.244.82.158:8000/USAWest.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
@@ -170,7 +170,7 @@ http://162.244.82.158:8000/TruTVWest.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAVE",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
-http://162.244.82.158:8000/hallmark-channel-SD.m3u8
+http://bit.ly/2JgEncl
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
 http://162.244.82.158:8000/hallmark-channel.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png" group-title="DAVE",HALLMARK MOVIE
@@ -186,7 +186,7 @@ http://162.244.82.158:8000/POP.m3u8
 
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
-http://162.244.82.158:8000/ShowtimeEast.m3u8
+http://bit.ly/2N63YFR
 #EXTINF:-1 tvg-id=""tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME West
 http://162.244.82.158:8000/ShowtimeWest.m3u8
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO East
@@ -196,7 +196,7 @@ http://162.244.82.158:8000/HBOWEst.m3u8
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="MOVIE",HBO2
 http://161.0.157.5/PLTV/88888888/224/3221227026/01.m3u8
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
-http://162.244.82.158:8000/CinemaxEast.m3u8
+http://bit.ly/2MYkyaw
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax West
 http://162.244.82.158:8000/CinemaxWest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Office_US_logo.svg/250px-The_Office_US_logo.svg.png" group-title="24/7", THE OFFICE
