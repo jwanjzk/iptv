@@ -87,15 +87,15 @@ http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/15409.ts
 
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
-http://bit.ly/2Ib6W3h
+http://bit.ly/2ib6W3h
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS West
-http://162.244.82.158:8000/TBSWest.m3u8
+http://cvtv.cvalley.net/hls/TBSHD/TBShd.m3u8
 #EXTINF:-1 tvg-id="TNT.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT East
 http://bit.ly/2p8gTP7
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/150px-TNT_Logo_2016.svg.png" group-title="DAVE",TNT West
 http://162.244.82.158:8000/TNTWest.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
-http://bit.ly/
+http://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA West
 http://162.244.82.158:8000/USAWest.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
@@ -212,7 +212,7 @@ http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142708
 #EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE", SHOWTIME NEXT
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/362257
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142709
+http://bit.ly/2oX02PU
 #EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/HBO_Comedy_2000.svg/revision/latest/scale-to-width-down/200?cb=20100323082341" group-title="MOVIE", HBO COMEDY
 http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/142673
 
