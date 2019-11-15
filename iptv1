@@ -279,7 +279,7 @@ http://162.244.82.158:8000/Velocity.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
 http://193.200.164.221:25461/live/marsha/marsha/41.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
-http://162.244.82.158:8000/NFLNetwork.m3u8
+http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9047.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
