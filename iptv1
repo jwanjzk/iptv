@@ -123,6 +123,8 @@ http://193.200.164.221:25461/live/marsha/marsha/1765.ts
 http://193.200.164.221:25461/live/marsha/marsha/1766.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 10 Tampa
 http://193.200.164.221:25461/live/marsha/marsha/1166.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 2 New York
+http://193.200.164.221:25461/live/marsha/marsha/204.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
@@ -152,7 +154,7 @@ http://bit.ly/2p8gTP7
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
 http://cvtv.cvalley.net/hls/USAHD/USAHD.m3u8
 #EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
-http://162.244.82.158:8000/SundanceTV.m3u8
+http://193.200.164.221:25461/live/marsha/marsha/46.ts
 #EXTINF:-1 tvg-id="IndependentFilmChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/250px-IFC_2014_logo.svg.png" group-title="DAVE",IFC
 http://bit.ly/35ZKv2r
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
@@ -161,27 +163,11 @@ http://bit.ly/
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="DAVE",A&E HD
 https://cvtv.cvalley.net/hls/AEHD/AEHD.m3u8
 #EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="DAVE",BBC AMERICA
-http://162.244.82.158:8000/BBCAmerica-SD.m3u8
+http://193.200.164.221:25461/live/marsha/marsha/138.ts
 #EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" group-title="DAVE",FX East
-http://162.244.82.158:8000/FXEast.m3u8
+http://193.200.164.221:25461/live/marsha/marsha/192.ts
 #EXTINF:-1 tvg-id="My9WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/200px-WWOR_NewJersey.svg.png" group-title="DAVE",MY9
 http://193.200.164.221:25461/live/marsha/marsha/11873.ts
-#EXTINF:-1 tvg-id="WPWR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/WPWR_2019_Logo.png/200px-WPWR_2019_Logo.png" group-title="DAVE",MY 50
-http://162.244.82.158:8000/My50.m3u8
-#EXTINF:-1 tvg-id="KDFI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/MyNetworkTV_2D_Logo.svg/175px-MyNetworkTV_2D_Logo.svg.png" group-title="DAVE",MY 27
-http://162.244.82.158:8000/My27.m3u8
-#EXTINF:-1 tvg-id="KDFI.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/WFTC_2018_Logo.png/200px-WFTC_2018_Logo.png" group-title="DAVE",MY 29
-http://162.244.82.158:8000/My29.m3u8
-#EXTINF:-1 tvg-id="MY24WVTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/60/WCGV_MyNet_Logo.png/200px-WCGV_MyNet_Logo.png" group-title="DAVE",MY 24 Milwaukee
-http://162.244.82.158:8000/my-24-MILWAUKEE.m3u8
-#EXTINF:-1 tvg-id="MY65WRBW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/WRBW_2019_Logo.png/200px-WRBW_2019_Logo.png" group-title="DAVE",MY 65 Orlando
-http://162.244.82.158:8000/My65ORL.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/KUTP_2018_Logo.png/200px-KUTP_2018_Logo.png" group-title="DAVE",MY 45 Phoenix
-http://162.244.82.158:8000/My45PHX.m3u8
-#EXTINF:-1 tvg-id="MY20KTXH.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/KTXH_2018_Logo.svg/200px-KTXH_2018_Logo.svg.png" group-title="DAVE",MY 20 Houston
-http://162.244.82.158:8000/My20Hou.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",MY ROC
-http://162.244.82.158:8000/my-roc.m3u8
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
 http://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8
 #EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
@@ -303,7 +289,7 @@ http://193.200.164.221:25461/live/marsha/marsha/75.ts
 #EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="SPORT",Fox Sports South
 http://193.200.164.221:25461/live/marsha/marsha/76.ts
 #EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Fox_Sports_Florida_2012_logo.png/200px-Fox_Sports_Florida_2012_logo.png" group-title="SPORT",Fox Sports Florida
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/221889
+http://193.200.164.221:25461/live/marsha/marsha/69.ts
 
 #EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Fox_Sports_Southeast_2015_logo.jpeg/200px-Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORT",Fox Sports South East
 http://193.200.164.221:25461/live/marsha/marsha/77.ts
@@ -322,11 +308,13 @@ http://162.244.82.158:8000/NBCSportsNetwork.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/200px-Motor_Trend.svg.png" group-title="DAVE",VELOCITY
 http://162.244.82.158:8000/Velocity.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
-http://193.200.164.221:25461/live/marsha/marsha/41.ts
+http://193.200.164.221:25461/live/marsha/marsha/4.ts
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
 http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9592.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
 http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9047.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
+http://193.200.164.221:25461/live/marsha/marsha/41.ts
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
