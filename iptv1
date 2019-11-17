@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 40 California
-http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/56474.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox11
-http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/56473.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox29
-http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/148138.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 43 
+http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9666.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 5
+http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9673.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox
+http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/8017.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 30 Jacksonsville
 http://qqtv.nl:8080/live/SaJB5SqH1h/zpkvCuuYAn/181477.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 32 Chicago
