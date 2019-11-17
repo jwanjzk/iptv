@@ -19,6 +19,8 @@ http://193.200.164.221:25461/live/marsha/marsha/2642.ts
 http://193.200.164.221:25461/live/marsha/marsha/953.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 31 Denver
 http://193.200.164.221:25461/live/marsha/marsha/1774.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 5 Washington DC
+http://193.200.164.221:25461/live/marsha/marsha/589.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 2 Detroit
 http://193.200.164.221:25461/live/marsha/marsha/897.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 61 Hartford
@@ -39,6 +41,8 @@ http://193.200.164.221:25461/live/marsha/marsha/2639.ts
 http://193.200.164.221:25461/live/marsha/marsha/2645.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 8 New Orleans
 http://193.200.164.221:25461/live/marsha/marsha/1109.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 5 new York
+http://193.200.164.221:25461/live/marsha/marsha/205.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 35 Orlando
 http://193.200.164.221:25461/live/marsha/marsha/214.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 29 Philadelphia
