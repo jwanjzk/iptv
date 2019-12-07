@@ -25,7 +25,7 @@ logo=http://i.imgur.com/PJ3OW4C.png stream=https://videoserver2.org/live/buptxyl
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=https://videoserver2.org/live/buptxylcAVN3d1POAxShHA/1519334845/c0371e35a2b3244f5edda7947172d954.m3u8 cat=Entertainment
 
 #EXTINF:0, Action Movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=https://videoserver2.org/live/5A2O66-J6Rge_0tZsuy_Qg/1519332581/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
+https://videoserver2.org/live/5A2O66-J6Rge_0tZsuy_Qg/1519332581/90ce2364e02379b96643fe4d0f2d7c25.m3u8 
 
 #EXTINF:0, Adult Swim (RandomAirTime 24/7) (US) (English)
 logo=https://www.arconaitv.me/wp-content/uploads/2015/06/ad.png stream=https://videoserver2.org/live/rposWNt5B2CzcaS67q_GAw/1519334855/539125fdf85ba9fc38e2550c3c838e4d.m3u8 cat=RandomAirTime 24/7
@@ -37,7 +37,7 @@ logo=https://www.arconaitv.me/wp-content/uploads/2015/06/tumblr_nmixkmD0tk1r7oy5
 logo=https://www.arconaitv.me/wp-content/uploads/2015/06/10.png stream=https://videoserver2.org/live/892GtgE5mgFI2patBKCoiA/1519334245/f970e2767d0cfe75876ea857f92e319b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, American Dad (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/3.png stream=https://videoserver1.org/live/LLh1FYCcZCFFh9_iAUbHDg/1519333113/523af537946b79c4f8369ed39ba78605.m3u8 cat=RandomAirTime 24/7
+https://videoserver1.org/live/LLh1FYCcZCFFh9_iAUbHDg/1519333113/523af537946b79c4f8369ed39ba78605.m3u8 
 
 #EXTINF:0, American Horror Story (RandomAirTime 24/7) (US) (English)
 logo=http://i.imgur.com/Mjwkazv.jpg stream=https://videoserver1.org/live/6az4h1kgCOQCG_k5U3ANxg/1519334689/9473408d814743efc7c203eb79782f8b.m3u8 cat=RandomAirTime 24/7
