@@ -156,6 +156,8 @@ http://193.200.164.221:25461/live/marsha/marsha/55.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAVE",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="DAVE",FXM
+http://200.73.59.84:8000
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
 http://bit.ly/2JgEncl
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
@@ -166,6 +168,7 @@ http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/143363
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142638
 #EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pop_TV.png/220px-Pop_TV.png" group-title="DAVE",POP TV
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/303220
+
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
 http://bit.ly/2N63YFR
