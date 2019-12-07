@@ -46,8 +46,6 @@ http://193.200.164.221:25461/live/marsha/marsha/219.ts
 http://162.244.82.158:8000/FOX35ORL.ts
 
 
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 2 Los Angeles
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300498
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 4 Denver
@@ -248,9 +246,9 @@ http://162.244.82.158:8000/Velocity.m3u8
 #EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/254400
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
-http://dreamsat.ddns.me:6030/live/Spiral-multi/sdfghjjkhcx/9047.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/303751
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
-http://193.200.164.221:25461/live/marsha/marsha/41.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/313554
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
@@ -272,24 +270,17 @@ http://162.244.82.158:8000/CSNMid-Atlantic.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="SPORT",NBA TV
 http://162.244.82.158:8000/NBATV.m3u8
 #EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" group-title="SPORT",NFL REDZONE
-http://162.244.82.158:8000/NFLRedZone.m3u8
-
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/369086
+#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" group-title="SPORT",NFL REDZONE
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/371468
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/250px-Sky_Sports_logo_2017.svg.png" group-title="SPORT",SKY ACTION
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366649
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/250px-Sky_Sports_logo_2017.svg.png" group-title="SPORT",SKY ACTION
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366924
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366649
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/revision/latest/scale-to-width-down/80?cb=20180729150423" group-title="SPORT",SKY ARENA
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366923
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366923
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/80?cb=20170718103952" group-title="SPORT",SKY MAIN EVENT
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366652
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/80?cb=20170718103952" group-title="SPORT",SKY MAIN EVENT
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366918
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366652
 #EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/80?cb=20170718104658" group-title="SPORT",SKY SPORTS MIX
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366647
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/80?cb=20170718104658" group-title="SPORT",SKY SPORTS MIX
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/366917
-
-
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366647
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" group-title="SPORT",Big Sky Conference
 http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Stadium_TV_network_logo.png/150px-Stadium_TV_network_logo.png",Stadium PLUTO
@@ -321,65 +312,49 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 11 Atlanta
-http://193.200.164.221:25461/live/marsha/marsha/666.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 11 Baltimore
-http://193.200.164.221:25461/live/marsha/marsha/962.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/359889
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 10 Boston
-http://193.200.164.221:25461/live/marsha/marsha/892.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300443
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 36 Charlotte
-http://193.200.164.221:25461/live/marsha/marsha/950.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300442
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 5 Chicago
-http://193.200.164.221:25461/live/marsha/marsha/622.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/368115
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 3 Cleveland
-http://193.200.164.221:25461/live/marsha/marsha/457.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 5 Dallas
-http://193.200.164.221:25461/live/marsha/marsha/954.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 9 Denver
-http://193.200.164.221:25461/live/marsha/marsha/1775.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300436
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 30 Hartford
-http://193.200.164.221:25461/live/marsha/marsha/11336.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300425
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 2 Houston
-http://193.200.164.221:25461/live/marsha/marsha/958.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300455
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 13 Indianapolis
-http://193.200.164.221:25461/live/marsha/marsha/11332.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300428
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 2 Jacksonsville
-http://193.200.164.221:25461/live/marsha/marsha/1161.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300466
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 41 Kansas City
-http://193.200.164.221:25461/live/marsha/marsha/1771.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300453
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 5 Miami
-http://193.200.164.221:25461/live/marsha/marsha/1164.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300430
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 4 Milwaukee
-http://193.200.164.221:25461/live/marsha/marsha/2641.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300427
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 6 New Orleans
-http://193.200.164.221:25461/live/marsha/marsha/1110.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300440
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 2 Orlando
-http://193.200.164.221:25461/live/marsha/marsha/217.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 10 Philadephia
-http://193.200.164.221:25461/live/marsha/marsha/1727.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300439
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 12 Phoenix
-http://193.200.164.221:25461/live/marsha/marsha/612.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300456
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 11 Pittsburgh
-http://193.200.164.221:25461/live/marsha/marsha/218.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300433
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 8 Portland
-http://193.200.164.221:25461/live/marsha/marsha/4358.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300461
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 3 Sacramento
-http://193.200.164.221:25461/live/marsha/marsha/2634.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 5 seattle
-http://193.200.164.221:25461/live/marsha/marsha/1767.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC 5 St Louis
-http://193.200.164.221:25461/live/marsha/marsha/1778.ts
-
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/361983
 
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
-http://162.244.82.158:8000/FOXNewsChannel.m3u8
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142661
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="DAVE",BBC Worldnews
 http://162.244.82.158:8000/BBCWorldNews.m3u8
 #EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/150px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="DAVE",HLN
-http://162.244.82.158:8000/HLN.m3u8
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142682
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="WEATHER",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-id="WeatherNation.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/WeatherNation_logo.png/225px-WeatherNation_logo.png" group-title="WEATHER",Weather Nation
@@ -389,7 +364,7 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-bbcnews/tracks-v1a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/VejnhiB.png" group-title="",BBC News
 https://streamingserver003.viewtvgroup.com/kapanglocal-playout-master/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/s9SouED.png" group-title="NEWS",CNN HD
-https://cvtv.cvalley.net/hls/CNNHD/CNNHD.m3u8
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/353543
 #EXTINF:-1 tvg-id="Bloomberg TV USA-US" tvg-name="Bloomberg TV USA-US" tvg-logo="https://s3.amazonaws.com/schedulesdirect/assets/stationLogos/s71799_h3_aa.png" group-title="NEWS",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pmcdeadline2.files.wordpress.com/2017/06/newsmax-tv-logo.jpg" tvg-name="Newsmax TV"  group-title="NEWS",Newsmax TV
@@ -411,74 +386,47 @@ https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1 group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 3 Missouri
-http://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Florida
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 2 Atlanta
-http://193.200.164.221:25461/live/marsha/marsha/669.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 2 Baltimore
-http://193.200.164.221:25461/live/marsha/marsha/959.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/3331997
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 5 Boston
-http://193.200.164.221:25461/live/marsha/marsha/890.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300518
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 9 Charlotte
-http://193.200.164.221:25461/live/marsha/marsha/948.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/337817
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Chicago
-http://193.200.164.221:25461/live/marsha/marsha/618.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300510
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 5 Cleveland
-http://193.200.164.221:25461/live/marsha/marsha/456.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300517
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 8 Dallas
-http://193.200.164.221:25461/live/marsha/marsha/951.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300516
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Denver
-http://193.200.164.221:25461/live/marsha/marsha/1772.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300527
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Detroit
-http://193.200.164.221:25461/live/marsha/marsha/894.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 13 Houston
-http://193.200.164.221:25461/live/marsha/marsha/955.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 9 Kansas City
-http://193.200.164.221:25461/live/marsha/marsha/1768.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10 Miami
-http://193.200.164.221:25461/live/marsha/marsha/1156.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300508
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 12 Milwaukee
-http://193.200.164.221:25461/live/marsha/marsha/2637.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300513
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 2 Nashville
-http://193.200.164.221:25461/live/marsha/marsha/2643.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300511
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 9 Orlando
-http://193.200.164.221:25461/live/marsha/marsha/213.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/355938
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 6 Philadephia
-http://193.200.164.221:25461/live/marsha/marsha/1729.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/357137
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 15 Phoenix
-http://193.200.164.221:25461/live/marsha/marsha/610.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 4 Pittsburgh
-http://193.200.164.221:25461/live/marsha/marsha/220.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300526
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 2 Portland
-http://193.200.164.221:25461/live/marsha/marsha/4359.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300532
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10 Sacermento
-http://193.200.164.221:25461/live/marsha/marsha/2461.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 San Francisco
-http://193.200.164.221:25461/live/marsha/marsha/613.ts
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300520
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 4 Seattle
-http://193.200.164.221:25461/live/marsha/marsha/2647.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 28 Tampa
-http://193.200.164.221:25461/live/marsha/marsha/1165.ts
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 10
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC US
-http://190.80.3.28/ABC/ABC.isml/index.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/mz3b5QW.png" tvg-name="ABC (WWSB)"  group-title="ABC",ABC (WWSB)
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7
-https://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d#EXTINF:-1 ,CBS
-
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300525
 
 #EXTINF:-1  tvg-id="CW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/225px-The_CW.svg.png" group-title="DAVE",CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
 #EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="DAVE",CARTOON NETWORK
-http://sv6.dailymotion.com.host/live/ctnw/chunks.m3u8
+http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142626
 #EXTINF:-1  tvg-id="BuzzrTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Buzzr_%28TV_Network%29_Logo.png/175px-Buzzr_%28TV_Network%29_Logo.png" group-title="DAVE",BUZZR TV
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
