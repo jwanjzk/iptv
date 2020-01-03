@@ -76,8 +76,8 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 http://190.80.3.28/CW/CW.isml/index.m3u8
 
 
-
-
+#EXTINF:-0 tvg-id="" tvg-logo="" group-title="",FS1
+http://stream.fs1.tv:8080/hls/webstream.m3u8
 
 
 
