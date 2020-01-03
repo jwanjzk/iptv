@@ -66,31 +66,6 @@ http://37.193.27.13:81/udp/239.1.3.3:1234
 
 
 
-
-
-#EXTINF:0, *Property of cCloudTV.ORG* (Top10) (US) (English)
-http://fullhpd.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc
-
-
-#EXTINF:-1 $ExtFilter="124“, 124 - 186
-http://124.47.34.12:8080/live/1000186.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 187
-http://124.47.34.12:8080/live/1000187.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 188
-http://124.47.34.12:8080/live/1000188.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 189
-http://124.47.34.12:8080/live/1000189.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 192
-http://124.47.34.12:8080/live/1000192.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 193
-http://124.47.34.12:8080/live/1000193.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 194
-http://124.47.34.12:8080/live/1000194.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 195
-http://124.47.34.12:8080/live/1000195.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="124“, 124 - 196
-http://124.47.34.12:8080/live/1000196.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="Fox Regional(USA)", FOX 25 Boston (WFXT)
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 
@@ -99,7 +74,7 @@ https://sync1.iptv.bingo/live/434?u=181253
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC5WMAQTV.us.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 #EXTINF:-1, tvg-logo="https://www.komu.com/css/images/komu_logo.png" group-title="NBC Regional(USA)",NBC 8 Columbia (KOMU)
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
 
@@ -109,58 +84,6 @@ https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORT",TSN 1
-http://193.200.164.221:25461/live/marsha/marsha/450.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/220px-TSN2.svg.png" group-title="SPORT",TSN 2
-http://193.200.164.221:25461/live/marsha/marsha/451.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/TSN3_svg.png/revision/latest/scale-to-width-down/250?cb=20150709183134" group-title="SPORT",TSN 3
-http://193.200.164.221:25461/live/marsha/marsha/452.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/50/Tsn_4_ca.png/revision/latest/scale-to-width-down/250?cb=20150906015754" group-title="SPORT",TSN 2
-http://193.200.164.221:25461/live/marsha/marsha/453.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ac/TSN5_svg.png/revision/latest/scale-to-width-down/250?cb=20150709183505" group-title="SPORT",TSN 5
-http://193.200.164.221:25461/live/marsha/marsha/454.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",SPORTNET ONE
-http://193.200.164.221:25461/live/marsha/marsha/348.ts
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SKY CINEMA ACTION
-http://93.158.237.1:8000/qlWkyivDP3/siY0WebM2V/15016
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", BET
-http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137315.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", SPORTNET
-http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137315
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 12
-http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137316
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 13
-http://93.158.237.11:8000/ZdrPEgPZpy/GQV82Z7BNh/137317
-
-
-#EXTINF:-1,US: ESPN 1
-http://93.158.237.11:8000/live/ZdrPEgPZpy/GQV82Z7BNh/137225
-#EXTINF:-1,US: ESPN 1
-http://93.158.237.11:8000/live/ZdrPEgPZpy/GQV82Z7BNh/137224
-#EXTINF:-1,US: ESPN 2
-http://93.158.237.11:8000/live/ZdrPEgPZpy/GQV82Z7BNh/137223
-#EXTINF:-1,US: ESPN NEWS
-http://93.158.237.11:8000/live/ZdrPEgPZpy/GQV82Z7BNh/137324
-#EXTINF:-1,US: ESPN U HD
-http://93.158.237.11:8000/live/ZdrPEgPZpy/GQV82Z7BNh/137221
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORT",TSN 4
-http://193.200.164.221:25461/live/marsha/marsha/451.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="Sport",Fight Sports
-http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
 http://92.43.140.200/s86/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
@@ -168,20 +91,6 @@ http://92.43.140.249/s86/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
 http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 1
-http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/455.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 2
-http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/456.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 3
-http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/457.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 4
-http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/458.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="", TEST 5
-http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/459.m3u8
 
 
 
@@ -189,46 +98,12 @@ http://aliwix-tv.ga:8080/live/aliwix-tv.tk/aliwix-tv.com/459.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Office_US_logo.svg/250px-The_Office_US_logo.svg.png" group-title="24/7", THE OFFICE
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/332514
-
-#EXTINF:-1 tvg-id="" tvg-logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Blue_Bloods_2010_Intertitle.png/250px-Blue_Bloods_2010_Intertitle.png" group-title="24/7",BLUE BLOODS
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/376130
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Band-of-brothers-tv-logo.png/revision/latest/scale-to-width-down/350?cb=20160630184816" group-title="24/7", BAND OF BROTHERS
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/326003
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/Bettercallsaul_pre2015.gif/revision/latest/scale-to-width-down/200?cb=20170103090358" group-title="24/7", BETTER CALL SAUL
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/332727
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/13/Breaking_Bad.svg/revision/latest/scale-to-width-down/250?cb=20161106161634" group-title="",BREAKING BAD
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/332726
 
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 1
-http://s1.myhostingportal.live:83/InVisiontV132/Yaushyc235/373985
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 2
-http://193.200.164.221:25461/live/marsha/marsha/12735.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
-http://193.200.164.221:25461/live/marsha/marsha/12736.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 3
-http://193.200.164.221:25461/live/marsha/marsha/12737.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 5
-http://193.200.164.221:25461/live/marsha/marsha/12738.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 6
-http://193.200.164.221:25461/live/marsha/marsha/12739.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 7
-http://193.200.164.221:25461/live/marsha/marsha/12740.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 8
-http://193.200.164.221:25461/live/marsha/marsha/12741.ts
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="PAID PER VIEW", PPV 9
-http://193.200.164.221:25461/live/marsha/marsha/12742.ts
+
 
 
 
