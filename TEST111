@@ -6,32 +6,8 @@ http://109.248.66.41:4044/udp/239.195.2.4:1234
 http://premiummhdtv.com:25461/Penha10/138460wps/1263
 
 
-#EXTINF:0,CHELSEA TV SD
-http://iptv6.premium-stv.com:25461/sourceuksnow/7082310538/3139
-#EXTINF:0,CNN
-http://31.41.100.81:81/udp/225.0.55.242:1234
-#EXTINF:0,CNN
-http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/842/index.m3u8
-#EXTINF:0,CNN
-http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
-#EXTINF:0,CNN
-http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,CNN
-https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,CNN
-https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
-#EXTINF:0,CNN
-http://46.49.25.122:9001/udp/224.100.1.217:1217
-#EXTINF:0,CNN
-http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
-#EXTINF:0,CNN
-https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:0,CNN
-http://iptv6.premium-stv.com:25461/SOURCEARABPRO1/9925515831/2366
-#EXTINF:0,CNN
-http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/572
-#EXTINF:0,CNN SD
-http://iptv6.premium-stv.com:25461/sourceuksnow/7082310538/3141
+#EXTINF:-1 ,BBC
+http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
 
 
 
