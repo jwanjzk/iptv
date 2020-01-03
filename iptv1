@@ -29,11 +29,8 @@ http://interlatins.com:48000/live/waldemar/waldemar/5484.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
 http://interlatins.com:48000/live/waldemar/waldemar/5500.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
-http://s8.11223344.host/live/cbs/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
-http://docs-8.gogleusercontent.host/live/cbs/chunks.m3u8
+#EXTINF:0 group-title="FoxSports", Fox Sports HD [01]
+http://95.170.215.118/hls/m3u8/Fox-Sport-1.m3u8
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
 http://interlatins.com:48000/live/waldemar/waldemar/1715.ts
