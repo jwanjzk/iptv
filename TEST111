@@ -4,64 +4,34 @@
 http://109.248.66.41:4044/udp/239.195.2.4:1234
 #EXTINF:0,XXX BRAZZERS EUROPE
 http://premiummhdtv.com:25461/Penha10/138460wps/1263
-#EXTINF:0,BRIDGE TV DANCE
-http://78.30.254.43:8989/udp/238.1.3.93:1234?zona-iptv-ru/
-#EXTINF:0,BRIDGE TV DANCE
-http://78.30.254.43:8989/udp/238.1.3.93:1234
-#EXTINF:0,BRIDGE TV DANCE
-http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/711/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
-http://109.248.66.41:4044/udp/239.195.1.50:1234
-#EXTINF:0,BRIDGE TV DANCE
-http://188.190.222.51/Nickelodeon/mpegts
-#EXTINF:0,BRIDGE TV DANCE
-http://95.28.222.72:81/udp/233.33.220.43:5050
-#EXTINF:0,BRIDGE TV DANCE (РЕЗЕРВ)
-http://188.243.17.94:4022/udp/239.239.3.69:5239?em9uYS1pcHR2LnJ1
-#EXTINF:0,BRIDGE TV DANCE [SD]
-http://188.243.17.94:4022/udp/239.239.3.69:5239
-#EXTINF:0,CARTOON NETWORK
-http://2ecba0eb.iptvzone.net/iptv/D76PCW8BZ47S3B/143/index.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/143/index.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://ott-cdn.ucom.am/s63/04.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://server1.life-tv.eu/ch0024/video.m3u8?token=cmVzdHJpbXx8Y21WemRISnBiUT09
-#EXTINF:0,CARTOON NETWORK
-http://178.124.183.12/hls/CNVX7JRQJI/bw2000000/playlist.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://46.32.68.167/s/live/601/86.169.51.136/8/0.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://bg.rose35.com:1958/live/54321m/54321m/111.ts
-#EXTINF:0,CARTOON NETWORK
-http://streamer.in-lan.net.ua:8080/ch0063
-#EXTINF:0,CARTOON NETWORK
-http://193.111.2.200:8000/play/a015/index.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://46.32.68.167/s/live/601/86.169.51.136/1/0.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://95.170.215.109:80/hls/m3u8/CNArabica-Backup.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://46.32.68.167/s/live/601/51.51.51.51/1/0.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://178.124.183.13/hls/CNVX7JRQJI/bw1200000/playlist.m3u8
-#EXTINF:0,CARTOON NETWORK
-http://46.32.68.167/s/live/601/86.169.51.136/0/0.m3u8
-#EXTINF:0,CARTOON NETWORK (ENGLAND)
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:0,CARTOON NETWORK (LA)
-http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8?fluxustv.m3u8
-#EXTINF:0,CARTOON NETWORK HD
-http://188.35.9.11:21151/udp/185f
-#EXTINF:0,CARTOON NETWORK HD
-http://188.35.9.12:21151/udp/185f
-#EXTINF:0,CARTOON NETWORK HD
-http://iptv6.premium-stv.com:25461/sourcegermanysnow/7626503642/2669
-#EXTINF:0,CARTOON NETWORK [SD]
-http://37.192.22.180:81/udp/239.1.3.3:1234
-#EXTINF:0,CARTOON NETWORK [SD]
-http://37.193.27.13:81/udp/239.1.3.3:1234
+
+
+#EXTINF:0,CHELSEA TV SD
+http://iptv6.premium-stv.com:25461/sourceuksnow/7082310538/3139
+#EXTINF:0,CNN
+http://31.41.100.81:81/udp/225.0.55.242:1234
+#EXTINF:0,CNN
+http://4f9cc916.ottv.info/iptv/ZVQP7WC8VPT42D/842/index.m3u8
+#EXTINF:0,CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8
+#EXTINF:0,CNN
+http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,CNN
+https://live.dogannet.tv/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8?key=&live=true&app=com.cnnturk
+#EXTINF:0,CNN
+http://46.49.25.122:9001/udp/224.100.1.217:1217
+#EXTINF:0,CNN
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:0,CNN
+https://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
+#EXTINF:0,CNN
+http://iptv6.premium-stv.com:25461/SOURCEARABPRO1/9925515831/2366
+#EXTINF:0,CNN
+http://iptv6.premium-stv.com:25461/sourcecanadapro1/4042848025/572
+#EXTINF:0,CNN SD
+http://iptv6.premium-stv.com:25461/sourceuksnow/7082310538/3141
 
 
 
