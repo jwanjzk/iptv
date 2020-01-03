@@ -15,26 +15,38 @@ http://fixhd.tv:8081/fix/hd.stream/playlist.m3u8
 http://178.124.183.5/hls/CH_FOX/variant.m3u8
 #EXTINF:-1 ,Fox Life
 http://178.124.183.5/hls/CH_FOXL/variant.m3u8
-#EXTINF:-1 ,Galaxy
-http://178.124.183.14:80/hls/CH_GALAXY/variant.m3u8
-#EXTINF:-1 ,HD Media
-http://serv25.vintera.tv:8081/hdmedia/hdmedia_pay/playlist.m3u8
-#EXTINF:-1 ,HD Media 3D HD
-http://serv25.vintera.tv:8081/HDMediaFree/hdm3d/playlist.m3u8
-#EXTINF:-1 ,HD КИНО
-https://hls.goodgame.ru/hls/12949_720.m3u8
-#EXTINF:-1 ,History
-http://46.32.68.167/s/live/420/86.169.51.136/0/0.m3u8
-#EXTINF:-1 ,History HD
-http://46.32.68.167/s/live/926/86.169.51.136/1/0.m3u8
-#EXTINF:-1 ,Hit Music Channel (Hungary)
-http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 ,Hollywood
-http://46.32.68.167/s/live/256/86.169.51.136/0/0.m3u8
-#EXTINF:-1 ,Holvoet TV HD (Chille)
-http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
-#EXTINF:-1 ,HTV KG
-http://212.2.228.202:1935/live/htv.stream/playlist.m3u8
+#EXTINF:-1 ,Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,Retro Music TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,Retro Tv
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 ,Rik
+https://nn.geo.joj.sk/live/hls/rik-540.m3u8
+#EXTINF:-1 ,Ritsa TV
+http://hls.goodgame.ru/hls/122431.m3u8
+#EXTINF:-1 ,RT HD
+http://uiptv.do.am/1ufc/702424953/playlist.m3u8
+#EXTINF:-1 ,RTG TV
+http://88b9da48.kazmazpaz.ru/iptv/D7M94NBVB5DLFS/841/index.m3u8
+#EXTINF:-1 ,RTL 102.5 TV
+http://rtl-radio-stream-thron.akamaized.net/live-video/video1/video1/chunklist_b2296000.m3u8
+#EXTINF:-1 ,RTL Radio (Lux)
+http://live-edge04.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
+#EXTINF:-1 ,RU TV HD
+http://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 ,Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 ,Russian MusicBox
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 ,Setanta Sport HD
+http://92.46.127.146:8080/SetantaSport/index.m3u8
+#EXTINF:-1 ,Setanta Sport Plus HD
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 ,Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 ,Shot TV
+http://persik.tv/stream/7725/408679/10454.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://media.myfoxbostoncom.cmgdigital.com/photo/2018/07/19/logo-main-wfxt_1532037842427_12380292_ver1.0.png" group-title="Fox Regional(USA)", FOX 25 Boston (WFXT)
