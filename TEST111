@@ -78,7 +78,7 @@ http://124.47.34.12:8080/live/1000196.stream/playlist.m3u8
 http://svc-lvanvato-cxtv-wfxt.cmgvideo.com:80/wfxt/2564k/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/index_1286_av-b.m3u8
+https://sync1.iptv.bingo/live/434?u=181253
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC5WMAQTV.us.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
 http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 #EXTINF:-1, tvg-logo="https://www.komu.com/css/images/komu_logo.png" group-title="NBC Regional(USA)",NBC 8 Columbia (KOMU)
