@@ -4,64 +4,6 @@
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 4 Kansas City
-http://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 53 Pittsburgh
-http://193.200.164.221:25461/live/marsha/marsha/219.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox35 ORLANDO
-http://162.244.82.158:8000/FOX35ORL.ts
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 2 Los Angeles
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300498
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 4 Denver
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300497
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 5 Kansas City
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300496
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 8 San Diego
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300493
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 11 Houston
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300492
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 7 Seattle
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300491
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 13 Sacramento
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300489
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 5 Phoenix
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300488
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 11 Fort Worth
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300487
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 2 Chicago
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/368117
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 3 Charolette
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300485
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 4 Boston
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300484
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 4 Minneapolis
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300483
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 2 Greensboro
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300481
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 58 Milwaukee
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300482
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 3 Hartford
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300479
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 46 Atlanta
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300478
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 6 Orlando
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300475
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 47 Jacksonville
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300499
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 12 Cincinnati
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/331736
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 19 cleveland
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300474
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS ST. Peterburg
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300472
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 5 Nashville
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300471
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 9 Washington DC
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300470
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 62 Detroit
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300469
 
