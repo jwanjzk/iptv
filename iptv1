@@ -1,40 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 4 Dallas
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300419
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 12 Portland
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300417
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 26 Houston
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300416
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 10 Phoenix
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300415
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 20
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300412
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 10
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300410
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 5 Atlanta
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300409
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 45 Baltimore
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 32 Chicago
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/313461
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox Minneapolis
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300406
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 25 Boston
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 46 Charlotte
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/337818
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 35 Orlando
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300400
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 7 Miami
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300396
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wkipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 13 Tampa
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300393
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 29 Philadephia
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300392
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 8 New Orleans
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300390
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 19 Cincinnati
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300389
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 4 Kansas City
 http://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
