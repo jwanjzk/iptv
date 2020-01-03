@@ -15,27 +15,27 @@ http://bit.ly/35ZKv2r
 http://bit.ly/2JgEncl
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png group-title="DAVE",Food Network
-http://interlatins.com:48000/live/waldemar/waldemar/3667.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/3667.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Boston
-http://interlatins.com:48000/live/waldemar/waldemar/5485.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/5485.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Buffalo
-http://interlatins.com:48000/live/waldemar/waldemar/5486.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/5486.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Baltimore
-http://interlatins.com:48000/live/waldemar/waldemar/5484.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/5484.ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
-http://interlatins.com:48000/live/waldemar/waldemar/5500.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/5500.ts
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
-http://interlatins.com:48000/live/waldemar/waldemar/1715.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/1715.ts
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
-http://interlatins.com:48000/live/waldemar/waldemar/1741.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/1741.ts
 
 #EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
 http://bit.ly/2N63YFR
@@ -44,12 +44,12 @@ http://bit.ly/2N63YFR
 http://bit.ly/2MYkyaw
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
-http://interlatins.com:48000/live/waldemar/waldemar/6547.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/6547.ts
 
 #EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO East
-http://interlatins.com:48000/live/waldemar/waldemar/1695.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/1695.ts
 #EXTINF:-1 tvg-id="HBO2.us" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="MOVIE",HBO2
-http://interlatins.com:48000/live/waldemar/waldemar/1688.m3u8
+http://interlatins.com:48000/live/waldemar/waldemar/1688.ts
 
 
 
