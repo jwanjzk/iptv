@@ -52,12 +52,11 @@ http://interlatins.com:48000/live/waldemar/waldemar/1695.ts
 http://interlatins.com:48000/live/waldemar/waldemar/1688.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MUSIC",RETRO Music
+#EXTINF:-0 tvg-id="" tvg-logo="" group-title="MUSIC",RETRO Music
 http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/11567.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DAVE",THE ASYLUM
+#EXTINF:-0 tvg-id="" tvg-logo="" group-title="DAVE",THE ASYLUM
 http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/36434.ts
-
 
 #EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142718
