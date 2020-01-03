@@ -54,7 +54,7 @@ http://interlatins.com:48000/live/waldemar/waldemar/1388.ts
 #EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
 http://interlatins.com:48000/live/waldemar/waldemar/787.ts
 
-#EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",WWE
+#EXTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Dave",WWE
 http://interlatins.com:48000/live/waldemar/waldemar/4986.ts
 
 #EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",RETROPLEX
