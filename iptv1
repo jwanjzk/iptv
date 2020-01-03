@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="" group-title="",Last update 1/3/20 9:15am
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC west
-http://interlatins.com:48000/live/waldemar/waldemar/3667.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC LOS ANGELOS
+http://interlatins.com:48000/live/waldemar/waldemar/1760.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
