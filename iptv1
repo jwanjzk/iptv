@@ -23,10 +23,8 @@ http://interlatins.com:48000/live/waldemar/waldemar/5485.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Buffalo
 http://interlatins.com:48000/live/waldemar/waldemar/5486.ts
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Baltimore
 http://interlatins.com:48000/live/waldemar/waldemar/5484.ts
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
 http://interlatins.com:48000/live/waldemar/waldemar/5500.ts
@@ -58,6 +56,15 @@ http://interlatins.com:48000/live/waldemar/waldemar/787.ts
 
 #EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",WWE
 http://interlatins.com:48000/live/waldemar/waldemar/4986.ts
+
+#EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",RETROPLEX
+http://interlatins.com:48000/live/waldemar/waldemar/5574.ts
+
+#EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",CINEMAX ACTION
+http://interlatins.com:48000/live/waldemar/waldemar/5562.ts
+
+
+
 
 
 
