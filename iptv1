@@ -12,6 +12,13 @@ http://bit.ly/35ZKv2r
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
 http://bit.ly/2JgEncl
 
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png group-title="DAVE",Food Network
+http://interlatins.com:48000/live/waldermar/waldermar/3667.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox 25 Boston
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
