@@ -6,6 +6,11 @@ http://109.248.66.41:4044/udp/239.195.2.4:1234
 http://premiummhdtv.com:25461/Penha10/138460wps/1263
 
 
+#EXTINF:-1 ,test 1
+http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
+
+
+
 #EXTINF:-1 ,BBC
 http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
 
