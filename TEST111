@@ -30,6 +30,16 @@ http://185.93.3.84:5014/play/a006
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 ,test 10
 http://5.255.90.252:5004/play/a05h
+#EXTINF:-1 ,test 11
+http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
+#EXTINF:-1 ,test 12
+https://assets.streamtest.in/clip/243013/video_651ec34d0b589c2460804c2662b46c5120191222-1-1sncn81.mp4
+#EXTINF:-1 ,test 13
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
+
+
+
 
 
 
