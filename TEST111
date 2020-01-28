@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF: -1,ABCE
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 https://peer3.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIwIDEyOjAzOjA5IEFNJmhhc2hfdmFsdWU9T3o3ZGtJWUNNbllkN2w1R3Y0aFU1Zz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTINF: -1,A&E
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
 https://peer1.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIwIDEyOjAzOjA5IEFNJmhhc2hfdmFsdWU9T3o3ZGtJWUNNbllkN2w1R3Y0aFU1Zz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
 
 #EXTINF: -1,AMC
