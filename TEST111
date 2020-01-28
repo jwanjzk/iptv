@@ -1,17 +1,4 @@
 #EXTM3U
-#EXTINF: -1,ABCE
-https://peer3.ustv.to/ABC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIwIDEyOjAzOjA5IEFNJmhhc2hfdmFsdWU9T3o3ZGtJWUNNbllkN2w1R3Y0aFU1Zz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-
-#EXTINF: -1,A&E
-https://peer1.ustv.to/AE/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIwIDEyOjAzOjA5IEFNJmhhc2hfdmFsdWU9T3o3ZGtJWUNNbllkN2w1R3Y0aFU1Zz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-
-#EXTINF: -1,AMC
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0"
-https://peer3.ustv.to/AMC/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIwIDEyOjAzOjA5IEFNJmhhc2hfdmFsdWU9T3o3ZGtJWUNNbllkN2w1R3Y0aFU1Zz09JnZhbGlkbWludXRlcz0zNjAwJnN0cm1fbGVuPTA=
-
-
-
-
 
 
 
@@ -24,7 +11,7 @@ https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
 #EXTINF:-1 ,test 3
 http://xt.bossna-caffe.com:25461/IrBp2aTF6j/vUzPFP1p97/1592
 #EXTINF:-1 ,test 4
-http://185.93.3.84:5014/play/a005
+http://live.redtraffic.xyz/bigass.m3u8?streamType=live
 #EXTINF:-1 ,test 5
 http://185.93.3.83:5014/play/a00a
 #EXTINF:-1 ,test 6
@@ -46,7 +33,10 @@ https://assets.streamtest.in/clip/243013/video_651ec34d0b589c2460804c2662b46c512
 #EXTINF:-1 ,test 13
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-
+#EXTINF:-1,|US| FOX SPORTS 1 HD
+http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28193.m3u8
+#EXTINF:-1,|US| FOX SPORTS 2 HD
+http://primeplus.tv:8080/live/UxIFUAqmXN/KA4vHsRQpC/28192.m3u8
 
 
 
