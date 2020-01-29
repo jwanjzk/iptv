@@ -41,9 +41,10 @@ http://liveali.ifeng.com/live/FHZW.m3u8
 #EXTINF:-1 ,test 17
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1 ,test 18
-http://173.249.14.200:25461/Kooraapkrestream2020/830936w7200qw938738/30
-#EXTINF:-1 ,test 19
-http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4zNi45ODoyNTQ2MS9saXZlL0FEVUxUT1MtTEFNVFYvbG5tTXd4akJ2cy8xOTIubTN1OA==&type=playlist.m3u8
+http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/904.m3u8
+
+
+
 
 
 
