@@ -42,10 +42,12 @@ http://liveali.ifeng.com/live/FHZW.m3u8
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 #EXTINF:-1 ,test 18
 http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/904.m3u8
-
-
-
-
+#EXTINF:-1 ,test 19
+http://84.22.33.254:80/unicast.pink2/index.m3u8
+#EXTINF:-1 ,test 20
+https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 ,test 21
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 
 
 #EXTINF:-1,|US| FOX SPORTS 1 HD
