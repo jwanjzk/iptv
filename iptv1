@@ -2,6 +2,42 @@
 #EXTINF:-1 tvg-logo="" group-title="",Last update 1/30/20 5:30pm
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS", FOX NEWS
+https://sync1.iptv.bingo/live/430?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="NEWS", CNN
+https://sync1.iptv.bingo/live/439?u=181253
+
+#EXTINF:-1 tvg-logo=", MSNBC
+https://sync1.iptv.bingo/live/423?u=181253
+
+#EXTINF:-1 tvg-logo=", FOX BUSINESS
+https://sync1.iptv.bingo/live/424?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="", FOX 5
+https://sync1.iptv.bingo/live/429?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS", CNBC
+https://sync1.iptv.bingo/live/427?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="NEWS", CHEDDAR
+https://sync1.iptv.bingo/live/428?u=181253
+
+#EXTINF:-1 tvg-logo="", NHL
+https://sync1.iptv.bingo/live/452?u=181253
+
+#EXTINF:-1 tvg-logo="", NBCSN
+https://sync1.iptv.bingo/live/453?u=181253
+
+#EXTINF:-1 tvg-logo="", MOTOR TREND
+https://sync1.iptv.bingo/live/456?u=181253
+
+#EXTINF:-1 tvg-logo="", MLB STRIKEZONE
+https://sync1.iptv.bingo/live/457?u=181253
+
+#EXTINF:-1 tvg-logo="", MLB NETWORK
+https://sync1.iptv.bingo/live/458?u=181253
+
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
 http://bit.ly/2oX02PU
 
