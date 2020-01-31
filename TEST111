@@ -22,8 +22,14 @@ https://sync1.iptv.bingo/live/428?u=181253
 #EXTINF:-1 tvg-logo="", 55
 https://sync1.iptv.bingo/live/429?u=181253
 
+#EXTINF:-1 tvg-logo="", 66
+https://sync1.iptv.bingo/live/440?u=181253
 
+#EXTINF:-1 tvg-logo="", 77
+https://sync1.iptv.bingo/live/441?u=181253
 
+#EXTINF:-1 tvg-logo="", 88
+https://sync1.iptv.bingo/live/442?u=181253
 
 
 
