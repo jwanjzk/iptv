@@ -17,23 +17,28 @@ http://bit.ly/35ZKv2r
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
 http://bit.ly/2JgEncl
 
+#EXTINF:-1 , Animal Planet
+http://94.177.136.29:7478/play/a03g
+
+#EXTINF:-1 , Sony Ten 
+https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png group-title="DAVE",Food Network
 http://interlatins.com:48000/live/waldemar/waldemar/3667.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Boston
 http://interlatins.com:48000/live/waldemar/waldemar/5485.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Buffalo
-http://interlatins.com:48000/live/waldemar/waldemar/5486.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Baltimore
-http://interlatins.com:48000/live/waldemar/waldemar/5484.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
 http://interlatins.com:48000/live/waldemar/waldemar/1052.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/CBS_logo.svg/220px-CBS_logo.svg.png" group-title="CBS",CBS 
-http://interlatins.com:48000/live/waldemar/waldemar/5500.ts
+
 
 #EXTINF:-1 ,BBC
 http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
