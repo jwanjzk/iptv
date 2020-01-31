@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-logo="" group-title="",Last update 1/30/20 5:30pm
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
+#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
+http://bit.ly/2oX02PU
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="MOVIE",HBO
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
@@ -25,6 +28,15 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Television_channel_Pink_2.jpg/220px-Television_channel_Pink_2.jpg" group-title="MOVIE", Pink 2
 http://84.22.33.254:80/unicast.pink2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png" group-title="MOVIE", ZEE CAFE HD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="MOVIE",&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
+#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="MOVIE",&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
@@ -114,31 +126,31 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_100000
 #EXTINF:-1,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1,MUSIC TV
+#EXTINF:-1 group-title="MUSIC",MUSIC TV
 https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1,POP MUSIK
+#EXTINF:-1 group-title="MUSIC",POP MUSIK
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
-#EXTINF:-1,BOX HITS
+#EXTINF:-1 group-title="MUSIC",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
-#EXTINF:-1,California Music Channel
+#EXTINF:-1 group-title="MUSIC",California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
-#EXTINF:-1,MTV
+#EXTINF:-1 group-title="MUSIC",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 
-#EXTINF:-1,MTV LIVE
+#EXTINF:-1 group-title="MUSIC",MTV LIVE
 https://www.livedoomovie.com/02_MTV_Live_HD_720p/chunklist.m3u8
 
-#EXTINF:-1,Clubbing TV
+#EXTINF:-1 group-title="MUSIC",Clubbing TV
 https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
 
-#EXTINF:-1,B MUSIC SESSION
+#EXTINF:-1 group-title="MUSIC",B MUSIC SESSION
 https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
 
-#EXTINF:-1,B MUSIC CONCERT
+#EXTINF:-1 group-title="MUSIC",B MUSIC CONCERT
 https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
 
 #EXTINF:-1,Channel V
@@ -209,10 +221,6 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 #EXTINF:-0 tvg-id="" tvg-logo="" group-title="MUSIC",RETRO Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-0 tvg-id="" tvg-logo="" group-title="DAVE",THE ASYLUM
-http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/36434.ts
-
-
 #EXTINF:-1 tvg-id="Disney Junior US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="DAVE",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="DAVE",ET LIVE
@@ -237,22 +245,9 @@ http://200.73.59.84:8000/play/a012
 http://bit.ly/2oX02PU
 
 
-#EXTINF:-1 tvg-id="ESPNClassics.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/180px-ESPN_Classic_Logo.svg.png" group-title="SPORT",ESPN U
-http://162.244.82.158:8000/espn-classic2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="SPORT",ESPN 2 HD
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/308909
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="SPORT",ESPN HD
-https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
-
-#EXTINF:-1 tvg-id="FCSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Atlantic
-http://162.244.82.158:8000/FoxCollegeSportsAtlantic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" group-title="NBC",NBC GOLF
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-#EXTINF:-1 tvg-id="NBCSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="SPORT",NBCSN
-http://162.244.82.158:8000/NBCSportsNetwork.m3u8
-#EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/200px-Motor_Trend.svg.png" group-title="DAVE",VELOCITY
-http://162.244.82.158:8000/Velocity.m3u8
 
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
@@ -332,15 +327,12 @@ https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
 http://ott-cdn.ucom.am/s27/index.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MH7kNnl.png" tvg-name="CBS News (Opt-1)"  group-title="NEWS",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.imgur.com/MH7kNnl.png" tvg-name="CBS News (Opt-2)"  group-title="NEWS",CBS News (Opt-2)
-https://www.cbsnews.com/common/video/dai_prod.m3u8
+
 #EXTINF:-1 group-title="NEWS",SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="ABC",ABC 7 Florida
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
-
-
 
 #EXTINF:-1  tvg-id="CW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/225px-The_CW.svg.png" group-title="DAVE",CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
@@ -372,15 +364,6 @@ http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://pmcvariety.files.wordpress.com/2016/10/mobcrush.jpg" tvg-name="Mobcrush"  group-title="",Mobcrush
 https://ott.mobcrush.com/hls/0/ott.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/180px-Zee_TV-2018.png" group-title="MOVIE", ZEE CAFE HD
-http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/12/%26flix_logo.png/220px-%26flix_logo.png" group-title="MOVIE",&Flix HD
-http://pockettv.xyz/api/zee.m3u8?c=andflixhd
-#EXTINF:-1 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg/220px-Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="MOVIE",&Prive HD
-http://pockettv.xyz/api/zee.m3u8?c=andprivehd
-
-
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca525b650be2571e3943c63/featuredImage.jpg" group-title="MOVIE",80s Rewind PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
