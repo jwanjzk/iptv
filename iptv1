@@ -2,26 +2,29 @@
 #EXTINF:-1 tvg-logo="" group-title="",Last update 1/30/20 5:30pm
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="Movies",HBO
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="MOVIE",HBO
 https://livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="MOVIE",HBO Hits
 https://livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="Movies",HBO Signature
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIE",HBO Signature
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
-#EXTINF:-1,HITS
+#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="MOVIE",SHOWTIME East
+http://bit.ly/2N63YFR
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="MOVIE",CINEMAX
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 ,HITS
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1,HITS MOVIES
+#EXTINF:-1 group-title="MOVIE",HITS MOVIES
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1  tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Television_channel_Pink_2.jpg/220px-Television_channel_Pink_2.jpg" group-title="MOVIE", Pink 2
 http://84.22.33.254:80/unicast.pink2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/200px-NBC_2013_Logo.svg.png" group-title="NBC",NBC LOS ANGELOS
-http://interlatins.com:48000/live/waldemar/waldemar/1760.ts
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="CBS",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
@@ -34,6 +37,9 @@ http://bit.ly/35ZKv2r
 
 #EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
 http://bit.ly/2JgEncl
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
+http://bit.ly/2MYkyaw
 
 #EXTINF:-1,THRILL
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
@@ -78,37 +84,20 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 
-
-
-
-
-
 #EXTINF:-1 , Animal Planet
 http://94.177.136.29:7478/play/a03g
 
 #EXTINF:-1 , Sony Ten 
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 
-#EXTINF:-1 , Pink 2
-http://84.22.33.254:80/unicast.pink2/index.m3u8
-
-#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
-http://bit.ly/2N63YFR
-
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/150px-Food_Network_New_Logo.png group-title="DAVE",Food Network
-http://interlatins.com:48000/live/waldemar/waldemar/3667.ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  Boston
-http://interlatins.com:48000/live/waldemar/waldemar/5485.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/220px-FOX_wordmark.svg.png" group-title="FOX",Fox  
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1,AXN
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
 #EXTINF:-1,KIX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-
-#EXTINF:-1,FOX
-https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1,FOX CRIME
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -121,9 +110,6 @@ https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigati
 
 #EXTINF:-1,NICKELODEON
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-
-#EXTINF:-1,CINEMAX
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1,FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
@@ -205,35 +191,11 @@ http://interlatins.com:48000/live/waldemar/waldemar/1052.ts
 #EXTINF:-1 ,BBC
 http://213.252.252.17/live/eds/BBC/HLS_encr/BBC.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/220px-USA_Network_logo_%282016%29.svg.png" group-title="DAVE",USA East
-http://interlatins.com:48000/live/waldemar/waldemar/1715.ts
-
-#EXTINF:-1 tvg-id="AMC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/AMC_logo_2019.svg/220px-AMC_logo_2019.svg.png" group-title="DAVE",AMC
-http://interlatins.com:48000/live/waldemar/waldemar/1741.ts
-
 
 #EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
 http://bit.ly/2MYkyaw
 
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO East
-http://interlatins.com:48000/live/waldemar/waldemar/1695.ts
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="MOVIE",HBO2
-http://interlatins.com:48000/live/waldemar/waldemar/1688.ts
-
-#EXTINF:-1 tvg-id="HLN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/HLN_%28TV_network%29_2017_logo.svg/150px-HLN_%28TV_network%29_2017_logo.svg.png" group-title="DAVE",HLN
-http://interlatins.com:48000/live/waldemar/waldemar/1388.ts
-#EXTINF:-1 tvg-id="FoxNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS",Fox News
-http://interlatins.com:48000/live/waldemar/waldemar/787.ts
-
-#EXTINF:-0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png" group-title="Dave",WWE
-http://interlatins.com:48000/live/waldemar/waldemar/4986.ts
-
-#EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",RETROPLEX
-http://interlatins.com:48000/live/waldemar/waldemar/5574.ts
-
-#EXTINF:-0 tvg-id="" tvg-logo="" group-title="Dave",CINEMAX ACTION
-http://interlatins.com:48000/live/waldemar/waldemar/5562.ts
 
 #EXTINF:-1 tvg-id="WeatherChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/150px-The_Weather_Channel_logo_2005-present.svg.png" group-title="WEATHER",Weather Channel
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
@@ -244,38 +206,12 @@ http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/p
 https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 
-#EXTINF:-1  tvg-id="CW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/225px-The_CW.svg.png" group-title="DAVE",CW
-http://interlatins.com:48000/live/waldemar/waldemar/5509.ts
-
-
-
 #EXTINF:-0 tvg-id="" tvg-logo="" group-title="MUSIC",RETRO Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
 #EXTINF:-0 tvg-id="" tvg-logo="" group-title="DAVE",THE ASYLUM
 http://fullhdp.servep2p.com:3500/live/gokhan.c/olsd302-gokhanc/36434.ts
 
-#EXTINF:-1 tvg-id="TBS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/150px-TBS_logo_2016.svg.png" group-title="DAVE",TBS East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142718
-
-
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/SundanceTVlogo.png/250px-SundanceTVlogo.png" group-title="DAVE",SUNDANCE
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142716
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" group-title="DAVE",A&E HD
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/168256
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/BBC_America.svg/220px-BBC_America.svg.png" group-title="DAVE",BBC AMERICA
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142614
-#EXTINF:-1 tvg-id="FX.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/175px-FX_International_logo.svg.png" group-title="DAVE",FX East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142585
-#EXTINF:-1 tvg-id="My9WWOR.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/WWOR_NewJersey.svg/200px-WWOR_NewJersey.svg.png" group-title="DAVE",MY9
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/380903
-#EXTINF:-1 tvg-id="ION.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/ION_Television_2016.svg/200px-ION_Television_2016.svg.png" group-title="DAVE",ION TV
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/168255
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/200px-Game_Show_Network_2018.svg.png" group-title="", GAME SHOW NETWORK
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142669
 
 #EXTINF:-1 tvg-id="Disney Junior US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/250px-Disney_Junior.svg.png" group-title="DAVE",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
@@ -289,107 +225,35 @@ http://live-cdn.pbskids.org/out/u/est.m3u8
 http://live-cdn.pbskids.org/out/u/pst.m3u8
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://www.thenonprofittimes.com/wp-content/uploads/2017/02/Pbs-1.png" tvg-name="PBS"  group-title="USA",PBS
 http://190.80.3.28/PBS/PBS.isml/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/InvestigationDiscovery.png/200px-InvestigationDiscovery.png" group-title="DAVE",Investigation Discovery
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/255287
-
-#EXTINF:-1 tvg-id="truTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/200px-TruTV_2014.svg.png" group-title="DAVE",TRU TV EAST
-http://193.200.164.221:25461/live/marsha/marsha/55.ts
 
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAVE",H2
 http://livecdnh1.tvanywhere.ae/hls/h2/05.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="" group-title="DAVE",FXM
 http://200.73.59.84:8000/play/a012
 
-#EXTINF:-1 tvg-id="Hallmark.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/200px-Hallmark_Channel_logo.svg.png" group-title="DAVE",HALLMARK
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142670
-#EXTINF:-1 tvg-id="HallmarkMoviesMysteries.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hallmark_movies_mysteries.png/220px-Hallmark_movies_mysteries.png" group-title="DAVE",HALLMARK MOVIE
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/143363
-#EXTINF:-1 tvg-id="CoziTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cozi_TV_logo.svg/200px-Cozi_TV_logo.svg.png" group-title="DAVE",Cozi TV
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142638
-#EXTINF:-1 tvg-id="PopTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Pop_TV.png/220px-Pop_TV.png" group-title="DAVE",POP TV
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/303220
 
 
-
-#EXTINF:-1 tvg-id="Showtime.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/225px-Showtime.svg.png" group-title="DAVE",SHOWTIME East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142707
-#EXTINF:-1 tvg-id="HBO.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/220px-HBO_logo.svg.png" group-title="DAVE",HBO East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/348387
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="" tvg-logo="http://liveitkodi.com/Logos/HBO2.png" group-title="MOVIE",HBO2
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221764
-
-#EXTINF:-1 tvg-id="Cinemax.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/250px-Cinemax_%28Yellow%29.svg.png" group-title="DAVE",Cinemax East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142630
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Office_US_logo.svg/250px-The_Office_US_logo.svg.png" group-title="24/7", THE OFFICE
-http://193.200.164.221:25461/live/marsha/marsha/4943.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8c/5starMax_logo.png/revision/latest?cb=20100418180646" group-title="MOVIE", 5 StarMax
-http://193.200.164.221:25461/live/marsha/marsha/189.ts
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Showtime_2_logo.svg/125px-Showtime_2_logo.svg.png" group-title="MOVIE", SHOWTIME 2
-http://193.200.164.221:25461/live/marsha/marsha/94.ts
-#EXTINF:-1 tvg-id="ShowtimeBeyond.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Showtime_Beyond.svg/125px-Showtime_Beyond.svg.png" group-title="MOVIE", SHOWTIME BEYOND
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/362110
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Showtime_Extreme_2011.svg/125px-Showtime_Extreme_2011.svg.png" group-title="MOVIE", SHOWTIME EXTREME
-http://193.200.164.221:25461/live/marsha/marsha/95.ts
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/125px-Showtime_Next.svg.png" group-title="MOVIE", SHOWTIME NEXT
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/362257
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
 http://bit.ly/2oX02PU
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142709
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/01/HBO_Comedy_2000.svg/revision/latest/scale-to-width-down/200?cb=20100323082341" group-title="MOVIE", HBO COMEDY
-http://193.200.164.221:25461/live/marsha/marsha/115.ts
 
 
-
-#EXTINF:-1 tvg-id="ESPN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/225px-ESPN_wordmark.svg.png" group-title="SPORT",ESPN
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/308910
-#EXTINF:-1 tvg-id="ESPNNews.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/250px-ESPNews.svg.png" group-title="SPORT",ESPN NEWS
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/308908
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/100px-ESPN_U_logo.svg.png" group-title="SPORT",ESPN U
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/308907
 #EXTINF:-1 tvg-id="ESPNClassics.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/ESPN_Classic_Logo.svg/180px-ESPN_Classic_Logo.svg.png" group-title="SPORT",ESPN U
 http://162.244.82.158:8000/espn-classic2.m3u8
 #EXTINF:-1 tvg-id="ESPN2.us" tvg-name="" tvg-logo="https://i.imgur.com/JtSSvss.png" group-title="SPORT",ESPN 2 HD
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/308909
 #EXTINF:-1 tvg-id="ESPN.us" tvg-name="" tvg-logo="https://i.imgur.com/zQSTKzm.png" group-title="SPORT",ESPN HD
 https://cvtv.cvalley.net/hls/ESPNHD/ESPNHD.m3u8
-#EXTINF:-1 tvg-id="LonghornNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/250px-Longhorn_Network_logo.svg.png" group-title="SPORT",LONGHORN NETWORK
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/254401
-#EXTINF:-1 tvg-id="SECNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/SEC_Network_Logo.png/200px-SEC_Network_Logo.png" group-title="SPORT",SEC NETWORK
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/254404
 
-#EXTINF:-1 tvg-id="FCS.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Pacific
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221726
 #EXTINF:-1 tvg-id="FCSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Atlantic
 http://162.244.82.158:8000/FoxCollegeSportsAtlantic.m3u8
-#EXTINF:-1 tvg-id="FCSA.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",FOX College Sports Central
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221726
-#EXTINF:-1 tvg-id="FoxSportsPrimeTicket.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Fox_Sports_College.png/250px-Fox_Sports_College.png" group-title="SPORT",Fox Sports Prime Ticket
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221884
-#EXTINF:-1 tvg-id="FoxSports.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Fox_Sports_West_2012_logo.png/200px-Fox_Sports_West_2012_logo.png" group-title="SPORT",Fox Sports West
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221877
-#EXTINF:-1 tvg-id="FoxSportsSanDiego.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Fox_Sports_San_Diego_2012_logo.png/200px-Fox_Sports_San_Diego_2012_logo.png" group-title="SPORT",Fox Sports San Diego
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221883
-#EXTINF:-1 tvg-id="FoxSportsSouth.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d8/Fox_Sports_South_logo.png" group-title="SPORT",Fox Sports South
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221882
-#EXTINF:-1 tvg-id="FoxSportsFlorida.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Fox_Sports_Florida_2012_logo.png/200px-Fox_Sports_Florida_2012_logo.png" group-title="SPORT",Fox Sports Florida
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/221889
-#EXTINF:-1 tvg-id="FoxSportsSoutheast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Fox_Sports_Southeast_2015_logo.jpeg/200px-Fox_Sports_Southeast_2015_logo.jpeg" group-title="SPORT",Fox Sports South East
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/367825
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT",FS1
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/254408
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/220px-Golf_Channel_Logo_2018.png" group-title="NBC",NBC GOLF
 http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
 #EXTINF:-1 tvg-id="NBCSN.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/250px-NBCSN_logo.png" group-title="SPORT",NBCSN
 http://162.244.82.158:8000/NBCSportsNetwork.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/200px-Motor_Trend.svg.png" group-title="DAVE",VELOCITY
 http://162.244.82.158:8000/Velocity.m3u8
-#EXTINF:-1 tvg-id="BigTenNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Big_Ten_Conference_logo.svg/200px-Big_Ten_Conference_logo.svg.png" group-title="SPORT",BIG 10
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/254400
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/303751
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/225px-NFL_Network_logo.svg.png" group-title="DAVE",NFL Network
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/313554
+
 #EXTINF:-1 tvg-id="MLBNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/140px-MLBNetworkLogo.svg.png" group-title="SPORT",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="SPORT",NBC Sports Bay Area
@@ -410,16 +274,7 @@ http://162.244.82.158:8000/CSNNorthEast.m3u8
 http://162.244.82.158:8000/CSNMid-Atlantic.m3u8
 #EXTINF:-1 tvg-id="NBATV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/150px-NBA_TV.svg.png" group-title="SPORT",NBA TV
 http://162.244.82.158:8000/NBATV.m3u8
-#EXTINF:-1 tvg-id="NFLRedZone.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/NFL_Network_Redzone.png/225px-NFL_Network_Redzone.png" group-title="SPORT",NFL REDZONE
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/369086
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/250px-Sky_Sports_logo_2017.svg.png" group-title="SPORT",SKY ACTION
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366649
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2a/Sky_Sport_Arena_-_Logo_2018.svg/revision/latest/scale-to-width-down/80?cb=20180729150423" group-title="SPORT",SKY ARENA
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366923
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg/revision/latest/scale-to-width-down/80?cb=20170718103952" group-title="SPORT",SKY MAIN EVENT
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366652
-#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9c/Sky_Sports_Mix_2017.svg/revision/latest/scale-to-width-down/80?cb=20170718104658" group-title="SPORT",SKY SPORTS MIX
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/366647
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59641d9173ac1fec2fc01f17/featuredImage.jpg" group-title="SPORT",Big Sky Conference
 http://stitcher.pluto.tv/stitch/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 #EXTINF:-1 tvg-id="Stadium.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/Stadium_TV_network_logo.png/150px-Stadium_TV_network_logo.png",Stadium PLUTO
@@ -487,11 +342,9 @@ https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
 
 
 
-
 #EXTINF:-1  tvg-id="CW.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/225px-The_CW.svg.png" group-title="DAVE",CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
-#EXTINF:-1  tvg-id="CartoonNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png" group-title="DAVE",CARTOON NETWORK
-http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/142626
+
 #EXTINF:-1  tvg-id="BuzzrTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Buzzr_%28TV_Network%29_Logo.png/175px-Buzzr_%28TV_Network%29_Logo.png" group-title="DAVE",BUZZR TV
 http://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_4.m3u8
 
