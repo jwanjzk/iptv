@@ -1,4 +1,31 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/434?u=181253
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NBC5WMAQTV.us.png" group-title="NBC Regional(USA)", NBC 5 Chicago (WMAQ) 
+http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
+#EXTINF:-1, tvg-logo="https://www.komu.com/css/images/komu_logo.png" group-title="NBC Regional(USA)",NBC 8 Columbia (KOMU)
+https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/430?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/431?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/432?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/438?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/439?u=181253
+
+
+
+
+
 
 
 #EXTINF:-1 ,test 2
