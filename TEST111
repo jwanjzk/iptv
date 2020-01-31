@@ -1,35 +1,23 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 ,test 1
-https://yespornplease.com/vshare/089597e_360?i=401726605&h=36ecebf06323bc89f36989dee8b4ae382b7fe5bc0e497d595a8c21e68edd31d9
 #EXTINF:-1 ,test 2
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
 #EXTINF:-1 ,BBC EARTH
 https://streamer-1.toffeelive.com/live/sony_bbc_earth_720/index.m3u8
-#EXTINF:-1 ,test 3
-http://cdn.adultiptv.net/pov.m3u8?streamType=live
-#EXTINF:-1 ,test 4
-http://live.redtraffic.xyz/bigass.m3u8?streamType=live
+
 #EXTINF:-1 ,test 5
 http://39.63.31.142:9981/stream/channelid/1266012044
 #EXTINF:-1 ,test 6
-http://live.redtraffic.xyz/bigdick.m3u8?streamType=live
-#EXTINF:-1 ,test 7
-http://live.redtraffic.xyz/bigtits.m3u8?streamType=live
-#EXTINF:-1 ,test 8
-http://62.203.143.51:9981/play/Venus
-#EXTINF:-1 ,test 9
-http://live.redtraffic.xyz/anal.m3u8
+
+
 #EXTINF:-1 ,NBA TV
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 ,test 10
 https://voyeur-house.tv/static/video/realm10-cam14-ana-fucks-rockhead-sept-30.mp4
 #EXTINF:-1 ,test 11
 http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
-#EXTINF:-1 ,test 12
-http://live.redtraffic.xyz/lesbian.m3u8
+
 #EXTINF:-1 ,test 13
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 ,test 14
@@ -38,13 +26,11 @@ http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/1025.ts?XXX
 #EXTINF:-1 ,test 16
 http://liveali.ifeng.com/live/FHZW.m3u8
 
-#EXTINF:-1 ,test 18
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/904.m3u8
+
 #EXTINF:-1 , Pink 2
 http://84.22.33.254:80/unicast.pink2/index.m3u8
-#EXTINF:-1 ,test 20
-https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 ,test 21
+
+#EXTINF:-1 , Stadium
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
 #EXTINF:-1 ,test 22
 https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
@@ -318,11 +304,14 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/435?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/436?u=181253
 
-
-
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
+https://sync1.iptv.bingo/live/437?u=181253
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3kK6M09.png" group-title="Sport",FightBox
