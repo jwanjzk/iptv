@@ -48,6 +48,38 @@ http://84.22.33.254:80/unicast.pink2/index.m3u8
 https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,test 21
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8
+#EXTINF:-1 ,test 22
+https://greekyoutube.eu:444/live/5e300ade5dadc/index.m3u8
+#EXTINF:-1 ,test 23
+http://194.145.207.2:1234/udp/239.1.240.125:1234
+#EXTINF:-1 ,test 24
+http://s1.hdporus.com/content/vod/s2308/720/index.m3u8
+#EXTINF:-1 ,test 25
+https://love.mydaddy.cc/pubs/5e3310eedd74a/720.mp4
+
+
+#EXTINF:-1,USA: HBO HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46323
+#EXTINF:-1,USA: HBO 2 HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46324
+#EXTINF:-1,USA: HBO ZONE HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46325
+#EXTINF:-1,USA: HBO SIGNATURE
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46326
+#EXTINF:-1,USA: HBO FAMILY HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46327
+#EXTINF:-1,USA: HBO COMEDY HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46328
+#EXTINF:-1,USA: HALLMARK MOVIES & MYSTERIES HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46329
+#EXTINF:-1,USA: HALLMARK HD
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46330
+#EXTINF:-1,USA: HALLMARK DRAMA
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46331
+#EXTINF:-1,USA: STARZ IN BLACK
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46333
+#EXTINF:-1,USA: STARZ ENCORE WESTERNS
+http://www.sansat.net:25461/MAG9432861793/SYBuUM7HwT/46334
 
 
 #EXTINF:-1,|US| FOX SPORTS 1 HD
