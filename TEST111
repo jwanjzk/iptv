@@ -7,20 +7,20 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/430?u=181253
+#EXTINF:-1 tvg-logo="" group-title="NEWS", 11
+https://sync1.iptv.bingo/live/420?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/431?u=181253
+#EXTINF:-1 tvg-logo="", 22
+https://sync1.iptv.bingo/live/421?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/432?u=181253
+#EXTINF:-1 tvg-logo="", 33
+https://sync1.iptv.bingo/live/422?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/438?u=181253
+#EXTINF:-1 tvg-logo=", 44
+https://sync1.iptv.bingo/live/423?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Logo_of_WRC-TV.png" group-title="NBC Regional(USA)", NBC 4 DC (WRCB)
-https://sync1.iptv.bingo/live/439?u=181253
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/424?u=181253
 
 
 
