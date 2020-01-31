@@ -38,6 +38,9 @@ https://sync1.iptv.bingo/live/457?u=181253
 #EXTINF:-1 tvg-logo="", MLB NETWORK
 https://sync1.iptv.bingo/live/458?u=181253
 
+#EXTINF:-1 tvg-logo="", LONGHORN NETWORK
+https://sync1.iptv.bingo/live/460?u=181253
+
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
 http://bit.ly/2oX02PU
 
