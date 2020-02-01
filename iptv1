@@ -1,33 +1,127 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Last update 1/31/20 8:30pm
+#EXTINF:-1 tvg-logo="" group-title="",Last update 2/1/20 8:30AM
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
 https://sync1.iptv.bingo/live/429?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/ABC_%282013%29_Dark_Grey.svg/225px-ABC_%282013%29_Dark_Grey.svg.png" group-title="", ABC 7 DETROIT
 https://sync1.iptv.bingo/live/600?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6 SOUTH FLORIDA
 https://sync1.iptv.bingo/live/611?u=181253
 
-#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6 SOUTH FLORIDA
+https://sync1.iptv.bingo/live/639?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC LOS ANGELOS
+https://sync1.iptv.bingo/live/634?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 4 WASH DC
+https://sync1.iptv.bingo/live/635?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/636?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 12
+https://sync1.iptv.bingo/live/637?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/640?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 12 JACKSONVILLE
+https://sync1.iptv.bingo/live/641?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 13 ALABAMA
+https://sync1.iptv.bingo/live/642?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6 SOUTH FLORIDA
+https://sync1.iptv.bingo/live/643?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 4 NASHVILLE
+https://sync1.iptv.bingo/live/644?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC
+https://sync1.iptv.bingo/live/645?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/647?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 3 CLEVELAND
+https://sync1.iptv.bingo/live/648?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 2 BUFFALO
+https://sync1.iptv.bingo/live/649?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/650?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 2 ORLANDO
+https://sync1.iptv.bingo/live/651?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6 NEW ORLEANS
+https://sync1.iptv.bingo/live/652?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/653?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 
+https://sync1.iptv.bingo/live/654?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC
+https://sync1.iptv.bingo/live/655?u=181253
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS 7 SEATTLE
 https://sync1.iptv.bingo/live/612?u=181253
 
 #EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 40 SACAEMENTO
 https://sync1.iptv.bingo/live/613?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 23 TULSA
 https://sync1.iptv.bingo/live/617?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 19 CINCINATTI
 https://sync1.iptv.bingo/live/618?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 8 CLEVELAND
 https://sync1.iptv.bingo/live/619?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 WASH DC
+https://sync1.iptv.bingo/live/623?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 ATLANTA
+https://sync1.iptv.bingo/live/624?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 46 CHARLOTTE
+https://sync1.iptv.bingo/live/625?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 32 CHICAGO
+https://sync1.iptv.bingo/live/626?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 2 DETROIT
+https://sync1.iptv.bingo/live/627?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 17
+https://sync1.iptv.bingo/live/628?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 13 TAMPA BAY
+https://sync1.iptv.bingo/live/629?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 13 SALT LAKE CITY
+https://sync1.iptv.bingo/live/629?u=181253
 
 
 
