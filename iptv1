@@ -59,9 +59,29 @@ https://sync1.iptv.bingo/live/403?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Reelz.svg/375px-Reelz.svg.png" group-title="", REELZ
 https://sync1.iptv.bingo/live/404?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
+https://sync1.iptv.bingo/live/501?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
+https://sync1.iptv.bingo/live/502?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
+https://sync1.iptv.bingo/live/503?u=181253
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/SEC_Network_Logo.png/300px-SEC_Network_Logo.png" group-title="SPORT", SEC NETWORK
+https://sync1.iptv.bingo/live/505?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Chicago_Logo.svg/375px-NBC_Sports_Chicago_Logo.svg.png" group-title="SPORT", NBC SPORTS CHICAGO
+https://sync1.iptv.bingo/live/507?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/NBC_Sports_Philadelphia.png/330px-NBC_Sports_Philadelphia.png" group-title="SPORT", NBC SPORT PHILLY
+https://sync1.iptv.bingo/live/508?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/375px-ESPNews.svg.png" group-title="SPORT", ESPN NEWS
+https://sync1.iptv.bingo/live/518?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/338px-ESPN2_logo.svg.png" group-title="SPORT", ESPN 2
+https://sync1.iptv.bingo/live/519?u=181253
 
 
 
