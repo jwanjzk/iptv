@@ -11,8 +11,11 @@ https://sync1.iptv.bingo/live/600?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/NBC_2013_Logo.svg/330px-NBC_2013_Logo.svg.png" group-title="", NBC 6
 https://sync1.iptv.bingo/live/611?u=181253
 
-#EXTINF:-1 tvg-logo="" group-title="", CBS
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS
 https://sync1.iptv.bingo/live/612?u=181253
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" tvg-name="CBS"  group-title="",CBS
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
 https://sync1.iptv.bingo/live/613?u=181253
