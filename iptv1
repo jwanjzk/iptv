@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="",Last update 1/30/20 5:30pm
+#EXTINF:-1 tvg-logo="" group-title="",Last update 1/31/20 8:30pm
 http://pie.buzz:83/InVisiontV1321/rPZQUQuq6Z1/300405
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/225px-Food_Network_New_Logo.png" group-title="", FOOD NETWORK
+https://sync1.iptv.bingo/live/301?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png" group-title="NEWS", FOX NEWS
 https://sync1.iptv.bingo/live/430?u=181253
@@ -14,7 +17,7 @@ https://sync1.iptv.bingo/live/423?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/315px-Fox_Business.svg.png" group-title="NEWS", FOX BUSINESS
 https://sync1.iptv.bingo/live/424?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5 NY
 https://sync1.iptv.bingo/live/429?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/300px-CNBC_logo.svg.png" group-title="NEWS", CNBC
@@ -40,6 +43,29 @@ https://sync1.iptv.bingo/live/458?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/375px-Longhorn_Network_logo.svg.png" group-title="SPORT", LONGHORN NETWORK
 https://sync1.iptv.bingo/live/460?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/BET_Soul_Logo.png/225px-BET_Soul_Logo.png" group-title="MUSIC", BET SOUL
+https://sync1.iptv.bingo/live/400?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/300px-MTV_Classic_US.svg.png" group-title="MUSIC", MTV CLASSIC
+https://sync1.iptv.bingo/live/401?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="MUSIC", MTV 
+https://sync1.iptv.bingo/live/402?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/188px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC", MTV LIVE
+https://sync1.iptv.bingo/live/403?u=181253
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Reelz.svg/375px-Reelz.svg.png" group-title="", REELZ
+https://sync1.iptv.bingo/live/404?u=181253
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
 http://bit.ly/2oX02PU
