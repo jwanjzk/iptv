@@ -52,14 +52,20 @@ https://sync1.iptv.bingo/live/659?u=181257
 #EXTINF:-1 tvg-logo="", 99332
 https://sync1.iptv.bingo/live/659?u=181258
 
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/654?u=181254
 
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/654?u=181255
 
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/654?u=181256
 
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/654?u=181257
 
-
-
-
-
+#EXTINF:-1 tvg-logo="", 55
+https://sync1.iptv.bingo/live/654?u=181258
 
 
 #EXTINF:-1 ,test 2
