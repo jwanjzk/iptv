@@ -8,37 +8,37 @@ https://sync1.iptv.bingo/live/430?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="NEWS", CNN
 https://sync1.iptv.bingo/live/439?u=181253
 
-#EXTINF:-1 tvg-logo=", MSNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/375px-MSNBC_2015_logo.svg.png" group-title="NEWS", MSNBC
 https://sync1.iptv.bingo/live/423?u=181253
 
-#EXTINF:-1 tvg-logo=", FOX BUSINESS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/315px-Fox_Business.svg.png" group-title="NEWS", FOX BUSINESS
 https://sync1.iptv.bingo/live/424?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/220px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="", FOX 5
 https://sync1.iptv.bingo/live/429?u=181253
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS", CNBC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/300px-CNBC_logo.svg.png" group-title="NEWS", CNBC
 https://sync1.iptv.bingo/live/427?u=181253
 
-#EXTINF:-1 tvg-logo="" group-title="NEWS", CHEDDAR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Cheddar_2019.png" group-title="NEWS", CHEDDAR
 https://sync1.iptv.bingo/live/428?u=181253
 
-#EXTINF:-1 tvg-logo="", NHL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/05_NHL_Shield.svg/225px-05_NHL_Shield.svg.png" group-title="SPORT", NHL
 https://sync1.iptv.bingo/live/452?u=181253
 
-#EXTINF:-1 tvg-logo="", NBCSN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/NBCSN_logo.png/375px-NBCSN_logo.png" group-title="NEWS", NBCSN
 https://sync1.iptv.bingo/live/453?u=181253
 
-#EXTINF:-1 tvg-logo="", MOTOR TREND
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5a/Motor_Trend.svg/300px-Motor_Trend.svg.png" group-title="NEWS", MOTOR TREND
 https://sync1.iptv.bingo/live/456?u=181253
 
-#EXTINF:-1 tvg-logo="", MLB STRIKEZONE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/210px-MLBNetworkLogo.svg.png" group-title="SPORT", MLB STRIKEZONE
 https://sync1.iptv.bingo/live/457?u=181253
 
-#EXTINF:-1 tvg-logo="", MLB NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/210px-MLBNetworkLogo.svg.png" group-title="SPORT", MLB NETWORK
 https://sync1.iptv.bingo/live/458?u=181253
 
-#EXTINF:-1 tvg-logo="", LONGHORN NETWORK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Longhorn_Network_logo.svg/375px-Longhorn_Network_logo.svg.png" group-title="SPORT", LONGHORN NETWORK
 https://sync1.iptv.bingo/live/460?u=181253
 
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/125px-Showtime%27s_Showcase_logo.svg.png" group-title="MOVIE", SHOWTIME SHOWCASE
