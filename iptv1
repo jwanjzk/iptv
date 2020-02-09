@@ -749,15 +749,15 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.8988.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.573.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="SPORT",MLB Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="United States",MLB Network HD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="SPORT",MLB Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network US" tvg-logo="" group-title="United States",MLB Network US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network US" tvg-logo="" group-title="SPORT",MLB Network US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MoreMax FHD US" tvg-logo="http://static.hqiptv.net/l1/cmoremaxhd.png" group-title="United States",MoreMax FHD US
+#EXTINF:-1 tvg-id="" tvg-name="MoreMax FHD US" tvg-logo="http://static.hqiptv.net/l1/cmoremaxhd.png" group-title="MOVIE",MoreMax FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11791.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MovieMax FHD US" tvg-logo="" group-title="United States",MovieMax FHD US
+#EXTINF:-1 tvg-id="" tvg-name="MovieMax FHD US" tvg-logo="" group-title="MOVIE",MovieMax FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11790.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD US" tvg-logo="" group-title="United States",MoviePlex FHD US
+#EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD US" tvg-logo="" group-title="MOVIE",MoviePlex FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11789.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MSNBC HD (Web) US" tvg-logo="" group-title="United States",MSNBC HD (Web) US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.16058.m3u8
@@ -867,25 +867,25 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.7738.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8952.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SEC Network HD US" tvg-logo="" group-title="United States",SEC Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="MOVIE",Showtime 2 HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="MOVIE",Showtime 2 HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="MOVIE",Showtime 2 US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.534.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="United States",Showtime East HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="MOVIE",Showtime East HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="United States",Showtime East HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="MOVIE",Showtime East HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime FHD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime FHD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="MOVIE",Showtime FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.535.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="United States",Showtime Showcase HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="MOVIE",Showtime Showcase HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="United States",Showtime Showcase HD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="MOVIE",Showtime Showcase HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime West FHD US" tvg-logo="" group-title="United States",Showtime West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West FHD US" tvg-logo="" group-title="MOVIE",Showtime West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11786.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Showtime West US" tvg-logo="" group-title="United States",Showtime West US
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West US" tvg-logo="" group-title="MOVIE",Showtime West US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.485.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Smile Of A Child US" tvg-logo="http://static.hqiptv.net/l1/smileofachild.png" group-title="United States",Smile Of A Child US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.492.m3u8
@@ -905,59 +905,59 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.8978.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8977.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sportsnet West HD US" tvg-logo="" group-title="United States",Sportsnet West HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Black FHD US" tvg-logo="" group-title="United States",Starz Black FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Black FHD US" tvg-logo="" group-title="MOVIE",Starz Black FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11785.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema East FHD US" tvg-logo="" group-title="United States",Starz Cinema East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema East FHD US" tvg-logo="" group-title="MOVIE",Starz Cinema East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11784.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD US" tvg-logo="" group-title="United States",Starz Cinema FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD US" tvg-logo="" group-title="MOVIE",Starz Cinema FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11783.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema US" tvg-logo="" group-title="United States",Starz Cinema US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema US" tvg-logo="" group-title="MOVIE",Starz Cinema US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.536.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema West FHD US" tvg-logo="" group-title="United States",Starz Cinema West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema West FHD US" tvg-logo="" group-title="MOVIE",Starz Cinema West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11782.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy FHD US" tvg-logo="" group-title="United States",Starz Comedy FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy FHD US" tvg-logo="" group-title="MOVIE",Starz Comedy FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11781.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy US" tvg-logo="" group-title="United States",Starz Comedy US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy US" tvg-logo="" group-title="MOVIE",Starz Comedy US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.537.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz East FHD US" tvg-logo="" group-title="United States",Starz East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz East FHD US" tvg-logo="" group-title="MOVIE",Starz East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge FHD US" tvg-logo="" group-title="United States",Starz Edge FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge FHD US" tvg-logo="" group-title="MOVIE",Starz Edge FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11779.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="United States",Starz Edge HD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="MOVIE",Starz Edge HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.519.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="United States",Starz Edge HD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="MOVIE",Starz Edge HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge US" tvg-logo="" group-title="United States",Starz Edge US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge US" tvg-logo="" group-title="MOVIE",Starz Edge US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7780.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge West FHD US" tvg-logo="" group-title="United States",Starz Edge West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge West FHD US" tvg-logo="" group-title="MOVIE",Starz Edge West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11778.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore 2 East FHD US" tvg-logo="" group-title="United States",Starz Encore 2 East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore 2 East FHD US" tvg-logo="" group-title="MOVIE",Starz Encore 2 East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11777.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action FHD US" tvg-logo="" group-title="United States",Starz Encore Action FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Action FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black FHD US" tvg-logo="" group-title="United States",Starz Encore Black FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Black FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11775.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic FHD US" tvg-logo="" group-title="United States",Starz Encore Classic FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Classic FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11774.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore East FHD US" tvg-logo="" group-title="United States",Starz Encore East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore East FHD US" tvg-logo="" group-title="MOVIE",Starz Encore East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11773.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family FHD US" tvg-logo="" group-title="United States",Starz Encore Family FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Family FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11772.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore FHD US" tvg-logo="" group-title="United States",Starz Encore FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore FHD US" tvg-logo="" group-title="MOVIE",Starz Encore FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11771.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="United States",Starz Encore HD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="MOVIE",Starz Encore HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="United States",Starz Encore HD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="MOVIE",Starz Encore HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense FHD US" tvg-logo="" group-title="United States",Starz Encore Suspense FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Suspense FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11770.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore US" tvg-logo="" group-title="United States",Starz Encore US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore US" tvg-logo="" group-title="MOVIE",Starz Encore US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.538.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western FHD US" tvg-logo="" group-title="United States",Starz Encore Western FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western FHD US" tvg-logo="" group-title="MOVIE",Starz Encore Western FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Encore West FHD US" tvg-logo="" group-title="United States",Starz Encore West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore West FHD US" tvg-logo="" group-title="MOVIE",Starz Encore West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11769.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Starz Family FHD US" tvg-logo="" group-title="United States",Starz Family FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Starz Family FHD US" tvg-logo="" group-title="MOVIE",Starz Family FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11767.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Starz FHD US" tvg-logo="" group-title="United States",Starz FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11766.m3u8
