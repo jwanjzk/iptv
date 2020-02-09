@@ -7,20 +7,20 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="", 113444
+#EXTINF:-1 tvg-logo="" group-title="", 1134446
 https://sync1.iptv.bingo/live/650?u=181253
 
 #EXTINF:-1 tvg-logo="", 22
-https://sync1.iptv.bingo/live/651?u=181253
+https://sync1.iptv.bingo/live/651
 
 #EXTINF:-1 tvg-logo="", 33
-https://sync1.iptv.bingo/live/652?u=181253
+https://sync1.iptv.bingo/live/652
 
 #EXTINF:-1 tvg-logo=", 44
-https://sync1.iptv.bingo/live/653?u=181253
+https://sync1.iptv.bingo/live/653
 
 #EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181253
+https://sync1.iptv.bingo/live/654
 
 #EXTINF:-1 tvg-logo="", 66
 https://sync1.iptv.bingo/live/655?u=181253
