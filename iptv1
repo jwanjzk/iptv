@@ -289,7 +289,730 @@ https://sync1.iptv.bingo/live/606?u=181253
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-
+#EXTINF:-1 tvg-id="" tvg-name="5 StarMax FHD US" tvg-logo="" group-title="United States",5 StarMax FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD US" tvg-logo="" group-title="United States",A&E HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD US" tvg-logo="" group-title="United States",A&E HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E TV HD US" tvg-logo="" group-title="United States",A&E TV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC FHD US" tvg-logo="" group-title="United States",ABC FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC HD US" tvg-logo="" group-title="United States",ABC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News FHD US" tvg-logo="http://static.hqiptv.net/l1/bbcnewshd.png" group-title="United States",ABC News FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10221.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD US" tvg-logo="http://static.hqiptv.net/l1/bbcnewshd.png" group-title="United States",ABC News HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News HD US" tvg-logo="http://static.hqiptv.net/l1/bbcnewshd.png" group-title="United States",ABC News HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Prime FHD US" tvg-logo="" group-title="United States",AFN Prime FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10220.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Prime HD US" tvg-logo="" group-title="United States",AFN Prime HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Spectrum HD US" tvg-logo="http://static.hqiptv.net/l1/afnspectrum.png" group-title="United States",AFN Spectrum HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7726.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Sport 1 US" tvg-logo="http://static.hqiptv.net/l1/afnsports.png" group-title="United States",AFN Sport 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.1136.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Sport 2 US" tvg-logo="http://static.hqiptv.net/l1/afnsports.png" group-title="United States",AFN Sport 2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.1135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AFN Sports HD US" tvg-logo="http://static.hqiptv.net/l1/afnsportshd.png" group-title="United States",AFN Sports HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amazing Discoveries HD US" tvg-logo="" group-title="United States",Amazing Discoveries HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD US" tvg-logo="http://static.hqiptv.net/l1/amchd.png" group-title="United States",AMC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD US" tvg-logo="http://static.hqiptv.net/l1/amchd.png" group-title="United States",AMC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC US" tvg-logo="" group-title="United States",AMC US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD US" tvg-logo="http://static.hqiptv.net/l1/animalplanethd.png" group-title="United States",Animal Planet HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet US" tvg-logo="http://static.hqiptv.net/l1/animalplanet.png" group-title="United States",Animal Planet US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports HD US" tvg-logo="http://static.hqiptv.net/l1/beinsportshd1.png" group-title="United States",BeIN Sports HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.506.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport US HD US" tvg-logo="http://static.hqiptv.net/l1/beinsportshd1.png" group-title="United States",Bein Sport US HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET HD US" tvg-logo="" group-title="United States",BET HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET HD US" tvg-logo="" group-title="United States",BET HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg Europe US" tvg-logo="" group-title="United States",Bloomberg Europe US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.503.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD US" tvg-logo="http://static.hqiptv.net/l1/bloomberg.png" group-title="United States",Bloomberg HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV HD US" tvg-logo="" group-title="United States",Bloomberg TV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.489.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg US" tvg-logo="http://static.hqiptv.net/l1/bloomberg.png" group-title="United States",Bloomberg US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10219.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang FHD US" tvg-logo="http://static.hqiptv.net/l1/boomeranghd.png" group-title="United States",Boomerang FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10218.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD US" tvg-logo="http://static.hqiptv.net/l1/boomeranghd.png" group-title="United States",Boomerang HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang US" tvg-logo="http://static.hqiptv.net/l1/boomerang.png" group-title="United States",Boomerang US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravo HD US" tvg-logo="" group-title="United States",Bravo HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.541.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravo HD US" tvg-logo="" group-title="United States",Bravo HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravo US" tvg-logo="http://static.hqiptv.net/l1/bravo.png" group-title="United States",Bravo US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BYU TV US" tvg-logo="http://static.hqiptv.net/l1/byutv.png" group-title="United States",BYU TV US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.522.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C-Span 1 US" tvg-logo="" group-title="United States",C-Span 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C-Span 2 US" tvg-logo="http://static.hqiptv.net/l1/cspan2.png" group-title="United States",C-Span 2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="C-Span 3 US" tvg-logo="http://static.hqiptv.net/l1/cspan3.png" group-title="United States",C-Span 3 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cable News Network HD US" tvg-logo="" group-title="United States",Cable News Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD US" tvg-logo="http://static.hqiptv.net/l1/cartoonnetworkhd.png" group-title="United States",Cartoon Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network US" tvg-logo="http://static.hqiptv.net/l1/cartoonnetwork.png" group-title="United States",Cartoon Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.523.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS HD US" tvg-logo="" group-title="United States",CBS HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN FHD US" tvg-logo="" group-title="United States",CBSN FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10217.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN HD US" tvg-logo="" group-title="United States",CBSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.524.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBSN HD US" tvg-logo="" group-title="United States",CBSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS San Diego HD US" tvg-logo="" group-title="United States",CBS San Diego HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10190.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS US" tvg-logo="" group-title="United States",CBS US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.486.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Chiller HD US" tvg-logo="" group-title="United States",Chiller HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7717.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 01 PPV FHD US" tvg-logo="" group-title="United States",Cinema 01 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11841.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 02 PPV FHD US" tvg-logo="" group-title="United States",Cinema 02 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11840.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 03 PPV FHD US" tvg-logo="" group-title="United States",Cinema 03 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11839.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 04 PPV FHD US" tvg-logo="" group-title="United States",Cinema 04 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11838.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 05 PPV FHD US" tvg-logo="" group-title="United States",Cinema 05 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11837.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 06 PPV FHD US" tvg-logo="" group-title="United States",Cinema 06 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11836.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 07 PPV FHD US" tvg-logo="" group-title="United States",Cinema 07 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 08 PPV FHD US" tvg-logo="" group-title="United States",Cinema 08 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 09 PPV FHD US" tvg-logo="" group-title="United States",Cinema 09 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 10 PPV FHD US" tvg-logo="" group-title="United States",Cinema 10 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 11 PPV FHD US" tvg-logo="" group-title="United States",Cinema 11 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11831.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 12 PPV FHD US" tvg-logo="" group-title="United States",Cinema 12 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 13 PPV FHD US" tvg-logo="" group-title="United States",Cinema 13 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 14 PPV FHD US" tvg-logo="" group-title="United States",Cinema 14 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 15 PPV FHD US" tvg-logo="" group-title="United States",Cinema 15 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 16 PPV FHD US" tvg-logo="" group-title="United States",Cinema 16 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11826.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 17 PPV FHD US" tvg-logo="" group-title="United States",Cinema 17 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 18 PPV FHD US" tvg-logo="" group-title="United States",Cinema 18 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 19 PPV FHD US" tvg-logo="" group-title="United States",Cinema 19 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 20 PPV FHD US" tvg-logo="" group-title="United States",Cinema 20 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11822.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 21 PPV FHD US" tvg-logo="" group-title="United States",Cinema 21 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 22 PPV FHD US" tvg-logo="" group-title="United States",Cinema 22 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 23 PPV FHD US" tvg-logo="" group-title="United States",Cinema 23 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 24 PPV FHD US" tvg-logo="" group-title="United States",Cinema 24 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11818.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 25 PPV FHD US" tvg-logo="" group-title="United States",Cinema 25 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 26 PPV FHD US" tvg-logo="" group-title="United States",Cinema 26 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 27 PPV FHD US" tvg-logo="" group-title="United States",Cinema 27 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11815.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 28 PPV FHD US" tvg-logo="" group-title="United States",Cinema 28 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11814.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 29 PPV FHD US" tvg-logo="" group-title="United States",Cinema 29 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 30 PPV FHD US" tvg-logo="" group-title="United States",Cinema 30 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 31 PPV FHD US" tvg-logo="" group-title="United States",Cinema 31 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 32 PPV FHD US" tvg-logo="" group-title="United States",Cinema 32 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 33 PPV FHD US" tvg-logo="" group-title="United States",Cinema 33 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 34 PPV FHD US" tvg-logo="" group-title="United States",Cinema 34 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 35 PPV FHD US" tvg-logo="" group-title="United States",Cinema 35 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11807.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 36 PPV FHD US" tvg-logo="" group-title="United States",Cinema 36 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 37 PPV FHD US" tvg-logo="" group-title="United States",Cinema 37 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11805.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 38 PPV FHD US" tvg-logo="" group-title="United States",Cinema 38 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11804.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 39 PPV FHD US" tvg-logo="" group-title="United States",Cinema 39 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11803.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 40 PPV FHD US" tvg-logo="" group-title="United States",Cinema 40 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11802.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinema 41 PPV FHD US" tvg-logo="" group-title="United States",Cinema 41 PPV FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11801.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax 5 StarMax US" tvg-logo="" group-title="United States",CineMax 5 StarMax US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.507.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",Cinemax Action 2 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action East FHD US" tvg-logo="" group-title="United States",Cinemax Action East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11799.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",CineMax Action HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",Cinemax Action HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax ActionMax East US" tvg-logo="" group-title="United States",CineMax ActionMax East US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.508.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action US" tvg-logo="http://static.hqiptv.net/l1/skycinemaaction.png" group-title="United States",Cinemax Action US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax East FHD US" tvg-logo="" group-title="United States",Cinemax East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11798.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax East US" tvg-logo="" group-title="United States",CineMax East US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.509.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="United States",Cinemax More HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="United States",Cinemax More HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CineMax MoreMax US" tvg-logo="" group-title="United States",CineMax MoreMax US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.501.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax West FHD US" tvg-logo="" group-title="United States",Cinemax West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11797.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="http://static.hqiptv.net/l1/cnbc.png" group-title="United States",CNBC US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10216.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD US" tvg-logo="http://static.hqiptv.net/l1/comedycentralhd.png" group-title="United States",Comedy Central FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.542.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central HD US" tvg-logo="http://static.hqiptv.net/l1/comedycentralhd.png" group-title="United States",Comedy Central HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central US" tvg-logo="http://static.hqiptv.net/l1/comedycentral.png" group-title="United States",Comedy Central US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW11 US" tvg-logo="" group-title="United States",CW11 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW FHD US" tvg-logo="" group-title="United States",CW FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10215.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW HD US" tvg-logo="" group-title="United States",CW HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.543.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW HD US" tvg-logo="" group-title="United States",CW HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CW US" tvg-logo="" group-title="United States",CW US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel CA FHD US" tvg-logo="http://static.hqiptv.net/l1/discoverychannelhd.png" group-title="United States",Discovery Channel CA FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel CA HD US" tvg-logo="http://static.hqiptv.net/l1/discoverychannelhd.png" group-title="United States",Discovery Channel CA HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10189.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD US" tvg-logo="http://static.hqiptv.net/l1/discoverychannelhd.png" group-title="United States",Discovery Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD US" tvg-logo="http://static.hqiptv.net/l1/discoverychannelhd.png" group-title="United States",Discovery Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD Showcase US" tvg-logo="http://static.hqiptv.net/l1/discoveryshowcasehd.png" group-title="United States",Discovery HD Showcase US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.499.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD US" tvg-logo="http://static.hqiptv.net/l1/discoveryhd.png" group-title="United States",Discovery HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.526.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD US" tvg-logo="http://static.hqiptv.net/l1/discoverysciencehd.png" group-title="United States",Discovery Science HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.510.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Velocity HD US" tvg-logo="" group-title="United States",Discovery Velocity HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Velocity US" tvg-logo="" group-title="United States",Discovery Velocity US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.527.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD US" tvg-logo="http://static.hqiptv.net/l1/disneychannelhd.png" group-title="United States",Disney Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Channel HD US" tvg-logo="http://static.hqiptv.net/l1/disneychannelhd.png" group-title="United States",Disney Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD US" tvg-logo="http://static.hqiptv.net/l1/disneyxdhd.png" group-title="United States",Disney XD HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD HD US" tvg-logo="http://static.hqiptv.net/l1/disneyxdhd.png" group-title="United States",Disney XD HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="" group-title="United States",DIY Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7728.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network HD US" tvg-logo="" group-title="United States",DIY Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIY Network US" tvg-logo="" group-title="United States",DIY Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.482.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW US" tvg-logo="" group-title="United States",DW US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment FHD US" tvg-logo="http://static.hqiptv.net/l1/eentertainmenthd.png" group-title="United States",E! Entertainment FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD US" tvg-logo="http://static.hqiptv.net/l1/eentertainmenthd.png" group-title="United States",E! Entertainment HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E! Entertainment HD US" tvg-logo="http://static.hqiptv.net/l1/eentertainmenthd.png" group-title="United States",E! Entertainment HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Network HD US" tvg-logo="" group-title="United States",El Rey Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7715.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="El Rey Network HD US" tvg-logo="" group-title="United States",El Rey Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD US" tvg-logo="" group-title="United States",ESPN 1 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10212.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 1 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 1 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="United States",ESPN 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="United States",ESPN 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="United States",ESPN 2 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10186.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="United States",ESPN 2 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 2 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="United States",ESPN 2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10187.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="United States",ESPN 2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN U HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10185.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Family HD US" tvg-logo="http://static.hqiptv.net/l1/jojfamilyhd.png" group-title="United States",Family HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10184.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fashion One HD US" tvg-logo="http://static.hqiptv.net/l1/fashiononehd.png" group-title="United States",Fashion One HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.498.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight HD US" tvg-logo="" group-title="United States",Fight HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.529.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport HD US" tvg-logo="" group-title="United States",Fight Sport HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fine Living US" tvg-logo="http://static.hqiptv.net/l1/fineliving.png" group-title="United States",Fine Living US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.497.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD US" tvg-logo="http://static.hqiptv.net/l1/foodnetworkhd.png" group-title="United States",Food Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.511.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD US" tvg-logo="http://static.hqiptv.net/l1/foodnetworkhd.png" group-title="United States",Food Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Food Network US" tvg-logo="http://static.hqiptv.net/l1/foodnetwork.png" group-title="United States",Food Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 43 US" tvg-logo="" group-title="United States",FOX 43 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10182.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 43 US" tvg-logo="" group-title="United States",FOX 43 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX 4 FHD US" tvg-logo="" group-title="United States",FOX 4 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10183.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes HD US" tvg-logo="http://static.hqiptv.net/l1/foxsportshd.png" group-title="United States",Fox Deportes HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.12631.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD US" tvg-logo="http://static.hqiptv.net/l1/foxhd.png" group-title="United States",Fox HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.512.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox HD US" tvg-logo="http://static.hqiptv.net/l1/foxhd.png" group-title="United States",Fox HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox News HD US" tvg-logo="http://static.hqiptv.net/l1/foxnews.png" group-title="United States",Fox News HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.545.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX San Diego HD US" tvg-logo="" group-title="United States",FOX San Diego HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10171.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD US" tvg-logo="" group-title="United States",Fox Soccer Plus HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10170.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus HD US" tvg-logo="" group-title="United States",Fox Soccer Plus HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.6206.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Soccer Plus US" tvg-logo="" group-title="United States",Fox Soccer Plus US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD US" tvg-logo="http://static.hqiptv.net/l1/foxsports1hd.png" group-title="United States",Fox Sports 1 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 HD US" tvg-logo="http://static.hqiptv.net/l1/foxsports1hd.png" group-title="United States",Fox Sports 1 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 US" tvg-logo="http://static.hqiptv.net/l1/foxsports1.png" group-title="United States",Fox Sports 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/foxsports2hd.png" group-title="United States",Fox Sports 2 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD US" tvg-logo="http://static.hqiptv.net/l1/foxsports2hd.png" group-title="United States",Fox Sports 2 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7759.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 HD US" tvg-logo="http://static.hqiptv.net/l1/foxsports2hd.png" group-title="United States",Fox Sports 2 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506 HD US" tvg-logo="http://static.hqiptv.net/l1/foxsports5hd.png" group-title="United States",Fox Sports 506 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Carolina HD US" tvg-logo="" group-title="United States",Fox Sports Carolina HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Cincinnati HD US" tvg-logo="" group-title="United States",Fox Sports Cincinnati HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10167.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports College Central HD US" tvg-logo="" group-title="United States",Fox Sports College Central HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7756.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Detroit HD US" tvg-logo="" group-title="United States",Fox Sports Detroit HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10166.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Florida HD US" tvg-logo="" group-title="United States",Fox Sports Florida HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10165.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports HD US" tvg-logo="http://static.hqiptv.net/l1/foxsportshd.png" group-title="United States",Fox Sports HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7760.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports North HD US" tvg-logo="" group-title="United States",Fox Sports North HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7752.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Plus FHD US" tvg-logo="http://static.hqiptv.net/l1/foxsportsplushd.png" group-title="United States",Fox Sports Plus FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10211.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports Plus HD US" tvg-logo="http://static.hqiptv.net/l1/foxsportsplushd.png" group-title="United States",Fox Sports Plus HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports South HD US" tvg-logo="" group-title="United States",Fox Sports South HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10158.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free Form HD US" tvg-logo="http://static.hqiptv.net/l1/freeform.png" group-title="United States",Free Form HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10152.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Free Form HD US" tvg-logo="http://static.hqiptv.net/l1/freeform.png" group-title="United States",Free Form HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FreeForm HD US" tvg-logo="http://static.hqiptv.net/l1/freeform.png" group-title="United States",FreeForm HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7688.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fuel HD US" tvg-logo="" group-title="United States",Fuel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD US" tvg-logo="" group-title="United States",FX HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.513.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX HD US" tvg-logo="" group-title="United States",FX HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX US" tvg-logo="" group-title="United States",FX US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10150.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX US" tvg-logo="" group-title="United States",FX US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GRIT HD US" tvg-logo="" group-title="United States",GRIT HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10148.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSN HD US" tvg-logo="" group-title="United States",GSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7749.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GSN HD US" tvg-logo="" group-title="United States",GSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="H2 US" tvg-logo="" group-title="United States",H2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.514.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel HD US" tvg-logo="" group-title="United States",Hallmark Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7746.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Channel HD US" tvg-logo="" group-title="United States",Hallmark Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & Mysteries HD US" tvg-logo="" group-title="United States",Hallmark Movies & Mysteries HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.46888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark US" tvg-logo="" group-title="United States",Hallmark US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.515.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/hbo2hd.png" group-title="United States",HBO 2 FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11796.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 West FHD US" tvg-logo="" group-title="United States",HBO 2 West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11795.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="http://static.hqiptv.net/l1/hbocomedyhd.png" group-title="United States",HBO Comedy HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO East US" tvg-logo="" group-title="United States",HBO East US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.483.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="United States",HBO Family HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7748.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="United States",HBO Family HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD US" tvg-logo="http://static.hqiptv.net/l1/hbohd.png" group-title="United States",HBO HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus West FHD US" tvg-logo="" group-title="United States",HBO Plus West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11794.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD US" tvg-logo="" group-title="United States",HBO Signature FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="United States",HBO Signature HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7747.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="United States",HBO Signature HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature US" tvg-logo="" group-title="United States",HBO Signature US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO US" tvg-logo="" group-title="United States",HBO US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone US" tvg-logo="" group-title="United States",HBO Zone US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD US" tvg-logo="" group-title="United States",HGTV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD US" tvg-logo="" group-title="United States",HGTV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HGTV US" tvg-logo="http://static.hqiptv.net/l1/hgtv.png" group-title="United States",HGTV US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HIFI US" tvg-logo="" group-title="United States",HIFI US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.516.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD US" tvg-logo="http://static.hqiptv.net/l1/historyhd.png" group-title="United States",History HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.546.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History HD US" tvg-logo="http://static.hqiptv.net/l1/historyhd.png" group-title="United States",History HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="History US" tvg-logo="http://static.hqiptv.net/l1/history.png" group-title="United States",History US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IFC HD US" tvg-logo="" group-title="United States",IFC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7710.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IndiePlex FHD US" tvg-logo="" group-title="United States",IndiePlex FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11792.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD US" tvg-logo="http://static.hqiptv.net/l1/investigationdiscoveryhd.png" group-title="United States",Investigation Discovery HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7693.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery HD US" tvg-logo="http://static.hqiptv.net/l1/investigationdiscoveryhd.png" group-title="United States",Investigation Discovery HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD US" tvg-logo="http://static.hqiptv.net/l1/lifetimehd.png" group-title="United States",Lifetime HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7745.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime HD US" tvg-logo="http://static.hqiptv.net/l1/lifetimehd.png" group-title="United States",Lifetime HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB HD US" tvg-logo="" group-title="United States",MLB HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="United States",MLB Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7701.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="United States",MLB Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network US" tvg-logo="" group-title="United States",MLB Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MoreMax FHD US" tvg-logo="http://static.hqiptv.net/l1/cmoremaxhd.png" group-title="United States",MoreMax FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11791.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MovieMax FHD US" tvg-logo="" group-title="United States",MovieMax FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11790.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MoviePlex FHD US" tvg-logo="" group-title="United States",MoviePlex FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11789.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC HD (Web) US" tvg-logo="" group-title="United States",MSNBC HD (Web) US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.16058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MSNBC HD US" tvg-logo="" group-title="United States",MSNBC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Base HD US" tvg-logo="http://static.hqiptv.net/l1/mtvbase.png" group-title="United States",MTV Base HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7744.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Rocks US" tvg-logo="http://static.hqiptv.net/l1/mtvrocks.png" group-title="United States",MTV Rocks US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.494.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat. Geographic HD US" tvg-logo="http://static.hqiptv.net/l1/nationalgeographichd.png" group-title="United States",Nat. Geographic HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat. Geo Wild HD US" tvg-logo="http://static.hqiptv.net/l1/natgeowildhd.png" group-title="United States",Nat. Geo Wild HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic HD US" tvg-logo="http://static.hqiptv.net/l1/nationalgeographichd.png" group-title="United States",Nat Geographic HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7691.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild HD US" tvg-logo="http://static.hqiptv.net/l1/natgeowildhd.png" group-title="United States",Nat Geo Wild HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7692.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic US" tvg-logo="http://static.hqiptv.net/l1/nationalgeographic.png" group-title="United States",National Geographic US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.517.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA HD US" tvg-logo="" group-title="United States",NBA HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 1 HD US" tvg-logo="" group-title="United States",NBA Live 1 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 2 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 2 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 3 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 3 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 4 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 4 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 5 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 5 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 6 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 6 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8533.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 7 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 7 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8532.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBA Live 8 HD US [ Match Time Only ]" tvg-logo="" group-title="United States",NBA Live 8 HD US [ Match Time Only ]
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8531.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf Channel FHD US" tvg-logo="" group-title="United States",NBC Golf Channel FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.6147.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf Channel HD US" tvg-logo="" group-title="United States",NBC Golf Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.6146.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf HD US" tvg-logo="" group-title="United States",NBC Golf HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7743.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Golf HD US" tvg-logo="" group-title="United States",NBC Golf HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC News HD US" tvg-logo="http://static.hqiptv.net/l1/bbcnewshd.png" group-title="United States",NBC News HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7742.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC News HD US" tvg-logo="http://static.hqiptv.net/l1/bbcnewshd.png" group-title="United States",NBC News HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC San Diego HD US" tvg-logo="" group-title="United States",NBC San Diego HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10135.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC SN HD US" tvg-logo="" group-title="United States",NBC SN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7741.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD US" tvg-logo="" group-title="United States",NBCSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBCSN HD US" tvg-logo="" group-title="United States",NBCSN HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC US" tvg-logo="" group-title="United States",NBC US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.490.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network 1 US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NFL Network 1 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.504.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network FHD US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NFL Network FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.505.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NFL Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network HD US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NFL Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NFL Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7793.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Now HD US" tvg-logo="" group-title="United States",NFL Now HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Now HD US" tvg-logo="" group-title="United States",NFL Now HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.9011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NFL Redzone HD US" tvg-logo="" group-title="United States",NFL Redzone HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network HD US" tvg-logo="" group-title="United States",NHL Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHL Network US" tvg-logo="http://static.hqiptv.net/l1/nflnetwork.png" group-title="United States",NHL Network US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Winfrey Network HD US" tvg-logo="" group-title="United States",Oprah Winfrey Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7740.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oprah Winfrey Network HD US" tvg-logo="" group-title="United States",Oprah Winfrey Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outdoor Channel HD US" tvg-logo="http://static.hqiptv.net/l1/outdoorchannelhd.png" group-title="United States",Outdoor Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.493.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OuterMax FHD US" tvg-logo="" group-title="United States",OuterMax FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11788.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Arizona US" tvg-logo="" group-title="United States",PAC-12 Arizona US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Bay Area US" tvg-logo="" group-title="United States",PAC-12 Bay Area US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Los Angeles FHD US" tvg-logo="" group-title="United States",PAC-12 Los Angeles FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Oregon FHD US" tvg-logo="" group-title="United States",PAC-12 Oregon FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PAC-12 Washington FHD US" tvg-logo="" group-title="United States",PAC-12 Washington FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reelz HD US" tvg-logo="" group-title="United States",Reelz HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7739.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reelz HD US" tvg-logo="" group-title="United States",Reelz HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RetroPlex FHD US" tvg-logo="" group-title="United States",RetroPlex FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Science HD US" tvg-logo="http://static.hqiptv.net/l1/science.png" group-title="United States",Science HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7738.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Science HD US" tvg-logo="http://static.hqiptv.net/l1/science.png" group-title="United States",Science HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SEC Network HD US" tvg-logo="" group-title="United States",SEC Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7707.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7737.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 HD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime 2 US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime 2 US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.534.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="United States",Showtime East HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7736.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime East HD US" tvg-logo="" group-title="United States",Showtime East HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime FHD US" tvg-logo="http://static.hqiptv.net/l1/showtime.png" group-title="United States",Showtime FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.535.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="United States",Showtime Showcase HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7735.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase HD US" tvg-logo="" group-title="United States",Showtime Showcase HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West FHD US" tvg-logo="" group-title="United States",Showtime West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime West US" tvg-logo="" group-title="United States",Showtime West US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.485.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smile Of A Child US" tvg-logo="http://static.hqiptv.net/l1/smileofachild.png" group-title="United States",Smile Of A Child US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.492.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel US" tvg-logo="http://static.hqiptv.net/l1/smithsonianchannel.png" group-title="United States",Smithsonian Channel US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.41479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike HD US" tvg-logo="" group-title="United States",Spike HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.518.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike TV HD US" tvg-logo="" group-title="United States",Spike TV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7727.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Spike TV HD US" tvg-logo="" group-title="United States",Spike TV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet 360 HD US" tvg-logo="" group-title="United States",Sportsnet 360 HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet East HD US" tvg-logo="" group-title="United States",Sportsnet East HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet Ontario HD US" tvg-logo="" group-title="United States",Sportsnet Ontario HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sportsnet West HD US" tvg-logo="" group-title="United States",Sportsnet West HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Black FHD US" tvg-logo="" group-title="United States",Starz Black FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11785.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema East FHD US" tvg-logo="" group-title="United States",Starz Cinema East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11784.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema FHD US" tvg-logo="" group-title="United States",Starz Cinema FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11783.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema US" tvg-logo="" group-title="United States",Starz Cinema US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.536.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Cinema West FHD US" tvg-logo="" group-title="United States",Starz Cinema West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11782.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy FHD US" tvg-logo="" group-title="United States",Starz Comedy FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11781.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Comedy US" tvg-logo="" group-title="United States",Starz Comedy US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.537.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz East FHD US" tvg-logo="" group-title="United States",Starz East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge FHD US" tvg-logo="" group-title="United States",Starz Edge FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="United States",Starz Edge HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.519.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge HD US" tvg-logo="" group-title="United States",Starz Edge HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge US" tvg-logo="" group-title="United States",Starz Edge US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7780.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge West FHD US" tvg-logo="" group-title="United States",Starz Edge West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore 2 East FHD US" tvg-logo="" group-title="United States",Starz Encore 2 East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11777.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Action FHD US" tvg-logo="" group-title="United States",Starz Encore Action FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11776.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Black FHD US" tvg-logo="" group-title="United States",Starz Encore Black FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11775.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Classic FHD US" tvg-logo="" group-title="United States",Starz Encore Classic FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11774.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore East FHD US" tvg-logo="" group-title="United States",Starz Encore East FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11773.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Family FHD US" tvg-logo="" group-title="United States",Starz Encore Family FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11772.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore FHD US" tvg-logo="" group-title="United States",Starz Encore FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11771.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="United States",Starz Encore HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7731.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore HD US" tvg-logo="" group-title="United States",Starz Encore HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Suspense FHD US" tvg-logo="" group-title="United States",Starz Encore Suspense FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11770.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore US" tvg-logo="" group-title="United States",Starz Encore US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.538.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore Western FHD US" tvg-logo="" group-title="United States",Starz Encore Western FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11768.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Encore West FHD US" tvg-logo="" group-title="United States",Starz Encore West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11769.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Family FHD US" tvg-logo="" group-title="United States",Starz Family FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11767.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz FHD US" tvg-logo="" group-title="United States",Starz FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11766.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz Kids & Family FHD US" tvg-logo="" group-title="United States",Starz Kids & Family FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11765.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Starz West FHD US" tvg-logo="" group-title="United States",Starz West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11764.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Staz West FHD US" tvg-logo="" group-title="United States",Staz West FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.11763.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE FHD US" tvg-logo="http://static.hqiptv.net/l1/sundancetvhd.png" group-title="United States",SUNDANCE FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD US" tvg-logo="http://static.hqiptv.net/l1/syfyhd.png" group-title="United States",SyFy HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.548.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy HD US" tvg-logo="http://static.hqiptv.net/l1/syfyhd.png" group-title="United States",SyFy HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SyFy US" tvg-logo="http://static.hqiptv.net/l1/syfy.png" group-title="United States",SyFy US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="T.N.T FHD US" tvg-logo="" group-title="United States",T.N.T FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10131.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD US" tvg-logo="" group-title="United States",TBS HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD US" tvg-logo="http://static.hqiptv.net/l1/tlchd.png" group-title="United States",TLC HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD US" tvg-logo="http://static.hqiptv.net/l1/tnthd.png" group-title="United States",TNT HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.549.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Travel Channel HD US" tvg-logo="http://static.hqiptv.net/l1/travelchannelhd.png" group-title="United States",Travel Channel HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7694.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV HD US" tvg-logo="" group-title="United States",TruTV HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7705.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass US" tvg-logo="" group-title="United States",UFC Fight Pass US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.10130.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass US" tvg-logo="" group-title="United States",UFC Fight Pass US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.6421.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Univision HD US" tvg-logo="" group-title="United States",Univision HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7704.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA HD US" tvg-logo="" group-title="United States",USA HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7729.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA HD US" tvg-logo="" group-title="United States",USA HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="USA Network HD US" tvg-logo="http://static.hqiptv.net/l1/usanetwork.png" group-title="United States",USA Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.547.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US Network HD US" tvg-logo="http://static.hqiptv.net/l1/usanetwork.png" group-title="United States",US Network HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Classic US" tvg-logo="http://static.hqiptv.net/l1/vh1classic.png" group-title="United States",VH1 Classic US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.491.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD US" tvg-logo="" group-title="United States",WWE HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD US" tvg-logo="" group-title="United States",WWE HD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.8966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network FHD US" tvg-logo="http://static.hqiptv.net/l1/wwenetwork.png" group-title="United States",WWE Network FHD US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7544.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="WWE US" tvg-logo="" group-title="United States",WWE US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.7778.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema US" tvg-logo="http://static.hqiptv.net/l1/zeecinema.png" group-title="United States",Zee Cinema US
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.2792.m3u8
 
 
 
@@ -943,7 +1666,116 @@ http://s1.hdporus.com/content/vod/s2308/720/index.m3u8
 #EXTINF:-1 ,test 25
 https://love.mydaddy.cc/pubs/5e3310eedd74a/720.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="hqiptv.net" tvg-logo="http://static.hqiptv.net/iptv.png" group-title="provider",hqiptv.net
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic Adult" tvg-logo="" group-title="For Adults",Balkan Erotic Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13590.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Barely Legal Adult" tvg-logo="" group-title="For Adults",Barely Legal Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13571.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Beate-Uhse.TV Adult" tvg-logo="" group-title="For Adults",Beate-Uhse.TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.19550.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bizarre TV Adult" tvg-logo="" group-title="For Adults",Bizarre TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13572.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Adult" tvg-logo="http://static.hqiptv.net/l1/brazzerstv.png" group-title="For Adults",Brazzers TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13585.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CentoXCento Adult" tvg-logo="" group-title="For Adults",CentoXCento Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13588.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dorcel TV FHD Adult" tvg-logo="http://static.hqiptv.net/l1/dorceltvhd.png" group-title="For Adults",Dorcel TV FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13587.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dusk Adult" tvg-logo="" group-title="For Adults",Dusk Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13586.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Erox TV Adult" tvg-logo="" group-title="For Adults",Erox TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13570.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eroxxx TV Adult" tvg-logo="" group-title="For Adults",Eroxxx TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13569.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Evil Angel Adult" tvg-logo="http://static.hqiptv.net/l1/evilangeltv.png" group-title="For Adults",Evil Angel Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13584.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 1 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 1 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13561.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 2 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 2 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13560.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 3 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 3 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13559.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 4 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 4 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13558.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 5 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 5 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13557.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 6 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 6 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13556.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 7 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 7 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13555.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 8 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 8 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HotClub 9 FHD Adult" tvg-logo="" group-title="For Adults",HotClub 9 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13553.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hustler TV FHD Adult" tvg-logo="" group-title="For Adults",Hustler TV FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13583.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jasmin.tv Adult" tvg-logo="" group-title="For Adults",Jasmin.tv Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13568.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Max XXX 1 FHD Adult" tvg-logo="" group-title="For Adults",Max XXX 1 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meiden Van Holland Hard Adult" tvg-logo="http://static.hqiptv.net/l1/meidenvanhollandhard.png" group-title="For Adults",Meiden Van Holland Hard Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13562.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 1 FHD Adult" tvg-logo="" group-title="For Adults",Movies Cinema Erotic 1 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13595.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 2 FHD Adult" tvg-logo="" group-title="For Adults",Movies Cinema Erotic 2 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13594.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 3 FHD Adult" tvg-logo="" group-title="For Adults",Movies Cinema Erotic 3 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13593.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 4 FHD Adult" tvg-logo="" group-title="For Adults",Movies Cinema Erotic 4 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13592.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Movies Cinema Erotic 5 FHD Adult" tvg-logo="" group-title="For Adults",Movies Cinema Erotic 5 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PassieXXX Adult" tvg-logo="http://static.hqiptv.net/l1/passiexxx.png" group-title="For Adults",PassieXXX Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13589.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 1 FHD Adult" tvg-logo="" group-title="For Adults",Penthouse 1 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13581.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse 2 FHD Adult" tvg-logo="" group-title="For Adults",Penthouse 2 FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13580.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD Adult" tvg-logo="" group-title="For Adults",Penthouse Gold FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13582.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 1 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 1 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 2 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 3 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13599.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 4 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13598.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 5 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 5 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13597.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 6 Adult" tvg-logo="" group-title="For Adults",Pink Erotic 6 Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13596.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pinko TV Adult" tvg-logo="" group-title="For Adults",Pinko TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13579.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PlayBoy Adult" tvg-logo="http://static.hqiptv.net/l1/playboytv.png" group-title="For Adults",PlayBoy Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13578.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Private HD Adult" tvg-logo="" group-title="For Adults",Private HD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13577.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q Premium XXX 1 FHD AL ADULT" tvg-logo="" group-title="For Adults",Q Premium XXX 1 FHD AL ADULT
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.74250.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q Premium XXX 2 FHD AL ADULT" tvg-logo="" group-title="For Adults",Q Premium XXX 2 FHD AL ADULT
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.74249.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Q Premium XXX 3 FHD AL ADULT" tvg-logo="" group-title="For Adults",Q Premium XXX 3 FHD AL ADULT
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.74248.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Reality Kings TV Adult" tvg-logo="http://static.hqiptv.net/l1/realitykingstv.png" group-title="For Adults",Reality Kings TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13567.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Redlight FHD ADult" tvg-logo="http://static.hqiptv.net/l1/redlighthd.png" group-title="For Adults",Redlight FHD ADult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13576.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCT Adult" tvg-logo="http://static.hqiptv.net/l1/adult.png" group-title="For Adults",SCT Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sesto Senso TV Adult" tvg-logo="" group-title="For Adults",Sesto Senso TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13574.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV Adult" tvg-logo="" group-title="For Adults",Venus TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13573.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vivid Red FHD Adult" tvg-logo="" group-title="For Adults",Vivid Red FHD Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13565.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vivid TV Adult" tvg-logo="" group-title="For Adults",Vivid TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13566.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XXL TV Adult" tvg-logo="" group-title="For Adults",XXL TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13564.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="XYPlus HD TV Adult" tvg-logo="" group-title="For Adults",XYPlus HD TV Adult
+http://api.hqiptv.xyz/?91e9709ce67a/live/0.13563.m3u8
 
 
 
