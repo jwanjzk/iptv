@@ -289,7 +289,7 @@ https://sync1.iptv.bingo/live/606?u=181253
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
-#EXTINF:-1 tvg-id="" tvg-name="5 StarMax FHD US" tvg-logo="" group-title="United States",5 StarMax FHD US
+#EXTINF:-1 tvg-id="" tvg-name="5 StarMax FHD US" tvg-logo="" group-title="MOVIE",5 StarMax FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11842.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A&E HD US" tvg-logo="" group-title="United States",A&E HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.550.m3u8
@@ -469,39 +469,39 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.11803.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11802.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cinema 41 PPV FHD US" tvg-logo="" group-title="United States",Cinema 41 PPV FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax 5 StarMax US" tvg-logo="" group-title="United States",CineMax 5 StarMax US
+#EXTINF:-1 tvg-id="" tvg-name="CineMax 5 StarMax US" tvg-logo="" group-title="MOVIE",CineMax 5 StarMax US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.507.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",Cinemax Action 2 FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="MOVIE",Cinemax Action 2 FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action East FHD US" tvg-logo="" group-title="United States",Cinemax Action East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action East FHD US" tvg-logo="" group-title="MOVIE",Cinemax Action East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",CineMax Action HD US
+#EXTINF:-1 tvg-id="" tvg-name="CineMax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="MOVIE",CineMax Action HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.567.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="United States",Cinemax Action HD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action HD US" tvg-logo="http://static.hqiptv.net/l1/skycinemaactionhd.png" group-title="MOVIE",Cinemax Action HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.9004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax ActionMax East US" tvg-logo="" group-title="United States",CineMax ActionMax East US
+#EXTINF:-1 tvg-id="" tvg-name="CineMax ActionMax East US" tvg-logo="" group-title="MOVIE",CineMax ActionMax East US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.508.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action US" tvg-logo="http://static.hqiptv.net/l1/skycinemaaction.png" group-title="United States",Cinemax Action US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax Action US" tvg-logo="http://static.hqiptv.net/l1/skycinemaaction.png" group-title="MOVIE",Cinemax Action US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax East FHD US" tvg-logo="" group-title="United States",Cinemax East FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax East FHD US" tvg-logo="" group-title="MOVIE",Cinemax East FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax East US" tvg-logo="" group-title="United States",CineMax East US
+#EXTINF:-1 tvg-id="" tvg-name="CineMax East US" tvg-logo="" group-title="MOVIE",CineMax East US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.509.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="United States",Cinemax More HD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="MOVIE",Cinemax More HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7768.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="United States",Cinemax More HD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax More HD US" tvg-logo="" group-title="MOVIE",Cinemax More HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.9003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CineMax MoreMax US" tvg-logo="" group-title="United States",CineMax MoreMax US
+#EXTINF:-1 tvg-id="" tvg-name="CineMax MoreMax US" tvg-logo="" group-title="MOVIE",CineMax MoreMax US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.501.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax West FHD US" tvg-logo="" group-title="United States",Cinemax West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax West FHD US" tvg-logo="" group-title="MOVIE",Cinemax West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11797.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="http://static.hqiptv.net/l1/cnbc.png" group-title="United States",CNBC US
+#EXTINF:-1 tvg-id="" tvg-name="CNBC US" tvg-logo="http://static.hqiptv.net/l1/cnbc.png" group-title="NEWS",CNBC US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.525.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN FHD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN FHD US
+#EXTINF:-1 tvg-id="" tvg-name="CNN FHD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="NEWS",CNN FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN HD US
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="NEWS",CNN HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="United States",CNN HD US
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD US" tvg-logo="http://static.hqiptv.net/l1/cnnhd.png" group-title="NEWS",CNN HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.9005.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Comedy Central FHD US" tvg-logo="http://static.hqiptv.net/l1/comedycentralhd.png" group-title="United States",Comedy Central FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.542.m3u8
@@ -563,37 +563,37 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.8956.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7715.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="El Rey Network HD US" tvg-logo="" group-title="United States",El Rey Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD US" tvg-logo="" group-title="United States",ESPN 1 FHD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 FHD US" tvg-logo="" group-title="SPORT",ESPN 1 FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 1 HD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="SPORT",ESPN 1 HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7763.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 1 HD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="SPORT",ESPN 1 HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="United States",ESPN 1 US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="SPORT",ESPN 1 US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="United States",ESPN 1 US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 1 US" tvg-logo="http://static.hqiptv.net/l1/espnu.png" group-title="SPORT",ESPN 1 US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.552.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="United States",ESPN 2 FHD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="SPORT",ESPN 2 FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="United States",ESPN 2 FHD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD US" tvg-logo="" group-title="SPORT",ESPN 2 FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.569.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN 2 HD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="SPORT",ESPN 2 HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="United States",ESPN 2 US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="SPORT",ESPN 2 US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="United States",ESPN 2 US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 US" tvg-logo="http://static.hqiptv.net/l1/espn2.png" group-title="SPORT",ESPN 2 US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7787.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN HD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="SPORT",ESPN HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.544.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="United States",ESPN U HD US
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U HD US" tvg-logo="http://static.hqiptv.net/l1/espnhd.png" group-title="SPORT",ESPN U HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Family HD US" tvg-logo="http://static.hqiptv.net/l1/jojfamilyhd.png" group-title="United States",Family HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.10184.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fashion One HD US" tvg-logo="http://static.hqiptv.net/l1/fashiononehd.png" group-title="United States",Fashion One HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.498.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight HD US" tvg-logo="" group-title="United States",Fight HD US
+#EXTINF:-1 tvg-id="" tvg-name="Fight HD US" tvg-logo="" group-title="SPORT",Fight HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.529.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fight Sport HD US" tvg-logo="" group-title="United States",Fight Sport HD US
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport HD US" tvg-logo="" group-title="SPORT",Fight Sport HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.584.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fine Living US" tvg-logo="http://static.hqiptv.net/l1/fineliving.png" group-title="United States",Fine Living US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.497.m3u8
@@ -691,33 +691,33 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.8961.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.46888.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hallmark US" tvg-logo="" group-title="United States",Hallmark US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.515.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/hbo2hd.png" group-title="United States",HBO 2 FHD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 FHD US" tvg-logo="http://static.hqiptv.net/l1/hbo2hd.png" group-title="MOVIE",HBO 2 FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11796.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO 2 West FHD US" tvg-logo="" group-title="United States",HBO 2 West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2 West FHD US" tvg-logo="" group-title="MOVIE",HBO 2 West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11795.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="http://static.hqiptv.net/l1/hbocomedyhd.png" group-title="United States",HBO Comedy HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Comedy HD US" tvg-logo="http://static.hqiptv.net/l1/hbocomedyhd.png" group-title="MOVIE",HBO Comedy HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.530.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO East US" tvg-logo="" group-title="United States",HBO East US
+#EXTINF:-1 tvg-id="" tvg-name="HBO East US" tvg-logo="" group-title="MOVIE",HBO East US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.483.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="United States",HBO Family HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="MOVIE",HBO Family HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="United States",HBO Family HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD US" tvg-logo="" group-title="MOVIE",HBO Family HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8944.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO HD US" tvg-logo="http://static.hqiptv.net/l1/hbohd.png" group-title="United States",HBO HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD US" tvg-logo="http://static.hqiptv.net/l1/hbohd.png" group-title="MOVIE",HBO HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.531.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Plus West FHD US" tvg-logo="" group-title="United States",HBO Plus West FHD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Plus West FHD US" tvg-logo="" group-title="MOVIE",HBO Plus West FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11794.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD US" tvg-logo="" group-title="United States",HBO Signature FHD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD US" tvg-logo="" group-title="MOVIE",HBO Signature FHD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.11793.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="United States",HBO Signature HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="MOVIE",HBO Signature HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="United States",HBO Signature HD US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD US" tvg-logo="" group-title="MOVIE",HBO Signature HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8943.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature US" tvg-logo="" group-title="United States",HBO Signature US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature US" tvg-logo="" group-title="MOVIE",HBO Signature US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO US" tvg-logo="" group-title="United States",HBO US
+#EXTINF:-1 tvg-id="" tvg-name="HBO US" tvg-logo="" group-title="MOVIE",HBO US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7776.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Zone US" tvg-logo="" group-title="United States",HBO Zone US
+#EXTINF:-1 tvg-id="" tvg-name="HBO Zone US" tvg-logo="" group-title="MOVIE",HBO Zone US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.532.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HGTV HD US" tvg-logo="" group-title="United States",HGTV HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.495.m3u8
@@ -745,9 +745,9 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.8951.m3u8
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7745.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lifetime HD US" tvg-logo="http://static.hqiptv.net/l1/lifetimehd.png" group-title="United States",Lifetime HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MLB HD US" tvg-logo="" group-title="United States",MLB HD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB HD US" tvg-logo="" group-title="SPORT",MLB HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.573.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="United States",MLB Network HD US
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="SPORT",MLB Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.7701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MLB Network HD US" tvg-logo="" group-title="United States",MLB Network HD US
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.8975.m3u8
