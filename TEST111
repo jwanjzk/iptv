@@ -7,65 +7,35 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="", 1134446
-https://sync1.iptv.bingo/live/650?u=181253
+#EXTINF:-1 tvg-logo="" group-title="", 1134
+https://sync1.iptv.bingo/live/660?u=181253
 
 #EXTINF:-1 tvg-logo="", 22
-https://sync1.iptv.bingo/live/651
+https://sync1.iptv.bingo/live/661
 
 #EXTINF:-1 tvg-logo="", 33
-https://sync1.iptv.bingo/live/652
+https://sync1.iptv.bingo/live/662
 
 #EXTINF:-1 tvg-logo=", 44
-https://sync1.iptv.bingo/live/653
+https://sync1.iptv.bingo/live/663
 
 #EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654
+https://sync1.iptv.bingo/live/664
 
 #EXTINF:-1 tvg-logo="", 66
-https://sync1.iptv.bingo/live/655?u=181253
+https://sync1.iptv.bingo/live/665?u=181253
 
 #EXTINF:-1 tvg-logo="", 77
-https://sync1.iptv.bingo/live/656?u=181253
+https://sync1.iptv.bingo/live/666?u=181253
 
 #EXTINF:-1 tvg-logo="", 88
-https://sync1.iptv.bingo/live/657?u=181253
+https://sync1.iptv.bingo/live/667?u=181253
 
 #EXTINF:-1 tvg-logo="", 99
-https://sync1.iptv.bingo/live/658?u=181253
+https://sync1.iptv.bingo/live/668?u=181253
 
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181253
-
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181254
-
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181255
-
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181256
-
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181257
-
-#EXTINF:-1 tvg-logo="", 99332
-https://sync1.iptv.bingo/live/659?u=181258
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181254
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181255
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181256
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181257
-
-#EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/654?u=181258
+#EXTINF:-1 tvg-logo="", 99333
+https://sync1.iptv.bingo/live/669?u=181253
 
 
 #EXTINF:-1 ,test 2
