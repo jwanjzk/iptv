@@ -7,35 +7,35 @@ http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/index_1286_av-b.m3u8
 https://cvtv.cvalley.net/hls/NBC/NBC.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="", 113
-https://sync1.iptv.bingo/live/680?u=181253
+#EXTINF:-1 tvg-logo="" group-title="", 1135555
+https://sync1.iptv.bingo/live/690?u=181253
 
 #EXTINF:-1 tvg-logo="", 22
-https://sync1.iptv.bingo/live/681
+https://sync1.iptv.bingo/live/691
 
 #EXTINF:-1 tvg-logo="", 33
-https://sync1.iptv.bingo/live/682
+https://sync1.iptv.bingo/live/692
 
 #EXTINF:-1 tvg-logo=", 44
-https://sync1.iptv.bingo/live/683
+https://sync1.iptv.bingo/live/693
 
 #EXTINF:-1 tvg-logo="", 55
-https://sync1.iptv.bingo/live/684
+https://sync1.iptv.bingo/live/694
 
 #EXTINF:-1 tvg-logo="", 66
-https://sync1.iptv.bingo/live/685?u=181253
+https://sync1.iptv.bingo/live/695?u=181253
 
 #EXTINF:-1 tvg-logo="", 77
-https://sync1.iptv.bingo/live/686?u=181253
+https://sync1.iptv.bingo/live/696?u=181253
 
 #EXTINF:-1 tvg-logo="", 88
-https://sync1.iptv.bingo/live/687?u=181253
+https://sync1.iptv.bingo/live/697?u=181253
 
 #EXTINF:-1 tvg-logo="", 99
-https://sync1.iptv.bingo/live/688?u=181253
+https://sync1.iptv.bingo/live/698?u=181253
 
 #EXTINF:-1 tvg-logo="", 99333
-https://sync1.iptv.bingo/live/689?u=181253
+https://sync1.iptv.bingo/live/699?u=181253
 
 
 #EXTINF:-1 ,test 2
