@@ -37,6 +37,67 @@ https://sync1.iptv.bingo/live/978?u=181253
 #EXTINF:-1 tvg-logo="", 99333
 https://sync1.iptv.bingo/live/979?u=181253
 
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 12
+https://sync1.iptv.bingo/live/550?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 13
+https://sync1.iptv.bingo/live/551?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 14
+https://sync1.iptv.bingo/live/552?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 15
+https://sync1.iptv.bingo/live/553?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 16
+https://sync1.iptv.bingo/live/554?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 17
+https://sync1.iptv.bingo/live/555?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 18
+https://sync1.iptv.bingo/live/556?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 19
+https://sync1.iptv.bingo/live/557?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 20
+https://sync1.iptv.bingo/live/558?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 21
+https://sync1.iptv.bingo/live/559?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 22
+https://sync1.iptv.bingo/live/560?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 23
+https://sync1.iptv.bingo/live/561?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 24
+https://sync1.iptv.bingo/live/562?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 25
+https://sync1.iptv.bingo/live/563?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 26
+https://sync1.iptv.bingo/live/564?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 27
+https://sync1.iptv.bingo/live/565?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 28
+https://sync1.iptv.bingo/live/566?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 29
+https://sync1.iptv.bingo/live/567?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 30
+https://sync1.iptv.bingo/live/568?u=181253
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", 31
+https://sync1.iptv.bingo/live/569?u=181253
+
+
 
 #EXTINF:-1 ,test 2
 https://streamingserver002.viewtvgroup.com/kapanglocal-playout-master/index.m3u8
