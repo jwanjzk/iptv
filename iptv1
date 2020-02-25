@@ -257,7 +257,7 @@ https://sync1.iptv.bingo/live/402?u=181253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/188px-MTV_Live_HD_2017_logo.svg.png" group-title="MUSIC", MTV LIVE
 https://sync1.iptv.bingo/live/403?u=181253
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Reelz.svg/375px-Reelz.svg.png" group-title="", REELZ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Reelz.svg/375px-Reelz.svg.png" group-title="DAVE", REELZ
 https://sync1.iptv.bingo/live/404?u=181253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/ESPN%2B_logo.png/375px-ESPN%2B_logo.png" group-title="SPORT", ESPN PLUS
@@ -445,12 +445,58 @@ https://sync1.iptv.bingo/live/304
 https://sync1.iptv.bingo/live/305
 
 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Pop.svg/revision/latest/scale-to-width-down/80?cb=20171005135852" group-title="DAVE", POP
+https://sync1.iptv.bingo/live/307
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dc/TLC_%282006%29.svg/revision/latest/scale-to-width-down/80?cb=20171218083551" group-title="DAVE", TLC
+https://sync1.iptv.bingo/live/309
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/85/Travel_Channel_2018.svg/revision/latest/scale-to-width-down/80?cb=20181019115634" group-title="DAVE", TRAVEL CHANNEL
+https://sync1.iptv.bingo/live/310
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a7/Vice.svg/revision/latest/scale-to-width-down/300?cb=20170220145658" group-title="DAVE", VICE
+https://sync1.iptv.bingo/live/311
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/WE_tv_logo_2014.svg/revision/latest/scale-to-width-down/66?cb=20181209164308" group-title="DAVE", WE TV
+https://sync1.iptv.bingo/live/312
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/06/YES_Network_logo.png/revision/latest/scale-to-width-down/200?cb=20170212000304" group-title="SPORT", YES NETWORK
+https://sync1.iptv.bingo/live/313
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/Oprah_Winfrey_Network.svg/revision/latest/scale-to-width-down/250?cb=20170420010759" group-title="DAVE", OWN
+https://sync1.iptv.bingo/live/316
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/25/HLN_2017.svg/revision/latest/scale-to-width-down/50?cb=20180305210847" group-title="NEWS", HLN
+https://sync1.iptv.bingo/live/319
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b0/Hallmark_Drama.svg/revision/latest/scale-to-width-down/200?cb=20171101204807" group-title="DAVE", HALLMARK DRAMA
+https://sync1.iptv.bingo/live/320
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Hallmark_Movies_%26_Mysteries.svg/revision/latest/scale-to-width-down/80?cb=20171222100412" group-title="DAVE", HALLMARK MOVIES & MYSTERIES
+https://sync1.iptv.bingo/live/321
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Hallmark_Channel.svg/revision/latest/scale-to-width-down/250?cb=20160517142113" group-title="DAVE", HALLMARK
+https://sync1.iptv.bingo/live/322
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Ginx_eSports_TV_logo.png/revision/latest/scale-to-width-down/250?cb=20180802155555" group-title="SPORT", GINX ESPORTS
+https://sync1.iptv.bingo/live/323
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/Cozi_TV_2018.svg/revision/latest/scale-to-width-down/250?cb=20190815160615" group-title="DAVE", COZI
+https://sync1.iptv.bingo/live/327
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2c/BBC_America_1998.svg/revision/latest/scale-to-width-down/325?cb=20160731155251" group-title="DAVE", BBC AMERICA
+https://sync1.iptv.bingo/live/587
 
 
 
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", PX SPORTS
+https://sync1.iptv.bingo/live/587
 
 #EXTINF:-1 tvg-logo="" group-title="",
 
