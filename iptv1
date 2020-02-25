@@ -359,10 +359,58 @@ https://sync1.iptv.bingo/live/609?u=181253
 #EXTINF:-1 tvg-logo="" group-title="", ABC 9
 https://sync1.iptv.bingo/live/606?u=181253
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo=", 973
+https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo=", 974
+https://sync1.iptv.bingo/live/974
+
+#EXTINF:-1 tvg-logo=", 977
+https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="CBS", CBS
+https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo="https://i.forbesimg.com/media/lists/companies/cbs_416x416.jpg" group-title="CBS", CBS 11 Colorado Springs
+https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/MSG%2B%27s_Video_ID_From_2008.png/revision/latest/scale-to-width-down/185?cb=20120806122020" group-title="SPORT", MSG 2
+https://sync1.iptv.bingo/live/570
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/79/MSG%2B%27s_Video_ID_From_2008.png/revision/latest/scale-to-width-down/185?cb=20120806122020" group-title="SPORT", MSG 2
+https://sync1.iptv.bingo/live/571
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8b/Msg_hd.png/revision/latest/scale-to-width-down/185?cb=20200129202052" group-title="SPORT", MSG
+https://sync1.iptv.bingo/live/973
+
+#EXTINF:-1 tvg-logo=", GAME
+https://sync1.iptv.bingo/live/575
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2d/Vegas_Stats_%26_Information_Network_logo.png" group-title="SPORT" , VSIN
+https://sync1.iptv.bingo/live/576
+
+#EXTINF:-1 tvg-logo=", FISHING
+https://sync1.iptv.bingo/live/577
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/SPMN-main.gif/revision/latest/scale-to-width-down/200?cb=20130827194502" group-title="SPORT", SPORTMAN
+https://sync1.iptv.bingo/live/579
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", NHL NETWORK
+https://sync1.iptv.bingo/live/582
 
 
-#EXTINF:-1 tvg-logo="" group-title="",
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest/scale-to-width-down/180?cb=20191026180443" group-title="SPORT", FIGHT SPORTS
+https://sync1.iptv.bingo/live/578
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/TVG_logo.svg/revision/latest/scale-to-width-down/200?cb=20100404072709" group-title="SPORT", TVG
+https://sync1.iptv.bingo/live/580
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/TVG_logo.svg/revision/latest/scale-to-width-down/200?cb=20100404072709" group-title="SPORT", TVG
+https://sync1.iptv.bingo/live/581
+
+#EXTINF:-1 tvg-logo="" group-title="SPORT", SNY
+https://sync1.iptv.bingo/live/583
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",
@@ -931,6 +979,8 @@ http://api.hqiptv.xyz/?91e9709ce67a/live/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CentoXCento Adult" tvg-logo="" group-title="For Adults",CentoXCento Adult
 http://api.hqiptv.xyz/?91e9709ce67a/live/0.13588.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="", Brazzer
+http://bmiptv.live:5858/free/free/6878
 
 
 
